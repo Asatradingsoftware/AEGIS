@@ -6,8 +6,8 @@ import numpy as np
 import yfinance as yf
 
 st.set_page_config(
-    page_title="Ex-stream-ly Cool App",
-    page_icon="🧊",
+    page_title="AEGIST TL Quant Macro Alpha",
+    page_icon="https://aegisportfolio.com/wp-content/uploads/2022/06/icon-only.jpg",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
