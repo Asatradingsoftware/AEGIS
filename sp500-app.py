@@ -31,7 +31,7 @@ st.sidebar.write("AEGIS TL er en matematisk baseret algoritme, der kan rangerere
 
 
 
-tab1, tab2, tab3, tab4 = st.tabs(["Overview", "Results", "Portfolio", "Drawdown", "Probability & Correlation"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Results", "Portfolio", "Drawdown", "Probability & Correlation"])
 
 with tab1:
     st.subheader("Overview")
