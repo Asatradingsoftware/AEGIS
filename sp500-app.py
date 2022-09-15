@@ -1,4 +1,5 @@
 import streamlit as st
+from annotated_text import annotated_text
 import pandas as pd
 import base64
 import matplotlib.pyplot as plt
@@ -39,6 +40,20 @@ with tab1:
     st.write("AEGIS strategy: ")
     st.write("How many stocks: 30 stocks")
     st.write("Top holdings: Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted")
+    
+    annotated_text(
+        "This ",
+        ("is", "verb", "#8ef"),
+        " some ",
+        ("annotated", "adj", "#faa"),
+        ("text", "noun", "#afa"),
+        " for those of ",
+        ("you", "pronoun", "#fea"),
+        " who ",
+        ("like", "verb", "#8ef"),
+        " this sort of ",
+        ("thing", "noun", "#afa"),
+    )    
     
 with tab2:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")  
