@@ -19,7 +19,7 @@ st.set_page_config(
 
 st.title('AEGIST TL Quant Macro Alpha')
 
-st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/name-aegis-transparent.png", width=250)
+st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-transparent.png", width=250)
 
 tab1, tab2, tab3, tab4 = st.tabs(["Results", "Portfolio", "Drawdown", "Probability & Correlation"])
 
