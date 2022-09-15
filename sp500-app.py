@@ -23,10 +23,13 @@ st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wid
 
 st.sidebar.title("Welcome to AEGIS")
 
-st.sidebar.subheader("Quant Macro Alpha")
-
 with st.sidebar:
     components.html("""<hr style="height:5px;border:none;color:#48bc95;background-color:#48bc95;" /> """)
+
+st.sidebar.subheader("AEGIS TL")
+st.sidebar.write("AEGIS TL er en matematisk baseret algoritme, der kan rangerere fremtidig volatilitet. TL står for Top List. Der er en korrelation på 100% mellem volatilitet og afkast, hvilket kan bevises matematisk. Eftersom AEGIS kan rangerer volatilitet, kan man kontrollere 100% den ønsket volatilitet i sin portefølje sammenlignet med markedet. ")
+
+
 
 tab1, tab2, tab3, tab4 = st.tabs(["Results", "Portfolio", "Drawdown", "Probability & Correlation"])
 
