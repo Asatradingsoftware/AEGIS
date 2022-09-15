@@ -22,7 +22,7 @@ st.title('AEGIST TL Quant Macro Alpha')
 
 st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wide.png", width=250)
 
-st.sidebar.title("Welcome to AEGIS")
+st.sidebar.title("Welcome to AEGIS TL")
 
 st.sidebar.write("AEGIS TL is a mathematically based algorithm that can rank future volatility. TL stands for Top List. There is a 100% correlation between volatility and returns, which can be proven mathematically. Since AEGIS can rank volatility, you can control 100% the desired volatility in your portfolio compared to the market. In this way, you can put together everything from the prudent pension portfolio to a more alpha portfolio.")
 
