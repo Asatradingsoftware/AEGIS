@@ -3,7 +3,7 @@ import pandas as pd
 import base64
 import matplotlib.pyplot as plt
 import numpy as np
-import yfinance as yf
+import streamlit.components.v1 as components
 
 st.set_page_config(
     page_title="AEGIST TL Quant Macro Alpha",
