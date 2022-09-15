@@ -21,6 +21,10 @@ st.title('AEGIST TL Quant Macro Alpha')
 
 st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wide.png", width=250)
 
+st.sidebar.title("Welcome to AEGIS")
+
+st.sidebar.subheader("Quant Macro Alpha<br><hl>")
+
 tab1, tab2, tab3, tab4 = st.tabs(["Results", "Portfolio", "Drawdown", "Probability & Correlation"])
 
 with tab1:
