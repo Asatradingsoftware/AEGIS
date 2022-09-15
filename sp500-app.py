@@ -36,15 +36,26 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Results", "Portfolio", "Dra
 
 with tab1:
     st.subheader("Overview")
-    st.write("AEGIS objective: To outperform the Benchmark over rolling 1-3 years periods")
-    st.write("AEGIS strategy: ")
-    st.write("How many stocks: 30 stocks")
-    st.write("Top holdings: Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted")
     
     annotated_text(
         ("AEGIS objective", ":", "#48bc95"),
-        " AEGIS objective: To outperform the Benchmark over rolling 1-3 years periods ",
+        " To outperform the Benchmark over rolling 1-3 years periods ",
     )
+    
+    annotated_text(
+        ("AEGIS strategy", ":", "#8097a5"),
+        " To outperform the Benchmark over rolling 1-3 years periods ",
+    )    
+    
+    annotated_text(
+        ("How many stocks", ":", "#02314b"),
+        " 30 stocks ",
+    )   
+    
+    annotated_text(
+        ("Top holdings", ":", "#02314b"),
+        " Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted ",
+    )     
     
 with tab2:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")  
