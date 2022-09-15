@@ -42,7 +42,7 @@ with tab1:
     st.write("Top holdings: Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted")
     
     annotated_text(
-        ("annotated", "adj", "#faa")
+        ("Overview", "#48bc95", "jkalsdf asjlkdf")
     )    
     
 with tab2:
