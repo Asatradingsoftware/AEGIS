@@ -27,7 +27,7 @@ with st.sidebar:
     components.html("""<hr style="height:5px;border:none;color:#48bc95;background-color:#48bc95;" /> """)
 
 st.sidebar.subheader("AEGIS TL")
-st.sidebar.write("AEGIS TL er en matematisk baseret algoritme, der kan rangerere fremtidig volatilitet. TL står for Top List. Der er en korrelation på 100% mellem volatilitet og afkast, hvilket kan bevises matematisk. Eftersom AEGIS kan rangerer volatilitet, kan man kontrollere 100% den ønsket volatilitet i sin portefølje sammenlignet med markedet. ")
+st.sidebar.write("AEGIS TL er en matematisk baseret algoritme, der kan rangererer fremtidig volatilitet. TL står for Top List. Der er en korrelation på 100% mellem volatilitet og afkast, hvilket kan bevises matematisk. Eftersom AEGIS kan rangerer volatilitet, kan man kontrollere 100% den ønskede volatilitet i sin portefølje sammenlignet med markedet. Dermed kan man sammensætte alt fra den forsigtige pensions portefølje over til et mere alpha præget portefølje.")
 
 
 
