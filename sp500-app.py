@@ -43,17 +43,24 @@ with tab1:
     )
     text = '''
     ---
+    
     '''    
     annotated_text(
         ("AEGIS strategy", ":", "#8097a5"),
         " To outperform the Benchmark over rolling 1-3 years periods ",
     )    
+    text = '''
+    ---
     
+    '''     
     annotated_text(
         ("How many stocks", ":", "#02314b"),
         " 30 stocks ",
     )   
+    text = '''
+    ---
     
+    '''     
     annotated_text(
         ("Top holdings", ":", "#e6535d"),
         " Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted ",
