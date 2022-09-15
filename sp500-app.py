@@ -42,16 +42,8 @@ with tab1:
     st.write("Top holdings: Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted")
     
     annotated_text(
-        ("AEGIS objective", ":", "#8ef"),
+        ("AEGIS objective", ":", "#48bc95"),
         " AEGIS objective: To outperform the Benchmark over rolling 1-3 years periods ",
-        ("annotated", "adj", "#faa"),
-        ("text", "noun", "#afa"),
-        " for those of ",
-        ("you", "pronoun", "#fea"),
-        " who ",
-        ("like", "verb", "#8ef"),
-        " this sort of ",
-        ("thing", "noun", "#afa"),
     )
     
 with tab2:
