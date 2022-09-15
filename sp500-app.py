@@ -41,17 +41,17 @@ with tab1:
         ("AEGIS objective", ":", "#48bc95"),
         " To outperform the Benchmark over rolling 1-3 years periods ",
     )
-    components.html("""<hr style="height:1px;border:none;color:#8097a5;background-color:#8097a5;" /> """)   
+    st.write("")
     annotated_text(
         ("AEGIS strategy", ":", "#8097a5"),
         " To outperform the Benchmark over rolling 1-3 years periods ",
     )    
-    components.html("""<hr style="height:1px;border:none;color:#8097a5;background-color:#8097a5;" /> """)      
+    st.write("")     
     annotated_text(
         ("How many stocks", ":", "#02314b"),
         " 30 stocks ",
     )   
-    components.html("""<hr style="height:1px;border:none;color:#8097a5;background-color:#8097a5;" /> """)        
+    st.write("")    
     annotated_text(
         ("Top holdings", ":", "#e6535d"),
         " Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted ",
