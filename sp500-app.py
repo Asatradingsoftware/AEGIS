@@ -18,7 +18,7 @@ st.set_page_config(
     }
 )
 
-st.title('AEGIST TL Quant Macro Alpha')
+st.title('AEGIS TL Quant Macro Alpha')
 
 st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wide.png", width=250)
 
@@ -42,7 +42,7 @@ with tab1:
     st.write("")
     annotated_text(
         ("AEGIS strategy", ":", "#8097a5"),
-        " To outperform the Benchmark over rolling 1-3 years periods ",
+        " AEGIS TL Quant Macro Alpha use the ability to rank volatility to achieve controlled alpha. The quant of macro data give a high probability to gain even in a bear market, as long the volatility in the market is under control.",
     )    
     st.write("")     
     annotated_text(
