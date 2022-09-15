@@ -55,6 +55,12 @@ with tab1:
         " Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted ",
     )     
     
+    st.subheader("Riskindicator")
+    
+    st.image("https://aegisportfolio.com/wp-content/uploads/2022/09/riskprofile.png", width=510)
+    
+    
+    
 with tab2:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")  
     
