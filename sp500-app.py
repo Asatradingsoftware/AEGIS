@@ -26,7 +26,7 @@ st.sidebar.title("Welcome to AEGIS")
 st.sidebar.subheader("Quant Macro Alpha")
 
 with st.sidebar:
-    components.html("""<hr style="height:10px;border:none;color:#333;background-color:#333;" /> """)
+    components.html("""<hr style="height:5px;border:none;color:#48bc95;background-color:#48bc95;" /> """)
 
 tab1, tab2, tab3, tab4 = st.tabs(["Results", "Portfolio", "Drawdown", "Probability & Correlation"])
 
