@@ -7,15 +7,6 @@ import yfinance as yf
 
 st.title('S&P 500 App')
 
-st.set_page_config(
-     page_title="AEGIST TL Quant Macro Alpha",
-     page_icon="https://aegisportfolio.com/wp-content/uploads/2022/06/icon-only.jpg",
-     layout="wide",
-     initial_sidebar_state="expanded"
-
- )
-
-
 st.sidebar.header('User Input Features')
 
 # Web scraping of S&P 500 data
