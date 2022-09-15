@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import yfinance as yf
 
-st.title('S&P 500 App')
+st.title('AEGIST TL Quant Macro Alpha')
 
 st.sidebar.header('User Input Features')
 
