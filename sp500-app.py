@@ -24,12 +24,10 @@ st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wid
 
 st.sidebar.title("Welcome to AEGIS")
 
+st.sidebar.write("AEGIS TL is a mathematically based algorithm that can rank future volatility. TL stands for Top List. There is a 100% correlation between volatility and returns, which can be proven mathematically. Since AEGIS can rank volatility, you can control 100% the desired volatility in your portfolio compared to the market. In this way, you can put together everything from the prudent pension portfolio to a more alpha portfolio.")
+
 with st.sidebar:
     components.html("""<hr style="height:5px;border:none;color:#48bc95;background-color:#48bc95;" /> """)
-
-st.sidebar.subheader("AEGIS TL")
-st.sidebar.write("AEGIS TL er en matematisk baseret algoritme, der kan rangererer fremtidig volatilitet. TL står for Top List. Der er en korrelation på 100% mellem volatilitet og afkast, hvilket kan bevises matematisk. Eftersom AEGIS kan rangerer volatilitet, kan man kontrollere 100% den ønskede volatilitet i sin portefølje sammenlignet med markedet. Dermed kan man sammensætte alt fra den forsigtige pensions portefølje over til et mere alpha præget portefølje.")
-
 
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Results", "Portfolio", "Drawdown", "Probability & Correlation"])
