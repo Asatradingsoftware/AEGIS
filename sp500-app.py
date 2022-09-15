@@ -31,10 +31,14 @@ st.sidebar.write("AEGIS TL er en matematisk baseret algoritme, der kan rangerere
 
 
 
-tab1, tab2, tab3, tab4 = st.tabs(["Results", "Portfolio", "Drawdown", "Probability & Correlation"])
+tab1, tab2, tab3, tab4 = st.tabs(["Overview", "Results", "Portfolio", "Drawdown", "Probability & Correlation"])
 
 with tab1:
-    st.subheader("Results for AEGIS TL Quant Macro Alpha")  
+    st.subheader("Overview")
+    st.write("AEGIS objective: To outperform the Benchmark over rolling 1-3 years periods")
+    st.write("AEGIS strategy: ")
+    st.write("How many stocks: 30 stocks")
+    st.write("Top holdings: Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted")
     
 with tab2:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")  
@@ -44,3 +48,6 @@ with tab3:
     
 with tab4:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")      
+    
+with tab5:
+    st.subheader("Results for AEGIS TL Quant Macro Alpha")        
