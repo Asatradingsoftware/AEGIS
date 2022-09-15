@@ -7,7 +7,7 @@ import numpy as np
 import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="AEGIST TL Quant Macro Alpha",
+    page_title="AEGIS TL Quant Macro Alpha",
     page_icon="https://aegisportfolio.com/wp-content/uploads/2022/06/icon-only.jpg",
     layout="wide",
     initial_sidebar_state="expanded",
