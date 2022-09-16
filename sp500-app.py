@@ -97,6 +97,18 @@ with tab3:
         st.write(fig)  
     
     with col2:
+        
+        btstats = pd.DataFrame(pd.read_csv('KeyFigures.csv'))
+        
+        with open('style.css') as f:
+            st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
+        col1, col2, col3 =  st.columns(3)
+        col1.metric("Sharpe Ratio", round(btstats['Sharpe ratio'][0],2), str(round(btstats['Sharpe ratio'][1],2)) + " (S&P 500) ")
+        col2.metric("Sortino Ratio", round(btstats['Sortino ratio'][0],2), str(round(btstats['Sortino ratio'][1],2)) + " (S&P 500) ")
+        col3.metric("Calmar Ratio", round(btstats['Calmar ratio'][0],2), str(round(btstats['Calmar ratio'][1],2)) + " (S&P 500) ")        
+        
+        
         df = pd.DataFrame(pd.read_csv('CatAll30Stocks.csv'))
 
         fig = px.pie(df, values='Frequency', names='cat', title='AEGIS TL Quant Macro Alpha')
