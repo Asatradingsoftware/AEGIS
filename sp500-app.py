@@ -75,7 +75,7 @@ with tab2:
 
     fig['data'][0]['line']['color']='#48bc95'
     fig['data'][0]['line']['width']=2
-    fig['data'][1]['line']['color']='#02314b'
+    fig['data'][1]['line']['color']='#e6535d'
     fig['data'][1]['line']['width']=2    
     
     st.write(fig)
