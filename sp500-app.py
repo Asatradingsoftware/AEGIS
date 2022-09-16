@@ -19,7 +19,7 @@ st.set_page_config(
     }
 )
 
-st.title('AEGIS TL Quant Macro Alpha')
+st.title('AEGIS TL Quant Macro Alpha - Volatility Research project. ')
 
 st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wide.png", width=250)
 
@@ -61,7 +61,13 @@ with tab1:
     st.write("") 
     st.subheader("Riskindicator")
     
-    st.image("https://aegisportfolio.com/wp-content/uploads/2022/09/riskprofile.png", width=510)
+    st.image("https://aegisportfolio.com/wp-content/uploads/2022/09/riskindicator.jpg")
+    
+    st.write("")
+    
+    st.write("")
+    
+    st.write("Quck disclaimer. We or AEGIS is not a qualified financial advisor. All information found in this site are based purely on my personal opimion and experieence from my research, and should not be construed as professional financial advice. You should talk to a licensed financial advisor and/or do your own research before makting any investments decisions.")
     
     
     
