@@ -3,6 +3,7 @@ from annotated_text import annotated_text
 import pandas as pd
 import base64
 import matplotlib.pyplot as px
+import plotly.express as px
 import numpy as np
 import streamlit.components.v1 as components
 
@@ -74,8 +75,8 @@ with tab3:
 
     New_porfolio["NumberStocks"] = 1/30
 
-    
-    st.write(New_porfolio)    
+    fig = px.pie(New_porfolio, values='NumberStocks', names='0', title='AEGIS TL Quant Macro Alpha')
+    st.write(fig)  
     
 with tab4:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")      
