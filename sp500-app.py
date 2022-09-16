@@ -145,12 +145,15 @@ with tab5:
     st.subheader("Probability & Correlation")     
     st.write("The only mathematically correct way to validate a given result is using the binomial probability distribution")
     st.write("")
-    st.write("")
     st.write("The period needed to validate the validity of a result has nothing to do with the length of the track period, but how consistently we outperforms in the chosen time interval.")
     
-    df = pd.DataFrame(pd.read_csv('Sumorize.csv'))
+ 
+    Sumorize = pd.DataFrame(pd.read_csv('Sumorize.csv'))
+    Sumorize.columns = ['AEGIS', 'SPX']
+    Sumorize['Description'] = pd.DataFrame(["Sum of minus days","Sum of plus days"])
+    Sumorize = Sumorize.set_index('Description')    
     
-    st.write(df)
+    st.write(Sumorize)
     
     col1, col2 = st.columns(2)
     
