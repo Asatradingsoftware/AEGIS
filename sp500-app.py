@@ -153,20 +153,11 @@ with tab5:
     with col1:
         df = pd.DataFrame(pd.read_csv('ProbabilityAEGISdays.csv'))
 
-        fig = px.line(df, title="Probability: " + str(round(100 - (totalvalue * 100),2)) + "% - Won " + str(Total) + " out of " + str(n) + " days")
-
-        fig['data'][0]['line']['color']='#48bc95'
-        fig['data'][0]['line']['width']=5   
-
-        st.write(fig)   
+        st.write(df)   
         
     with col2:
         df = pd.DataFrame(pd.read_csv('ProbabilityAEGISmonth.csv'))
 
-        fig = px.line(df, title="Probability: " + str(round(100 - (totalvalue * 100),2)) + "% - Won " + str(Total) + " out of " + str(n) + " month")
 
-        fig['data'][0]['line']['color']='#48bc95'
-        fig['data'][0]['line']['width']=5    
-
-        st.write(fig)       
+        st.write(df)       
     
