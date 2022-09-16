@@ -142,4 +142,27 @@ with tab4:
         st.write(fig)     
     
 with tab5:
-    st.subheader("Results for AEGIS TL Quant Macro Alpha")        
+    st.subheader("Probability & Correlation")     
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        df = pd.DataFrame(pd.read_csv('ProbabilityAEGISdays.csv'))
+
+        fig = px.line(df, title="Probability: " + str(round(100 - (totalvalue * 100),2)) + "% - Won " + str(Total) + " out of " + str(n) + " days")
+
+        fig['data'][0]['line']['color']='#48bc95'
+        fig['data'][0]['line']['width']=5   
+
+        st.write(fig)   
+        
+    with col2:
+        df = pd.DataFrame(pd.read_csv('ProbabilityAEGISmonth.csv'))
+
+        fig = px.line(df, title="Probability: " + str(round(100 - (totalvalue * 100),2)) + "% - Won " + str(Total) + " out of " + str(n) + " month")
+
+        fig['data'][0]['line']['color']='#48bc95'
+        fig['data'][0]['line']['width']=5    
+
+        st.write(fig)       
+    
