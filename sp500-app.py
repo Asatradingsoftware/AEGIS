@@ -69,7 +69,10 @@ with tab2:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")  
     
 with tab3:
-    st.subheader("Portfolio")  
+    st.subheader("30 stocks equally weighted")  
+    
+    PortfolioList = pd.DataFrame(pd.read_csv('PortfolioList.csv'))
+    st.write(PortfolioList)
     
     col1, col2 = st.columns(2)
     
