@@ -103,7 +103,19 @@ with tab3:
         st.write(fig)    
     
 with tab4:
-    st.subheader("Results for AEGIS TL Quant Macro Alpha")      
+    st.subheader("Drawdown analysis")      
+    
+    df = pd.DataFrame(pd.read_csv('DrawDownAEGIS.csv'))
+
+    df1 = pd.DataFrame(df)
+    fig = px.line(df1, title='AEGIS TL Quant Macro Alpha')
+
+    fig['data'][0]['line']['color']='#48bc95'
+    fig['data'][0]['line']['width']=2
+    fig['data'][1]['line']['color']='#e6535d'
+    fig['data'][1]['line']['width']=2    
+    
+    st.write(fig)    
     
 with tab5:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")        
