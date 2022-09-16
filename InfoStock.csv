@@ -1,0 +1,1338 @@
+Ticker,Industry,Name,ISIN
+AR.NYSE,Oil & Gas E&P,Antero Resources Corp,US03674X1063
+COMM.NAS,Oil & Gas Midstream,CommScope Holding Co Inc,US20337X1090
+SM.NYSE,Oil & Gas E&P,SM Energy Co,US78454L1008
+XOM.NYSE,Oil & Gas Integrated,Exxon Mobil CFD,US30231G1022
+DVN.NYSE,Oil & Gas E&P,Devon Energy,US25179M1036
+VLO.NYSE,Oil & Gas Refining & Marketing,Valero Energy,US91913Y1001
+FTI.NYSE,Oil & Gas Equipment & Services,TechnipFMC,
+MGY.NYSE,Oil & Gas E&P,Magnolia Oil & Gas Corp,US5596631094
+MTB.NYSE,Banks—Regional,M&T Bank Corp.,US55261F1049
+CHS.NYSE,Apparel Retail,Chico's FAS Inc,US1686151028
+PM.NYSE,Tobacco,Philip Morris CFD,US7181721090
+CLI.NYSE,Oil & Gas Midstream,Mack-Cali Realty Corp,US5544891048
+STNG.NYSE,Oil & Gas Midstream,Scorpio Tankers Inc,
+WTI.NYSE,Oil & Gas E&P,W&T Offshore Inc,US92922P1066
+EQT.NYSE,Oil & Gas E&P,EQT,US26884L1098
+DK.NYSE,Oil & Gas Refining & Marketing,Delek US Holdings Inc,US24665A1034
+LPI.NYSE,Oil & Gas E&P,Laredo Petroleum Holdings Inc,US5168062058
+MTDR.NYSE,Oil & Gas E&P,Matador Resources Co,US5764852050
+TTI.NYSE,Oil & Gas Equipment & Services,TETRA Technologies Inc,US88162F1057
+PTEN.NAS,Oil & Gas Drilling,Patterson Uti Energy,US7034811015
+KLAC.NAS,Semiconductor Equipment & Materials,KLA Corporation,US4824801009
+OLN.NYSE,Specialty Chemicals,Olin Corp,US6806652052
+XLE.NYSE,Equity Energy,Energy Select Sector SPDR ETF CFD,US81369Y5069
+TEL.NYSE,Electronic Components,TE Connectivity Ltd.,
+COP.NYSE,Oil & Gas E&P,ConocoPhillips,US20825C1045
+MPWR.NAS,Semiconductors,Monolithic Power Systems Inc. Common Stock,US6098391054
+AAPL.NAS,"Computers, Phones & Household Electronics",Apple Inc CFD,US0378331005
+ADBE.NAS,Software & IT Services,Adobe Systems CFD,US00724F1012
+ADI.NAS,Semiconductors & Semiconductor Equipment,Analog Devices CFD,US0326541051
+ADP.NAS,Software & IT Services,Automatic Data Processing (ADP) CFD,US0530151036
+AMAT.NAS,Semiconductors & Semiconductor Equipment,Applied Materials CFD,US0382221051
+AMGN.NAS,Pharmaceuticals,Amgen CFD,US0311621009
+AMZN.NAS,Diversified Retail,Amazon.com CFD,US0231351067
+ATVI.NAS,Software & IT Services,Activision Blizzard CFD,US00507V1098
+AVGO.NAS,Semiconductors & Semiconductor Equipment,Broadcom Ltd CFD,US11135F1012
+BKNG.NAS,Hotels & Entertainment Services,Booking Holdings Inc CFD,US09857L1089
+BIIB.NAS,Pharmaceuticals,Biogen Inc CFD,US09062X1037
+CELG.NAS,Pharmaceuticals,Celgene Corp CFD,
+CHTR.NAS,Telecommunications Services,Charter Communications Inc CFD,US16119P1084
+CMCSA.NAS,Media & Publishing,Comcast Corp A CFD,US20030N1019
+CME.NAS,Investment Banking & Investment Services,CME Group CFD,US12572Q1058
+COST.NAS,Diversified Retail,Costco Wholesale CFD,US22160K1051
+CRON.NAS,Pharmaceuticals,Cronos Group Inc CFD,
+CSCO.NAS,Communications & Networking,Cisco Systems CFD,US17275R1023
+CSX.NAS,Freight & Logistics Services,CSX Corp CFD,US1264081035
+CTSH.NAS,Software & IT Services,Cognizant Technology Solutions CFD,US1924461023
+DISH.NAS,Media & Publishing,Dish Network Corp CFD,US25470M1099
+EQIX.NAS,Residential & Commercial REIT,Equinix CFD,US29444U7000
+FOX.NAS,Media & Publishing,Fox Corp - Class B CFD,US35137L2043
+FOXA.NAS,Media & Publishing,Fox Corp - Class A CFD,US35137L1052
+GILD.NAS,Biotechnology & Medical Research,Gilead Sciences CFD,US3755581036
+GOOG.NAS,Software & IT Services,Alphabet Inc C CFD,US02079K1079
+INTC.NAS,Semiconductors & Semiconductor Equipment,Intel Corp CFD,US4581401001
+INTU.NAS,Financial Technology (Fintech) & Infrastructure,Intuit CFD,US4612021034
+ISRG.NAS,Healthcare Equipment & Supplies,Intuitive Surgical CFD,US46120E6023
+KHC.NAS,Food & Tobacco,Kraft Heinz Co CFD,US5007541064
+MAR.NAS,Hotels & Entertainment Services,Marriott Intl CFD,US5719032022
+MDLZ.NAS,Food & Tobacco,Mondelez International CFD,US6092071058
+MSFT.NAS,Software & IT Services,Microsoft Corp CFD,US5949181045
+NFLX.NAS,Software & IT Services,Netflix CFD,US64110L1061
+NVDA.NAS,Semiconductors & Semiconductor Equipment,Nvidia Corp CFD,US67066G1040
+PEP.NAS,Beverages,Pepsico CFD,US7134481081
+PYPL.NAS,Software & IT Services,Paypal Holdings Inc CFD,US70450Y1038
+QCOM.NAS,Semiconductors & Semiconductor Equipment,Qualcomm CFD,US7475251036
+REGN.NAS,Biotechnology & Medical Research,Regeneron Pharmaceuticals Inc CFD,US75886F1075
+SBUX.NAS,Hotels & Entertainment Services,Starbucks Corp CFD,US8552441094
+TLRY.NAS,Pharmaceuticals,Tilray Inc CFD,US88688T1007
+TMUS.NAS,Telecommunications Services,T-Mobile US CFD,US8725901040
+TSLA.NAS,Automobiles & Auto Parts,Tesla Motors CFD,US88160R1014
+TXN.NAS,Semiconductors & Semiconductor Equipment,Texas Instruments CFD,US8825081040
+VRTX.NAS,Biotechnology & Medical Research,Vertex Pharma CFD,US92532F1003
+WBA.NAS,Food & Drug Retailing,Walgreens Boots Alliance Inc CFD,US9314271084
+ABBV.NYSE,Pharmaceuticals,AbbVie Inc CFD,US00287Y1091
+ABT.NYSE,Healthcare Equipment & Supplies,Abbott Labs CFD,US0028241000
+ACB.NYSE,Pharmaceuticals,Aurora Cannabis Inc. CFD,
+AGN.NYSE,Insurance,Allergan plc CFD,
+AXP.NYSE,Banking Services,American Express CFD,US0258161092
+BAC.NYSE,Banking Services,Bank Of America CFD,US0605051046
+BLK.NYSE,Investment Banking & Investment Services,Blackrock Inc CFD,US09247X1019
+BMY.NYSE,Pharmaceuticals,Bristol Myers Sq CFD,US1101221083
+CGC.NYSE,Pharmaceuticals,Canopy Growth Corp. CFD,
+CVX.NYSE,Oil & Gas,Chevron Corp CFD,US1667641005
+DIS.NYSE,Media & Publishing,Walt Disney Co CFD,US2546871060
+DOW.NYSE,Chemicals,Dow Inc.,US2605571031
+HON.NYSE,Consumer Goods Conglomerates,Honeywell International Inc CFD,US4385161066
+IBM.NYSE,Software & IT Services,IBM CFD,US4592001014
+JNJ.NYSE,Pharmaceuticals,Johnson and Johnson CFD,US4781601046
+JPM.NYSE,Banking Services,J.P. Morgan Chase CFD,US46625H1005
+LLY.NYSE,Pharmaceuticals,Eli Lilly CFD,US5324571083
+LMT.NYSE,Aerospace & Defense,Lockheed Martin CFD,US5398301094
+MCD.NYSE,Hotels & Entertainment Services,McDonald's Corp CFD,US5801351017
+MMM.NYSE,Consumer Goods Conglomerates,3M Company CFD,US88579Y1010
+MRK.NYSE,Pharmaceuticals,Merck and Co CFD,US58933Y1055
+NKE.NYSE,Textiles & Apparel,Nike CL B CFD,US6541061031
+ORCL.NYSE,Software & IT Services,Oracle CFD,US68389X1054
+PFE.NYSE,Pharmaceuticals,Pfizer CFD,US7170811035
+SLB.NYSE,Oil & Gas Related Equipment and Services,Schlumberger CFD,
+SPOT.NYSE,Software & IT Services,Spotify Technology SA CFD,
+UNH.NYSE,Healthcare Providers & Services,UnitedHealth Group CFD,US91324P1021
+UNP.NYSE,Freight & Logistics Services,Union Pacific Cp CFD,US9078181081
+UPS.NYSE,Freight & Logistics Services,United Parcel Services CFD,US9113121068
+USB.NYSE,Banking Services,US Bancorp CFD,US9029733048
+WFC.NYSE,Banking Services,Wells Fargo and Co CFD,US9497461015
+WMT.NYSE,Food & Drug Retailing,Wal-Mart Stores CFD,US9311421039
+XOM.NYSE,Oil & Gas,Exxon Mobil CFD,US30231G1022
+VXX.NYSE,Banking Services,iPath S&P 500 VIX ST Futures ETN CFD,US06746P6218
+DEO.NYSE,Beverages,Diageo plc CFD,US25243Q2057
+NEE.NYSE,Electrical Utilities & IPPs,"NextEra Energy, Inc. CFD",US65339F1012
+AMT.NYSE,Residential & Commercial REIT,American Tower Corporation (REIT) CFD,US03027X1000
+BABA.NYSE,Software & IT Services,Alibaba Group Holding Limited CFD,US01609W1027
+TMO.NYSE,Healthcare Equipment & Supplies,Thermo Fisher Scientific Inc. CFD,US8835561023
+LYFT.NAS,Software & IT Services,"Lyft, Inc. CFD",US55087P1049
+UBER.NYSE,Software & IT Services,Uber Technologies Inc CFD,US90353T1007
+PINS.NYSE,Software & IT Services,Pinterest Inc CFD,US72352L1061
+ABMD.NAS,Healthcare Equipment & Supplies,ABIOMED Inc,US0036541003
+AMD.NAS,Semiconductors & Semiconductor Equipment,Advanced Micro Devices Inc,US0079031078
+AKAM.NAS,Software & IT Services,Akamai Technologies Inc,US00971T1016
+ALGN.NAS,Healthcare Equipment & Supplies,Align Technology,US0162551016
+LNT.NAS,Electrical Utilities & IPPs,Alliant Energy Corp,US0188021085
+AAL.NAS,Passenger Transportation Services,American Airlines Group,US02376R1023
+AEP.NAS,Electrical Utilities & IPPs,American Electric Power,US0255371017
+ANSS.NAS,Software & IT Services,"ANSYS, Inc.",US03662Q1058
+APA.NAS,Oil & Gas,Apache Corporation,US03743Q1085
+ADSK.NAS,Software & IT Services,Autodesk Inc.,US0527691069
+CHRW.NAS,Freight & Logistics Services,C. H. Robinson Worldwide,US12541W2098
+CDNS.NAS,Software & IT Services,Cadence Design Systems,US1273871087
+CDW.NAS,Software & IT Services,CDW,US12514G1085
+CINF.NAS,Insurance,Cincinnati Financial,US1720621010
+CTAS.NAS,Professional & Commercial Services,Cintas Corporation,US1729081059
+CTXS.NAS,Software & IT Services,Citrix Systems,US1773761002
+CPRT.NAS,Specialty Retailers,Copart Inc,US2172041061
+AAP.NYSE,Specialty Retailers,Advance Auto Parts,US00751Y1064
+AES.NYSE,Electrical Utilities & IPPs,AES Corp,US00130H1059
+AFL.NYSE,Insurance,AFLAC Inc,US0010551028
+APD.NYSE,Chemicals,Air Products & Chemicals Inc,US0091581068
+ALK.NYSE,Passenger Transportation Services,Alaska Air Group Inc,US0116591092
+ALLE.NYSE,Communications & Networking,Allegion,
+AMCR.NYSE,Containers & Packaging,Amcor plc,
+AEE.NYSE,Multiline Utilities,Ameren Corp,US0236081024
+AIG.NYSE,Insurance,American International Group,US0268747849
+AWK.NYSE,Water Utilities,American Water Works Company Inc,US0304201033
+AMP.NYSE,Investment Banking & Investment Services,Ameriprise Financial,US03076C1062
+ABC.NYSE,Healthcare Equipment & Supplies,AmerisourceBergen Corp,US03073E1055
+AME.NYSE,"Machinery, Equipment & Components",AMETEK Inc.,US0311001004
+APH.NYSE,Electronic Equipment & Parts,Amphenol Corp,US0320951017
+AON.NYSE,Insurance,Aon plc,
+AOS.NYSE,"Machinery, Equipment & Components",A.O. Smith Corp,US8318652091
+APTV.NYSE,Automobiles & Auto Parts,Aptiv PLC,
+ANET.NYSE,Communications & Networking,Arista Networks,US0404131064
+AJG.NYSE,Insurance,Arthur J. Gallagher & Co.,US3635761097
+AIZ.NYSE,Insurance,Assurant,US04621X1081
+ATO.NYSE,Natural Gas Utilities,Atmos Energy,US0495601058
+AZO.NYSE,Specialty Retailers,AutoZone Inc,US0533321024
+AVB.NYSE,Residential & Commercial REIT,AvalonBay Communities,US0534841012
+AVY.NYSE,Containers & Packaging,Avery Dennison Corp,US0536111091
+BKR.NYSE,Oil & Gas Related Equipment and Services,Baker Hughes Co,US05722G1004
+BLL.NYSE,Containers & Packaging,Ball Corp,US0584981064
+BAX.NYSE,Healthcare Equipment & Supplies,Baxter International Inc.,US0718131099
+BDX.NYSE,Healthcare Equipment & Supplies,Becton Dickinson,US0758871091
+BBY.NYSE,Specialty Retailers,Best Buy Co. Inc.,US0865161014
+BWA.NYSE,Automobiles & Auto Parts,BorgWarner,US0997241064
+BXP.NYSE,Residential & Commercial REIT,Boston Properties,US1011211018
+BSX.NYSE,Healthcare Equipment & Supplies,Boston Scientific,US1011371077
+CPB.NYSE,Food & Tobacco,Campbell Soup,US1344291091
+COF.NYSE,Banking Services,Capital One Financial,US14040H1059
+CAH.NYSE,Food & Drug Retailing,Cardinal Health Inc.,US14149Y1082
+KMX.NYSE,Specialty Retailers,Carmax Inc,US1431301027
+CCL.NYSE,Hotels & Entertainment Services,Carnival Corp.,
+CARR.NYSE,"Machinery, Equipment & Components",Carrier Global,US14448C1045
+CTLT.NYSE,Pharmaceuticals,Catalent,US1488061029
+CBRE.NYSE,Real Estate Operations,CBRE Group,US12504L1098
+CNC.NYSE,Healthcare Providers & Services,Centene Corporation,US15135B1017
+CNP.NYSE,Multiline Utilities,CenterPoint Energy,US15189T1079
+SCHW.NYSE,Investment Banking & Investment Services,Charles Schwab Corporation,US8085131055
+CMG.NYSE,Hotels & Entertainment Services,Chipotle Mexican Grill,US1696561059
+CHD.NYSE,Personal & Household Products & Services,Church & Dwight,US1713401024
+CFG.NYSE,Banking Services,Citizens Financial Group,US1746101054
+CLX.NYSE,Personal & Household Products & Services,The Clorox Company,US1890541097
+CMS.NYSE,Multiline Utilities,CMS Energy,US1258961002
+CMA.NYSE,Banking Services,Comerica Inc.,US2003401070
+CAG.NYSE,Food & Tobacco,Conagra Brands,US2058871029
+COP.NYSE,Oil & Gas,ConocoPhillips,US20825C1045
+STZ.NYSE,Beverages,Constellation Brands,US21036P1084
+COO.NYSE,Healthcare Equipment & Supplies,The Cooper Companies,US2166484020
+GLW.NYSE,Electronic Equipment & Parts,Corning Inc.,US2193501051
+CTVA.NYSE,Food & Tobacco,Corteva,US22052L1044
+CCI.NYSE,Residential & Commercial REIT,Crown Castle International Corp.,US22822V1017
+CMI.NYSE,Automobiles & Auto Parts,Cummins Inc.,US2310211063
+DHI.NYSE,Homebuilding & Construction Supplies,D. R. Horton,US23331A1097
+DHR.NYSE,Healthcare Equipment & Supplies,Danaher Corp.,US2358511028
+DRI.NYSE,Hotels & Entertainment Services,Darden Restaurants,US2371941053
+DVA.NYSE,Healthcare Providers & Services,DaVita Inc.,US23918K1088
+ACN.NYSE,Software & IT Services,Accenture plc,
+BF/B.NYSE,Food & Tobacco,Brown-Forman Corp.,
+XRAY.NAS,Healthcare Equipment & Supplies,Dentsply Sirona,US24906P1093
+DVN.NYSE,Oil & Gas,Devon Energy,US25179M1036
+DXCM.NAS,Healthcare Equipment & Supplies,DexCom,US2521311074
+FANG.NAS,Oil & Gas,Diamondback Energy,US25278X1090
+DLR.NYSE,Residential & Commercial REIT,Digital Realty Trust Inc,US2538681030
+DFS.NYSE,Banking Services,Discover Financial Services,US2547091080
+DLTR.NAS,Diversified Retail,Dollar Tree,US2567461080
+DPZ.NYSE,Hotels & Entertainment Services,Domino's Pizza,US25754A2015
+DOV.NYSE,"Machinery, Equipment & Components",Dover Corporation,US2600031080
+DTE.NYSE,Electrical Utilities & IPPs,DTE Energy Co.,US2333311072
+DUK.NYSE,Electrical Utilities & IPPs,Duke Energy,US26441C2044
+DRE.NYSE,Residential & Commercial REIT,Duke Realty Corp,US2644115055
+DXC.NYSE,Software & IT Services,DXC Technology,US23355L1061
+EMN.NYSE,Chemicals,Eastman Chemical,US2774321002
+ETN.NYSE,"Machinery, Equipment & Components",Eaton Corporation,
+ECL.NYSE,Chemicals,Ecolab Inc.,US2788651006
+EIX.NYSE,Electrical Utilities & IPPs,Edison Int'l,US2810201077
+EMR.NYSE,"Machinery, Equipment & Components",Emerson Electric Company,US2910111044
+ENPH.NAS,Renewable Energy,Enphase Energy,US29355A1079
+ETR.NYSE,Electrical Utilities & IPPs,Entergy Corp.,US29364G1031
+EOG.NYSE,Oil & Gas,EOG Resources,US26875P1012
+EFX.NYSE,Professional & Commercial Services,Equifax Inc.,US2944291051
+EQR.NYSE,Residential & Commercial REIT,Equity Residential,US29476L1070
+ESS.NYSE,Residential & Commercial REIT,"Essex Property Trust, Inc.",US2971781057
+ETSY.NAS,Diversified Retail,Etsy,US29786A1060
+EVRG.NYSE,Electrical Utilities & IPPs,Evergy,US30034W1062
+EXC.NAS,Electrical Utilities & IPPs,Exelon Corp.,US30161N1019
+EXPE.NAS,Hotels & Entertainment Services,Expedia Group,US30212P3038
+EXPD.NAS,Freight & Logistics Services,Expeditors,US3021301094
+EXR.NYSE,Residential & Commercial REIT,Extra Space Storage,US30225T1025
+FFIV.NAS,Software & IT Services,F5 Networks,US3156161024
+FAST.NAS,"Machinery, Equipment & Components",Fastenal Co,US3119001044
+FRT.NYSE,Residential & Commercial REIT,Federal Realty Investment Trust,US3137472060
+FDX.NYSE,Freight & Logistics Services,FedEx Corporation,US31428X1063
+FIS.NYSE,Financial Technology (Fintech) & Infrastructure,Fidelity National Information Services,US31620M1062
+FITB.NAS,Banking Services,Fifth Third Bancorp,US3167731005
+FRC.NYSE,Banking Services,First Republic Bank,US33616C1009
+FISV.NAS,Professional & Commercial Services,Fiserv Inc,US3377381088
+FLT.NYSE,Professional & Commercial Services,FleetCor Technologies Inc,US3390411052
+FLS.NYSE,"Machinery, Equipment & Components",Flowserve Corporation,US34354P1057
+FMC.NYSE,Chemicals,FMC Corporation,US3024913036
+FTNT.NAS,Software & IT Services,Fortinet,US34959E1091
+FTV.NYSE,"Machinery, Equipment & Components",Fortive Corp,US34959J1088
+FBHS.NYSE,Homebuilding & Construction Supplies,Fortune Brands Home & Security,US34964C1062
+FCX.NYSE,Metals & Mining,Freeport-McMoRan Inc.,US35671D8570
+BEN.NYSE,Investment Banking & Investment Services,Franklin Resources,US3546131018
+GPS.NYSE,Specialty Retailers,Gap Inc.,US3647601083
+GIS.NYSE,Food & Tobacco,General Mills,US3703341046
+GPC.NAS,Automobiles & Auto Parts,Genuine Parts,US3724601055
+GPN.NYSE,Professional & Commercial Services,Global Payments Inc.,US37940X1028
+GWW.NYSE,"Machinery, Equipment & Components",Grainger (W.W.) Inc.,US3848021040
+HAL.NYSE,Oil & Gas Related Equipment and Services,Halliburton Co.,US4062161017
+HBI.NYSE,Textiles & Apparel,Hanesbrands Inc,US4103451021
+HIG.NYSE,Insurance,Hartford Financial Svc.Gp.,US4165151048
+HAS.NAS,Passenger Transportation Services,Hasbro Inc.,US4180561072
+HCA.NYSE,Healthcare Providers & Services,HCA Healthcare,US40412C1018
+PEAK.NYSE,Residential & Commercial REIT,Healthpeak Properties,US42250P1030
+HSIC.NAS,Healthcare Equipment & Supplies,Henry Schein,US8064071025
+HSY.NYSE,Food & Tobacco,The Hershey Company,US4278661081
+HES.NYSE,Oil & Gas,Hess Corporation,US42809H1077
+HPE.NYSE,"Computers, Phones & Household Electronics",Hewlett Packard Enterprise,US42824C1099
+HLT.NYSE,Hotels & Entertainment Services,Hilton Worldwide Holdings Inc,US43300A2033
+HOLX.NAS,Healthcare Equipment & Supplies,Hologic,US4364401012
+HRL.NYSE,Food & Tobacco,Hormel Foods Corp.,US4404521001
+HST.NAS,Residential & Commercial REIT,Host Hotels & Resorts,US44107P1049
+HWM.NYSE,Aerospace & Defense,Howmet Aerospace,US4432011082
+HPQ.NYSE,"Computers, Phones & Household Electronics",HP Inc.,US40434L1052
+HUM.NYSE,Healthcare Providers & Services,Humana Inc.,US4448591028
+HBAN.NAS,Banking Services,Huntington Bancshares,US4461501045
+HII.NYSE,Aerospace & Defense,Huntington Ingalls Industries,US4464131063
+IEX.NYSE,"Machinery, Equipment & Components",IDEX Corporation,US45167R1041
+IDXX.NAS,Healthcare Equipment & Supplies,IDEXX Laboratories,US45168D1046
+ITW.NYSE,Consumer Goods Conglomerates,Illinois Tool Works,US4523081093
+ILMN.NAS,Healthcare Equipment & Supplies,Illumina Inc,US4523271090
+INCY.NAS,Pharmaceuticals,Incyte,US45337C1027
+ICE.NYSE,Investment Banking & Investment Services,Intercontinental Exchange,US45866F1049
+IPG.NYSE,Media & Publishing,Interpublic Group,US4606901001
+IFF.NYSE,Food & Tobacco,International Flavors & Fragrances,US4595061015
+IVZ.NYSE,Investment Banking & Investment Services,Invesco Ltd.,
+IPGP.NAS,Electronic Equipment & Parts,IPG Photonics Corp.,US44980X1090
+IQV.NYSE,Biotechnology & Medical Research,IQVIA Holdings Inc.,US46266C1053
+IRM.NYSE,Residential & Commercial REIT,Iron Mountain Incorporated,US46284V1017
+JBHT.NAS,Freight & Logistics Services,J. B. Hunt Transport Services,US4456581077
+SJM.NYSE,Food & Tobacco,JM Smucker,US8326964058
+JCI.NYSE,"Machinery, Equipment & Components",Johnson Controls International,
+JNPR.NYSE,Communications & Networking,Juniper Networks,US48203R1041
+KEY.NYSE,Oil & Gas Related Equipment and Services,KeyCorp,US4932671088
+KEYS.NYSE,"Machinery, Equipment & Components",Keysight Technologies,US49338L1035
+KMB.NYSE,Personal & Household Products & Services,Kimberly-Clark,US4943681035
+KIM.NYSE,Residential & Commercial REIT,Kimco Realty,US49446R1095
+KMI.NYSE,Oil & Gas Related Equipment and Services,Kinder Morgan,US49456B1017
+KLAC.NAS,Semiconductors & Semiconductor Equipment,KLA Corporation,US4824801009
+LB.NYSE,Chemicals,L Brands Inc.,US5017971046
+LHX.NYSE,Aerospace & Defense,L3Harris Technologies,US5024311095
+LRCX.NAS,Semiconductors & Semiconductor Equipment,Lam Research,US5128071082
+LVS.NYSE,Hotels & Entertainment Services,Las Vegas Sands,US5178341070
+LEG.NYSE,Household Goods,Leggett & Platt,US5246601075
+LDOS.NYSE,Software & IT Services,Leidos Holdings,US5253271028
+LEN.NYSE,Homebuilding & Construction Supplies,Lennar Corp.,US5260571048
+LNC.NYSE,Insurance,Lincoln National,US5341871094
+LYV.NYSE,Media & Publishing,Live Nation Entertainment,US5380341090
+LUMN.NYSE,Telecommunications Services,Lumen Technologies,US5502411037
+LYB.NYSE,Chemicals,LyondellBasell,
+MTB.NYSE,Banking Services,M&T Bank Corp.,US55261F1049
+MRO.NYSE,Oil & Gas,Marathon Oil Corp.,US5658491064
+MPC.NYSE,Oil & Gas,Marathon Petroleum,US56585A1025
+MMC.NYSE,Insurance,Marsh & McLennan,US5717481023
+MLM.NYSE,Construction Materials,Martin Marietta Materials,US5732841060
+MAS.NYSE,Homebuilding & Construction Supplies,Masco Corp.,US5745991068
+MKC.NYSE,Food & Tobacco,McCormick & Co.,US5797802064
+MCK.NYSE,Food & Drug Retailing,McKesson Corp.,US58155Q1031
+MDT.NYSE,Healthcare Equipment & Supplies,Medtronic plc,
+MET.NYSE,Insurance,MetLife Inc.,US59156R1086
+MTD.NYSE,Office Equipment,Mettler Toledo,US5926881054
+MCHP.NAS,Semiconductors & Semiconductor Equipment,Microchip Technology,US5950171042
+MAA.NYSE,Residential & Commercial REIT,Mid-America Apartments,US59522J1034
+MHK.NYSE,Household Goods,Mohawk Industries,US6081901042
+TAP.NYSE,Beverages,Molson Coors Beverage Company,US60871R2094
+MNST.NAS,Beverages,Monster Beverage,US61174X1090
+MCO.NYSE,Professional & Commercial Services,Moody's Corp,US6153691059
+MOS.NYSE,Chemicals,The Mosaic Company,US61945C1036
+MSI.NYSE,Communications & Networking,Motorola Solutions Inc.,US6200763075
+MSCI.NYSE,Professional & Commercial Services,MSCI Inc,US55354G1004
+NDAQ.NAS,Investment Banking & Investment Services,"Nasdaq, Inc.",US6311031081
+NTAP.NAS,"Computers, Phones & Household Electronics",NetApp,US64110D1046
+NWL.NAS,Household Goods,Newell Brands,US6512291062
+NEM.NYSE,Software & IT Services,Newmont Corporation,US6516391066
+NWSA.NAS,Media & Publishing,News Corp. Class A,US65249B1098
+NWS.NAS,Construction & Engineering,News Corp. Class B,US65249B2088
+NLSN.NYSE,Media & Publishing,Nielsen Holdings,
+NSC.NYSE,Freight & Logistics Services,Norfolk Southern Corp.,US6558441084
+NTRS.NAS,Investment Banking & Investment Services,Northern Trust Corp.,US6658591044
+NOC.NYSE,Aerospace & Defense,Northrop Grumman,US6668071029
+NLOK.NAS,Software & IT Services,NortonLifeLock,US6687711084
+NCLH.NYSE,Hotels & Entertainment Services,Norwegian Cruise Line Holdings,
+NOV.NYSE,Oil & Gas Related Equipment and Services,NOV Inc.,US62955J1034
+NRG.NYSE,Electrical Utilities & IPPs,NRG Energy,US6293775085
+NUE.NYSE,Metals & Mining,Nucor Corp.,US6703461052
+NVR.NYSE,Homebuilding & Construction Supplies,"NVR, Inc.",US62944T1051
+ORLY.NAS,Specialty Retailers,O'Reilly Automotive,US67103H1077
+OXY.NYSE,Oil & Gas,Occidental Petroleum,US6745991058
+OMC.NYSE,Media & Publishing,Omnicom Group,US6819191064
+OKE.NYSE,Oil & Gas Related Equipment and Services,ONEOK,US6826801036
+OTIS.NYSE,"Machinery, Equipment & Components",Otis Worldwide,US68902V1070
+PCAR.NAS,"Machinery, Equipment & Components",PACCAR Inc.,US6937181088
+PKG.NYSE,Containers & Packaging,Packaging Corporation of America,US6951561090
+PAYX.NAS,Professional & Commercial Services,Paychex Inc.,US7043261079
+PAYC.NYSE,Software & IT Services,Paycom,US70432V1026
+PNR.NYSE,"Machinery, Equipment & Components",Pentair plc,
+PKI.NYSE,Healthcare Equipment & Supplies,PerkinElmer,US7140461093
+PRGO.NYSE,Pharmaceuticals,Perrigo,
+PSX.NYSE,Oil & Gas,Phillips 66,US7185461040
+PNW.NYSE,Electrical Utilities & IPPs,Pinnacle West Capital,US7234841010
+PXD.NYSE,Oil & Gas,Pioneer Natural Resources,US7237871071
+PNC.NYSE,Banking Services,PNC Financial Services,US6934751057
+PPG.NYSE,Chemicals,PPG Industries,US6935061076
+PPL.NYSE,Multiline Utilities,PPL Corp.,US69351T1060
+PFG.NAS,Insurance,Principal Financial Group,US74251V1026
+PGR.NYSE,Insurance,Progressive Corp.,US7433151039
+PLD.NYSE,Residential & Commercial REIT,Prologis,US74340W1036
+PRU.NYSE,Insurance,Prudential Financial,US7443201022
+PEG.NYSE,Multiline Utilities,Public Service Enterprise Group (PSEG),US7445731067
+PHM.NYSE,Homebuilding & Construction Supplies,PulteGroup,US7458671010
+PVH.NYSE,Textiles & Apparel,PVH Corp.,US6936561009
+PWR.NYSE,Construction & Engineering,Quanta Services Inc.,US74762E1029
+DGX.NYSE,Healthcare Providers & Services,Quest Diagnostics,US74834L1008
+RJF.NYSE,Investment Banking & Investment Services,"Raymond James Financial, Inc.",US7547301090
+RYN.NYSE,Residential & Commercial REIT,Rayonier Inc.,US7549071030
+REG.NAS,Residential & Commercial REIT,Regency Centers Corporation,US7588491032
+RF.NYSE,Banking Services,Regions Financial Corp.,US7591EP1005
+RSG.NYSE,Professional & Commercial Services,Republic Services Inc,US7607591002
+RMD.NYSE,Healthcare Equipment & Supplies,ResMed,US7611521078
+RHI.NYSE,Professional & Commercial Services,Robert Half International,US7703231032
+ROK.NYSE,"Machinery, Equipment & Components",Rockwell Automation Inc.,US7739031091
+ROL.NYSE,Professional & Commercial Services,"Rollins, Inc.",US7757111049
+ROP.NYSE,Software & IT Services,Roper Technologies,US7766961061
+ROST.NAS,Specialty Retailers,Ross Stores,US7782961038
+RCL.NYSE,Hotels & Entertainment Services,Royal Caribbean Group,
+SPGI.NYSE,Professional & Commercial Services,S&P Global Inc.,US78409V1044
+CRM.NYSE,Software & IT Services,Salesforce.com,US79466L3024
+STX.NAS,Oil & Gas,Seagate Technology,
+SEE.NYSE,Containers & Packaging,Sealed Air,US81211K1007
+SRE.NYSE,Multiline Utilities,Sempra Energy,US8168511090
+SHW.NYSE,Chemicals,Sherwin-Williams,US8243481061
+SPG.NYSE,Residential & Commercial REIT,Simon Property Group Inc,US8288061091
+SLG.NYSE,Residential & Commercial REIT,SL Green Realty,US78440X8048
+SNA.NYSE,"Machinery, Equipment & Components",Snap-on,US8330341012
+LUV.NYSE,Passenger Transportation Services,Southwest Airlines,US8447411088
+SWK.NYSE,"Machinery, Equipment & Components",Stanley Black & Decker,US8545021011
+STT.NYSE,Investment Banking & Investment Services,State Street Corp.,US8574771031
+SYK.NYSE,Healthcare Equipment & Supplies,Stryker Corp.,US8636671013
+SYF.NYSE,Banking Services,Synchrony Financial,US87165B1035
+SYY.NYSE,Food & Drug Retailing,Sysco Corp.,US8718291078
+TROW.NAS,Investment Banking & Investment Services,T. Rowe Price Group,US74144T1088
+TPR.NYSE,Specialty Retailers,"Tapestry, Inc.",US8760301072
+TGT.NYSE,Diversified Retail,Target Corp.,US87612E1064
+TEL.NYSE,"Machinery, Equipment & Components",TE Connectivity Ltd.,
+FTI.NYSE,Oil & Gas Related Equipment and Services,TechnipFMC,
+TDY.NYSE,Electronic Equipment & Parts,Teledyne Technologies,US8793601050
+TFX.NYSE,Healthcare Equipment & Supplies,Teleflex,US8793691069
+TXT.NYSE,Aerospace & Defense,Textron Inc.,US8832031012
+TJX.NYSE,Diversified Retail,TJX Companies Inc.,US8725401090
+TDG.NYSE,Aerospace & Defense,TransDigm Group,US8936411003
+TRV.NYSE,Insurance,The Travelers Companies Inc.,US89417E1091
+TFC.NYSE,Banking Services,Truist Financial,US89832Q1094
+TWTR.NYSE,Software & IT Services,"Twitter, Inc.",US90184L1026
+TYL.NYSE,Software & IT Services,Tyler Technologies,US9022521051
+TSN.NYSE,Food & Tobacco,Tyson Foods,US9024941034
+UDR.NYSE,Residential & Commercial REIT,"UDR, Inc.",US9026531049
+ULTA.NAS,Specialty Retailers,Ulta Beauty,US90384S3031
+UAA.NYSE,Textiles & Apparel,Under Armour (Class A),US9043111072
+UAL.NAS,Passenger Transportation Services,United Airlines Holdings,US9100471096
+URI.NYSE,Professional & Commercial Services,"United Rentals, Inc.",US9113631090
+UHS.NYSE,Healthcare Providers & Services,Universal Health Services,US9139031002
+UNM.NYSE,Insurance,Unum Group,US91529Y1064
+VLO.NYSE,Oil & Gas,Valero Energy,US91913Y1001
+VTR.NYSE,Residential & Commercial REIT,Ventas Inc,US92276F1003
+VRSN.NAS,Software & IT Services,Verisign Inc.,US92343E1029
+VFC.NYSE,Textiles & Apparel,VF Corporation,US9182041080
+VTRS.NAS,Pharmaceuticals,Viatris,US92556V1061
+VNO.NYSE,Residential & Commercial REIT,Vornado Realty Trust,US9290421091
+VMC.NYSE,Construction Materials,Vulcan Materials,US9291601097
+WRB.NYSE,Insurance,W. R. Berkley Corporation,US0844231029
+WAB.NYSE,"Machinery, Equipment & Components",Westinghouse Air Brake Technologies Corp,US9297401088
+WM.NYSE,Professional & Commercial Services,Waste Management Inc.,US94106L1098
+WAT.NYSE,Healthcare Equipment & Supplies,Waters Corporation,US9418481035
+WEC.NYSE,Electrical Utilities & IPPs,WEC Energy Group,US92939U1060
+WELL.NYSE,Residential & Commercial REIT,Welltower Inc.,US95040Q1040
+WST.NYSE,Healthcare Equipment & Supplies,West Pharmaceutical Services,US9553061055
+WDC.NAS,"Computers, Phones & Household Electronics",Western Digital,US9581021055
+WRK.NYSE,Containers & Packaging,WestRock,US96145D1054
+WHR.NYSE,Household Goods,Whirlpool Corp.,US9633201069
+WMB.NYSE,Oil & Gas Related Equipment and Services,Williams Companies,US9694571004
+WYNN.NAS,Hotels & Entertainment Services,Wynn Resorts Ltd,US9831341071
+XEL.NAS,Electrical Utilities & IPPs,Xcel Energy Inc,US98389B1008
+XYL.NYSE,"Machinery, Equipment & Components",Xylem Inc.,US98419M1009
+YUM.NYSE,Hotels & Entertainment Services,Yum! Brands Inc,US9884981013
+ZBH.NYSE,Healthcare Equipment & Supplies,Zimmer Biomet Inc.,US98956P1021
+ZION.NAS,Banking Services,Zions Bancorp,US9897011071
+ZTS.NYSE,Pharmaceuticals,Zoetis Inc.,US98978V1035
+JKHY.NAS,Software & IT Services,Jack Henry & Associates,US4262811015
+LKQ.NAS,Automobiles & Auto Parts,LKQ Corporation,US5018892084
+MKTX.NAS,Investment Banking & Investment Services,MarketAxess,US57060D1081
+ODFL.NAS,Freight & Logistics Services,Old Dominion Freight Line,US6795801009
+POOL.NAS,Leisure Products,Pool Corporation,US73278L1052
+QRVO.NAS,Semiconductors & Semiconductor Equipment,Qorvo,US74736K1016
+RDWR.NAS,Software & IT Services,Radware Ltd.,
+SBAC.NAS,Residential & Commercial REIT,SBA Communications,US78410G1040
+SWKS.NAS,Semiconductors & Semiconductor Equipment,Skyworks Solutions,US83088M1027
+SIVB.NAS,Banking Services,SVB Financial,US78486Q1013
+SNPS.NAS,Software & IT Services,Synopsys Inc.,US8716071076
+TTWO.NAS,Leisure Products,Take-Two Interactive,US8740541094
+TSCO.NAS,Specialty Retailers,Tractor Supply Company,US8923561067
+TRMB.NAS,Software & IT Services,Trimble Inc.,US8962391004
+VRSK.NAS,Software & IT Services,Verisk Analytics,US92345Y1064
+ZBRA.NAS,Electronic Equipment & Parts,Zebra Technologies,US9892071054
+RTX.NYSE,Aerospace & Defense,Raytheon Technologies Corporation Common Stock,US75513E1010
+SNOW.NYSE,Software & IT Services,Snowflake Inc. Class A Common Stock,US8334451098
+VMW.NYSE,Software & IT Services,Vmware Inc. Common stock Class A,US9285634021
+SCCO.NYSE,Metals & Mining,Southern Copper Corporation Common Stock,US84265V1052
+CVNA.NYSE,Specialty Retailers,Carvana Co. Class A Common Stock,US1468691027
+TDOC.NYSE,Healthcare Providers & Services,Teladoc Health Inc. Common Stock,US87918A1051
+RKT.NYSE,Banking Services,Rocket Companies Inc. Class A Common Stock,US77311W1018
+PANW.NYSE,Software & IT Services,Palo Alto Networks Inc. Common Stock,US6974351057
+KKR.NYSE,Investment Banking & Investment Services,KKR & Co. Inc. Common Stock,US48251W1045
+YUMC.NYSE,Hotels & Entertainment Services,Yum China Holdings Inc. Common Stock,US98850P1093
+PCG.NYSE,Electrical Utilities & IPPs,Pacific Gas & Electric Co. Common Stock,US69331C1080
+HUBS.NYSE,Software & IT Services,HubSpot Inc. Common Stock,US4435731009
+EPAM.NYSE,Software & IT Services,EPAM Systems Inc. Common Stock,US29414B1044
+GNRC.NYSE,"Machinery, Equipment & Components",Generac Holdlings Inc. Common Stock,US3687361044
+CUK.NYSE,Hotels & Entertainment Services,Carnival Plc ADS ADS,US14365C1036
+ATUS.NYSE,Telecommunications Services,Altice USA Inc. Class A Common Stock,US02156K1034
+HEI.NYSE,Aerospace & Defense,Heico Corporation Common Stock,US4228061093
+INVH.NYSE,Residential & Commercial REIT,Invitation Homes Inc. Common Stock,US46187W1071
+SUI.NYSE,Residential & Commercial REIT,Sun Communities Inc. Common Stock,US8666741041
+ALLY.NYSE,Banking Services,Ally Financial Inc. Common Stock,US02005N1000
+OSH.NYSE,Healthcare Providers & Services,Oak Street Health Inc. Common Stock,US67181A1079
+MKL.NYSE,Insurance,Markel Corporation Common Stock,US5705351048
+AVLR.NYSE,Software & IT Services,Avalara Inc. Common Stock,US05338G1067
+ESTC.NYSE,Software & IT Services,Elastic N.V. Ordinary Shares,
+CRL.NYSE,Biotechnology & Medical Research,Charles River Laboratories International Inc. Common Stock,US1598641074
+GDDY.NYSE,Software & IT Services,GoDaddy Inc. Class A Common Stock,US3802371076
+CDAY.NYSE,Software & IT Services,Ceridian HCM Holding Inc. Common Stock,US15677J1088
+ELAN.NYSE,Pharmaceuticals,Elanco Animal Health Incorporated Common Stock,US28414H1032
+FICO.NYSE,Software & IT Services,Fair Isaac Corproation Common Stock,US3032501047
+SMG.NYSE,Chemicals,Scotts Miracle-Gro Company (The) Common Stock,US8101861065
+CCK.NYSE,Containers & Packaging,Crown Holdings Inc.,US2283681060
+MPW.NYSE,Residential & Commercial REIT,Medical Properties Trust Inc. common stock,US58463J3041
+MOH.NYSE,Healthcare Providers & Services,Molina Healthcare Inc Common Stock,US60855R1005
+BRO.NYSE,Insurance,Brown & Brown Inc. Common Stock,US1152361010
+WPC.NYSE,Residential & Commercial REIT,W. P. Carey Inc. REIT,US92936U1097
+TREX.NYSE,Homebuilding & Construction Supplies,Trex Company Inc. Common Stock,US89531P1057
+EQH.NYSE,Investment Banking & Investment Services,Equitable Holdings Inc. Common Stock,US29452E1010
+FDS.NYSE,Professional & Commercial Services,FactSet Research Systems Inc. Common Stock,US3030751057
+NLY.NYSE,Residential & Commercial REIT,Annaly Capital Management Inc Common Stock,US0357104092
+FNF.NYSE,Insurance,FNF Group of Fidelity National Financial Inc. Common Stock,US31620R3030
+MTN.NYSE,Hotels & Entertainment Services,Vail Resorts Inc. Common Stock,US91879Q1094
+APO.NYSE,Investment Banking & Investment Services,Apollo Global Management Inc,US03769M1062
+WTRG.NYSE,Water Utilities,Essential Utilities Inc. Common Stock,US29670G1022
+ELS.NYSE,Residential & Commercial REIT,Equity Lifestyle Properties Inc. Common Stock,US29472R1086
+BAH.NYSE,Software & IT Services,Booz Allen Hamilton Holding Corporation Common Stock,US0995021062
+RPM.NYSE,Chemicals,RPM International Inc. Common Stock,US7496851038
+DAR.NYSE,Food & Tobacco,Darling Ingredients Inc. Common Stock,US2372661015
+WLK.NYSE,Chemicals,Westlake Chemical Corporation Common Stock,US9604131022
+TTC.NYSE,"Machinery, Equipment & Components",Toro Company (The) Common Stock,US8910921084
+BFAM.NYSE,Personal & Household Products & Services,Bright Horizons Family Solutions Inc. Common Stock,US1091941005
+GWRE.NYSE,Software & IT Services,Guidewire Software Inc. Common Stock,US40171V1008
+CPT.NYSE,Residential & Commercial REIT,Camden Property Trust Common Stock,US1331311027
+SMAR.NYSE,Software & IT Services,Smartsheet Inc. Class A Common Stock,US83200N1037
+LAD.NYSE,Specialty Retailers,Lithia Motors Inc. Common Stock,US5367971034
+MGP.NYSE,Healthcare Providers & Services,MGM Growth Properties LLC Class A common shares,US55303A1051
+TWLO.NYSE,Software & IT Services,Twilio Inc. Class A Common Stock,US90138F1021
+ABNB.NAS,Software & IT Services,Airbnb Inc. Class A Common Stock,US0090661010
+AFRM.NAS,Financial Technology (Fintech) & Infrastructure,Affirm Holdings Inc. Class A Common Stock,US00827B1061
+ALNY.NAS,Biotechnology & Medical Research,Alnylam Pharmaceuticals Inc. Common Stock,US02043Q1076
+AMED.NAS,Healthcare Providers & Services,Amedisys Inc Common Stock,US0234361089
+APPN.NAS,Software & IT Services,Appian Corporation Class A Common Stock,US03782L1017
+AZPN.NAS,Software & IT Services,Aspen Technology Inc. Common Stock,US0453271035
+BMRN.NAS,Pharmaceuticals,BioMarin Pharmaceutical Inc. Common Stock,US09061G1013
+BSY.NAS,Software & IT Services,Bentley Systems Incorporated Class B Common Stock,US08265T2087
+BYND.NAS,Food & Tobacco,Beyond Meat Inc. Common Stock,US08862E1091
+CGNX.NAS,"Machinery, Equipment & Components",Cognex Corporation Common Stock,US1924221039
+COUP.NAS,Software & IT Services,Coupa Software Incorporated Common Stock,US22266L1061
+CRWD.NAS,Software & IT Services,CrowdStrike Holdings Inc. Class A Common Stock,US22788C1053
+CSGP.NAS,Software & IT Services,CoStar Group Inc. Common Stock,US22160N1090
+CZR.NAS,Hotels & Entertainment Services,Caesars Entertainment Inc. Common Stock,US12769G1004
+DBX.NAS,Software & IT Services,Dropbox Inc. Class A Common Stock,US26210C1045
+DDOG.NAS,Software & IT Services,Datadog Inc. Class A Common Stock,US23804L1035
+DKNG.NAS,Hotels & Entertainment Services,DraftKings Inc. Class A Common Stock,US26142R1041
+DOCU.NAS,Software & IT Services,DocuSign Inc. Common Stock,US2561631068
+ENTG.NAS,Semiconductors & Semiconductor Equipment,Entegris Inc. Common Stock,US29362U1043
+ERIE.NAS,Insurance,Erie Indemnity Company Class A Common Stock,US29530P1021
+EXAS.NAS,Biotechnology & Medical Research,Exact Sciences Corporation Common Stock,US30063P1057
+EXPI.NAS,Real Estate Operations,eXp World Holdings Inc. Common Stock,US30212W1009
+FIVE.NAS,Passenger Transportation Services,Five Below Inc. Common Stock,US33829M1018
+FIVN.NAS,Software & IT Services,Five9 Inc. Common Stock,US3383071012
+FSLR.NAS,Renewable Energy,First Solar Inc. Common Stock,US3364331070
+FWONK.NAS,Media & Publishing,Liberty Media Corporation Series C Liberty Formula One Common S,US5312298541
+GDRX.NAS,Software & IT Services,GoodRx Holdings Inc. Class A Common Stock,US38246G1085
+GLPI.NAS,Residential & Commercial REIT,Gaming and Leisure Properties Inc. Common Stock,US36467J1088
+IAC.NAS,Software & IT Services,IAC/InterActiveCorp Common Stock,US44891N1090
+IBKR.NAS,Investment Banking & Investment Services,Interactive Brokers Group Inc. Class A Common Stock,US45841N1072
+KDP.NAS,Beverages,Keurig Dr Pepper Inc. Common Stock,US49271V1008
+LAZR.NAS,Automobiles & Auto Parts,Luminar Technologies Inc. Class A Common Stock,US5504241051
+LBRDA.NAS,Media & Publishing,Liberty Broadband Corporation Class A Common Stock,US5303071071
+LBRDK.NAS,Media & Publishing,Liberty Broadband Corporation Class C Common Stock,US5303073051
+LOGI.NAS,"Computers, Phones & Household Electronics",Logitech International S.A. Ordinary Shares,
+LPLA.NAS,Investment Banking & Investment Services,LPL Financial Holdings Inc. Common Stock,US50212V1008
+LSXMK.NAS,Media & Publishing,Liberty Media Corporation Series C Liberty SiriusXM Common Stoc,US5312296073
+MASI.NAS,Healthcare Equipment & Supplies,Masimo Corporation Common Stock,US5747951003
+MDB.NAS,Software & IT Services,MongoDB Inc. Class A Common Stock,US60937P1066
+MORN.NAS,Professional & Commercial Services,Morningstar Inc. Common Stock,US6177001095
+MPWR.NAS,Semiconductors & Semiconductor Equipment,Monolithic Power Systems Inc. Common Stock,US6098391054
+MRNA.NAS,Biotechnology & Medical Research,Moderna Inc. Common Stock,US60770K1079
+MRTX.NAS,Biotechnology & Medical Research,Mirati Therapeutics Inc. Common Stock,US60468T1051
+MTCH.NAS,Software & IT Services,Match Group Inc. Common Stock,US57667L1070
+NBIX.NAS,Biotechnology & Medical Research,Neurocrine Biosciences Inc. Common Stock,US64125C1099
+NDSN.NAS,"Machinery, Equipment & Components",Nordson Corporation Common Stock,US6556631025
+NTRA.NAS,Healthcare Equipment & Supplies,Natera Inc. Common Stock,US6323071042
+NVAX.NAS,Biotechnology & Medical Research,Novavax Inc. Common Stock,US6700024010
+OKTA.NAS,Software & IT Services,Okta Inc. Class A Common Stock,US6792951054
+OLED.NAS,Semiconductors & Semiconductor Equipment,Universal Display Corporation Common Stock,US91347P1057
+ON.NAS,Passenger Transportation Services,ON Semiconductor Corporation Common Stock,US6821891057
+OPEN.NAS,Real Estate Operations,Opendoor Technologies Inc Common Stock,US6837121036
+PCTY.NAS,Software & IT Services,Paylocity Holding Corporation Common Stock,US70438V1061
+PEGA.NAS,Software & IT Services,Pegasystems Inc. Common Stock,US7055731035
+PLUG.NAS,Renewable Energy,Plug Power Inc. Common Stock,US72919P2020
+PODD.NAS,Healthcare Equipment & Supplies,Insulet Corporation Common Stock,US45784P1012
+PTC.NAS,Software & IT Services,PTC Inc. Common Stock,US69370C1009
+PTON.NAS,Leisure Products,Peloton Interactive Inc. Class A Common Stock,US70614W1009
+RGEN.NAS,Healthcare Equipment & Supplies,Repligen Corporation Common Stock,US7599161095
+ROKU.NAS,Media & Publishing,Roku Inc. Class A Common Stock,US77543R1023
+RPRX.NAS,Pharmaceuticals,Royalty Pharma plc Class A Ordinary Shares,
+RUN.NAS,Renewable Energy,Sunrun Inc. Common Stock,US86771W1053
+SBNY.NAS,Banking Services,Signature Bank Common Stock,US82669G1040
+SGEN.NAS,Biotechnology & Medical Research,Seagen Inc. Common Stock,US81181C1045
+SIRI.NAS,Media & Publishing,Sirius XM Holdings Inc. Common Stock,US82968B1035
+SPLK.NAS,Software & IT Services,Splunk Inc. Common Stock,US8486371045
+SPWR.NAS,Renewable Energy,SunPower Corporation Common Stock,US8676524064
+SSNC.NAS,Software & IT Services,SS&C Technologies Holdings Inc. Common Stock,US78467J1007
+TECH.NAS,Biotechnology & Medical Research,Bio-Techne Corp Common Stock,US09073M1045
+TTD.NAS,Software & IT Services,The Trade Desk Inc. Class A Common Stock,US88339J1051
+WDAY.NAS,Software & IT Services,Workday Inc. Class A Common Stock,US98138H1014
+WISH.NAS,Software & IT Services,ContextLogic Inc. Class A Common Stock,US21077C1071
+WMG.NAS,Media & Publishing,Warner Music Group Corp. Class A Common Stock,US9345502036
+MUX.NYSE,Metals & Mining,McEwen Mining Inc,US58039P1075
+BEST.NYSE,Freight & Logistics Services,BEST Inc,US08653C1062
+PEI.NYSE,Residential & Commercial REIT,Pennsylvania Real Estate Inves,US7091021078
+CIG.NYSE,Electrical Utilities & IPPs,Companhia Energetica De Minas Gerais Cemig,US2044096012
+LYG.NYSE,Banking Services,Lloyds Banking Group PLC,US5394391099
+TTI.NYSE,Oil & Gas Related Equipment and Services,TETRA Technologies Inc,US88162F1057
+ABEV.NYSE,Beverages,Ambev ADR Representing One Ord Shs,US02319V1035
+BBAR.NYSE,Banking Services,BBVA Argentina SA,US0589341009
+KOS.NYSE,Oil & Gas,Kosmos Energy Ltd,US5006881065
+WMC.NYSE,Residential & Commercial REIT,Western Asset Mortgage Capital Corp,US95790D1054
+GNW.NYSE,Insurance,Genworth Financial,US37247D1063
+CHS.NYSE,Specialty Retailers,Chico's FAS Inc,US1686151028
+RIG.NYSE,Oil & Gas Related Equipment and Services,Transocean (US),
+WTI.NYSE,Oil & Gas,W&T Offshore Inc,US92922P1066
+NOK.NYSE,Communications & Networking,Nokia (US),US6549022043
+MITT.NYSE,Residential & Commercial REIT,AG Mortgage Investment Trust Inc,US0012281053
+IVR.NYSE,Residential & Commercial REIT,Invesco Mortgage Capital Inc,US46131B1008
+MFA.NYSE,Residential & Commercial REIT,MFA Financial Inc,US55272X1028
+BRFS.NYSE,Food & Tobacco,BRF SA,US10552T1079
+BBD.NYSE,Banking Services,Banco Bradesco,US0594603039
+SWN.NYSE,Oil & Gas,Southwestern Energy,US8454671095
+AUY.NYSE,Metals & Mining,Yamana Gold Inc (US),
+TEF.NYSE,Telecommunications Services,Telefonica SA - ADR,US8793822086
+ITUB.NYSE,Banking Services,Itau Unibanco Holding SA,US4655621062
+HMY.NYSE,Metals & Mining,Harmony Gold Mining Co Ltd,US4132163001
+HLX.NYSE,Oil & Gas Related Equipment and Services,Helix Energy Solutions Group I,US42330P1075
+EXK.NYSE,Metals & Mining,Endeavour Silver Corp (US),
+GCI.NYSE,Media & Publishing,Gannett Co Inc,US36472T1097
+ARCO.NYSE,Hotels & Entertainment Services,Arcos Dorados Holdings Inc,
+VHC.NYSE,Software & IT Services,VirnetX Holding Corp,US92823T1088
+CRK.NYSE,Oil & Gas,Comstock Resources Inc,US2057683029
+GGB.NYSE,Metals & Mining,Gerdau,US3737371050
+CBD.NYSE,Food & Drug Retailing,Companhia Brasileira de Distribuicao,US20440T3005
+PRTY.NYSE,Specialty Retailers,Party City Holdco Inc,US7021491052
+DHT.NYSE,Oil & Gas Related Equipment and Services,DHT Holdings Inc,
+AMRX.NYSE,Pharmaceuticals,Amneal Pharmaceuticals,US03168L1052
+AIV.NYSE,Residential & Commercial REIT,Apartment Investment & Management,US03748R7474
+BKD.NYSE,Healthcare Providers & Services,Brookdale Senior Living Inc,US1124631045
+FSM.NYSE,Metals & Mining,Fortuna Silver Mines Inc (US),
+CORR.NYSE,Residential & Commercial REIT,CorEnergy Infrastructure Trust Inc,US21870U5020
+KGC.NYSE,Metals & Mining,Kinross Gold Corp (US),
+SBS.NYSE,Water Utilities,Cia de Saneamento Basico do Estado de Sao Paulo,US20441A1025
+GOL.NYSE,Passenger Transportation Services,Gol Linhas Aereas Inteligentes,US38045R2067
+AGRO.NYSE,Food & Tobacco,Adecoagro SA,
+PBI.NYSE,Office Equipment,Pitney Bowes,US7244791007
+PBR.NYSE,Oil & Gas,Petroleo Brasileiro ADR Reptg 2,US71654V4086
+COTY.NYSE,Personal & Household Products & Services,Coty Inc,US2220702037
+ADT.NYSE,Communications & Networking,ADT Inc.,US00090Q1031
+UMC.NYSE,Semiconductors & Semiconductor Equipment,United Microelectronics Corp,US9108734057
+NVGS.NYSE,Oil & Gas Related Equipment and Services,Navigator Holdings Ltd,
+CDE.NYSE,Metals & Mining,Coeur d'Alene Mines Corp,US1921085049
+AXL.NYSE,Automobiles & Auto Parts,American Axle & Manufacturing,US0240611030
+AROC.NYSE,Oil & Gas Related Equipment and Services,Archrock Inc,US03957W1062
+TWI.NYSE,Automobiles & Auto Parts,Titan International Inc,US88830M1027
+CMRE.NYSE,Freight & Logistics Services,Costamare Inc,
+DNOW.NYSE,"Machinery, Equipment & Components",NOW Inc,US67011P1003
+RYAM.NYSE,Chemicals,Rayonier Advanced Materials Inc,US75508B1044
+RRC.NYSE,Oil & Gas,Range Resources,US75281A1097
+GFI.NYSE,Metals & Mining,Gold Fields Ltd (US),US38059T1060
+PGRE.NYSE,Residential & Commercial REIT,Paramount Group Inc,US69924R1086
+LFC.NYSE,Insurance,China Life Insurance Co Ltd ADR,US16939P1066
+DRH.NYSE,Residential & Commercial REIT,DiamondRock Hospitality Co,US2527843013
+CTT.NYSE,Residential & Commercial REIT,CatchMark Timber Trust Inc,US14912Y2028
+BCS.NYSE,Banking Services,Barclays PLC,US06738E2046
+RWT.NYSE,Residential & Commercial REIT,Redwood Trust Inc,US7580754023
+PUMP.NYSE,Oil & Gas Related Equipment and Services,ProPetro Holding Corp,US74347M1080
+SOL.NYSE,Construction & Engineering,ReneSola Ltd,US75971T3014
+NRZ.NYSE,Oil & Gas,New Residential Investment Corp,US64828T2015
+EGO.NYSE,Metals & Mining,Eldorado Gold Corp (US),
+FBP.NYSE,Banking Services,First BanCorp/Puerto Rico,
+RFP.NYSE,Paper & Forest Products,Resolute Forest Products,US76117W1099
+ESRT.NYSE,Residential & Commercial REIT,Empire State Realty Trust Inc,US2921041065
+FPI.NYSE,Residential & Commercial REIT,Farmland Partners Inc,US31154R1095
+TEVA.NYSE,Pharmaceuticals,Teva Depository Receipt,US8816242098
+LXP.NYSE,Residential & Commercial REIT,Lexington Realty Trust,US5290431015
+LBRT.NYSE,Oil & Gas Related Equipment and Services,Liberty Oilfield Services Inc,US53115L1044
+HYLN.NYSE,Automobiles & Auto Parts,Hyliion Holdings Corp,US4491091074
+USX.NYSE,Freight & Logistics Services,US Xpress Enterprises Inc,US90338N2027
+MGY.NYSE,Oil & Gas,Magnolia Oil & Gas Corp,US5596631094
+SLCA.NYSE,Metals & Mining,US Silica Holdings Inc,US90346E1038
+TALO.NYSE,Oil & Gas,Talos Energy Inc,US87484T1088
+CYH.NYSE,Healthcare Providers & Services,Community Health Systems Inc,US2036681086
+SHO.NYSE,Residential & Commercial REIT,Sunstone Hotel Investors Inc,US8678921011
+CIM.NYSE,Residential & Commercial REIT,Chimera Investment Corp,US16934Q2084
+BDN.NYSE,Residential & Commercial REIT,Brandywine Realty Trust,US1053682035
+SCM.NYSE,Collective Investments,Stellus Capital Investment Corp,US8585681088
+RGS.NYSE,Personal & Household Products & Services,Regis Corp,US7589321071
+CARS.NYSE,Software & IT Services,Cars.com Inc.,US14575E1055
+CLDT.NYSE,Residential & Commercial REIT,Chatham Lodging Trust,US16208T1025
+GMRE.NYSE,Residential & Commercial REIT,Global Medical REIT Inc,US37954A2042
+SITC.NYSE,Residential & Commercial REIT,SITE Centers Corp,US82981J1097
+DBD.NYSE,"Computers, Phones & Household Electronics",Diebold Inc,US2536511031
+AMX.NYSE,Telecommunications Services,America Movil,US02364W1053
+MWA.NYSE,"Machinery, Equipment & Components",Mueller Water Products Inc,US6247581084
+SCS.NYSE,Professional & Commercial Services,Steelcase Inc,US8581552036
+EVRI.NYSE,Hotels & Entertainment Services,Everi Holdings Inc,US30034T1034
+PBF.NYSE,Oil & Gas,PBF Energy Inc,US69318G1067
+EDU.NYSE,Miscellaneous Educational Service Providers,New Oriental Education & Techn,US6475811070
+CNX.NYSE,Oil & Gas,CNX Resources Corp,US12653C1080
+YEXT.NYSE,Software & IT Services,Yext Inc,US98585N1063
+KAR.NYSE,Specialty Retailers,KAR Auction Services Inc,US48238T1097
+VLRS.NYSE,Passenger Transportation Services,Controladora Vuela Co Avcn SA CV,US21240E1055
+ZUO.NYSE,Software & IT Services,Zuora Inc,US98983V1061
+MNRL.NYSE,Oil & Gas,Brigham Minerals Inc,US10918L1035
+IRT.NYSE,Residential & Commercial REIT,Independence Realty Trust Inc,US45378A1060
+CLI.NYSE,Real Estate Operations,Mack-Cali Realty Corp,US5544891048
+RLJ.NYSE,Residential & Commercial REIT,RLJ Lodging Trust,US74965L1017
+KRO.NYSE,Chemicals,Kronos Worldwide Inc,US50105F1057
+FSR.NYSE,Automobiles & Auto Parts,Fisker Inc,US33813J1060
+IGT.NYSE,Hotels & Entertainment Services,International Game Technology,
+MUR.NYSE,Oil & Gas,Murphy Oil,US6267171022
+HTGC.NYSE,Investment Banking & Investment Services,Hercules Technology Growth Capital Inc,US4270965084
+MANU.NYSE,Hotels & Entertainment Services,Manchester United Plc,
+SWCH.NYSE,"Computers, Phones & Household Electronics",Switch Inc,US87105L1044
+LTHM.NYSE,Chemicals,Livent Corporation,US53814L1089
+AMWL.NYSE,Healthcare Providers & Services,American Well Corp,US03044L1052
+CCJ.NYSE,Uranium,Cameco Corp,
+TAK.NYSE,Pharmaceuticals,Takeda Pharmaceutical Company Limited,US8740602052
+HSC.NYSE,Professional & Commercial Services,Harsco Corp,US4158641070
+PDM.NYSE,Residential & Commercial REIT,Piedmont Office Realty Trust I,US7201902068
+SM.NYSE,Oil & Gas,SM Energy Co,US78454L1008
+VST.NYSE,Electrical Utilities & IPPs,Vistra Energy Corp,US92840M1027
+DBI.NYSE,Specialty Retailers,Designer Brands Inc,US2505651081
+EQT.NYSE,Oil & Gas,EQT,US26884L1098
+CCU.NYSE,Beverages,Cia Cervecerias Unidas SA,US2044291043
+CLF.NYSE,Metals & Mining,Cleveland-Cliffs Inc.,US1858991011
+TPC.NYSE,Construction & Engineering,Tutor Perini Corp,US9011091082
+STNG.NYSE,Oil & Gas Related Equipment and Services,Scorpio Tankers Inc,
+VALE.NYSE,Metals & Mining,Vale SA,US91912E1055
+SBSW.NYSE,Metals & Mining,Sibanye Stillwater Ltd - ADR,US82575P1075
+GPK.NYSE,Containers & Packaging,Graphic Packaging Holding Co,US3886891015
+GNL.NYSE,Residential & Commercial REIT,Global Net Lease Inc,US3793782018
+SRG.NYSE,Residential & Commercial REIT,Seritage Growth Properties,US81752R1005
+INFY.NYSE,Software & IT Services,Infosys Technologies,US4567881085
+GTN.NYSE,Media & Publishing,Gray Television Inc,US3893751061
+CVI.NYSE,Oil & Gas,CVR Energy Inc,US12662P1084
+AKR.NYSE,Residential & Commercial REIT,Acadia Realty Trust,US0042391096
+EQNR.NYSE,Oil & Gas,Equinor ASA - ADR,US29446M1027
+SBH.NYSE,Specialty Retailers,Sally Beauty Holdings Inc,US79546E1047
+TME.NYSE,Software & IT Services,Tencent Music Entertainment,US88034P1093
+TECK.NYSE,Metals & Mining,Teck Resources Ltd (US),
+TGNA.NYSE,Media & Publishing,Tegna Inc,US87901J1051
+TROX.NYSE,Chemicals,Tronox Ltd,
+BRX.NYSE,Residential & Commercial REIT,Brixmor Property Group Inc,US11120U1051
+TTM.NYSE,Automobiles & Auto Parts,Tata Motors,US8765685024
+KW.NYSE,Real Estate Operations,Kennedy-Wilson Holdings Inc,US4893981070
+FSK.NYSE,Collective Investments,FS KKR Capital Corp,US3026352068
+MTW.NYSE,"Machinery, Equipment & Components",Manitowoc,US5635714059
+CADE.NYSE,Banking Services,Cadence Bancorp,US12739A1007
+AZUL.NYSE,Passenger Transportation Services,Azul SA ADR,US05501U1060
+TPH.NYSE,Homebuilding & Construction Supplies,TRI Pointe Homes Inc,US87265H1095
+PSTG.NYSE,"Computers, Phones & Household Electronics",Pure Storage Inc,US74624M1027
+IMAX.NYSE,Media & Publishing,IMAX Corp (US),
+FLR.NYSE,Construction & Engineering,Fluor Corporation,US3434121022
+ATI.NYSE,Aerospace & Defense,Allegheny Technologies,US01741R1023
+HRB.NYSE,Personal & Household Products & Services,H&R Block,US0936711052
+WRE.NYSE,Residential & Commercial REIT,Washington Real Estate Investm,US9396531017
+CNK.NYSE,Hotels & Entertainment Services,Cinemark Holdings Inc,US17243V1026
+ORI.NYSE,Insurance,Old Republic International Cor,US6802231042
+PLTR.NYSE,Software & IT Services,Palantir Technologies Inc,US69608A1088
+RDN.NYSE,Insurance,Radian Group Inc,US7502361014
+EPRT.NYSE,Residential & Commercial REIT,Essential Properties Realty Trust Inc,US29670E1073
+BOX.NYSE,Software & IT Services,Box Inc,US10316T1043
+MTDR.NYSE,Oil & Gas,Matador Resources Co,US5764852050
+PEB.NYSE,Residential & Commercial REIT,Pebblebrook Hotel Trust,US70509V1008
+FLO.NYSE,Food & Tobacco,Flowers Foods Inc,US3434981011
+BSAC.NYSE,Banking Services,Banco Santander Chile,US05965X1090
+STWD.NYSE,Residential & Commercial REIT,Starwood Property Trust Inc,US85571B1052
+LEVI.NYSE,Textiles & Apparel,Levi Strauss & Co.,US52736R1023
+CNO.NYSE,Insurance,CNO Financial Group Inc,US12621E1038
+DDD.NYSE,Electronic Equipment & Parts,3D Systems Corp,US88554D2053
+HOME.NYSE,Banking Services,At Home Group Inc,US04650Y1001
+CLR.NYSE,Oil & Gas,"Continental Resources, Inc.",US2120151012
+TUP.NYSE,Household Goods,Tupperware Brands Corp,US8998961044
+ELF.NYSE,Specialty Retailers,e.l.f. Beauty Inc,US26856L1035
+AQUA.NYSE,Professional & Commercial Services,Evoqua Water Technologies Corp,US30057T1051
+OFC.NYSE,Residential & Commercial REIT,Corporate Office Properties Tr,US22002T1088
+SKM.NYSE,Telecommunications Services,SK Telecom Co Ltd,US78440P1084
+FTAI.NYSE,Banking Services,Fortress Transportation & Infrastructure Investors,US34960P1012
+HPP.NYSE,Residential & Commercial REIT,Hudson Pacific Properties Inc,US4440971095
+NOMD.NYSE,Food & Tobacco,Nomad Foods,
+FCPT.NYSE,Residential & Commercial REIT,Four Corners Property Trust,US35086T1097
+HTA.NYSE,Telecommunications Services,Healthcare Trust of America Inc,US42225P5017
+EQC.NYSE,Residential & Commercial REIT,Equity Commonwealth,US2946281027
+CWEN.NYSE,Electrical Utilities & IPPs,Clearway Energy Inc,US18539C2044
+HUN.NYSE,Chemicals,Huntsman,US4470111075
+ZTO.NYSE,Freight & Logistics Services,ZTO Express (Cayman) Inc,US98980A1051
+PBA.NYSE,Oil & Gas Related Equipment and Services,Pembina Pipeline Corp (US),
+GTY.NYSE,Residential & Commercial REIT,Getty Realty Corp,US3742971092
+SPCE.NYSE,Aerospace & Defense,Virgin Galactic Holdings Inc,US92766K1060
+HMC.NYSE,Automobiles & Auto Parts,Honda Motor Co Ltd,US4381283088
+HSBC.NYSE,Banking Services,HSBC Holdings plc,US4042804066
+AXTA.NYSE,Chemicals,Axalta Coating Systems Ltd,
+VIPS.NYSE,Software & IT Services,Vipshop Holdings Ltd,US92763W1036
+AVTR.NYSE,Healthcare Equipment & Supplies,"Avantor, Inc",US05352A1007
+JEF.NYSE,Investment Banking & Investment Services,Jefferies Financial Group Inc,US47233W1099
+AEO.NYSE,Specialty Retailers,American Eagle Outfitters,US02553E1064
+CMC.NYSE,Metals & Mining,Commercial Metals Co,US2017231034
+BXMT.NYSE,Residential & Commercial REIT,Blackstone Mortgage Trust Inc,US09257W1009
+MDU.NYSE,Multiline Utilities,MDU Resources Group Inc,US5526901096
+TRGP.NYSE,Oil & Gas Related Equipment and Services,Targa Resources Corp,US87612G1013
+AA.NYSE,Metals & Mining,Alcoa Corp,US0138721065
+TMHC.NYSE,Homebuilding & Construction Supplies,Taylor Morrison Home Corp,US87724P1066
+LRN.NYSE,Miscellaneous Educational Service Providers,Stride Inc,US86333M1080
+VSTO.NYSE,Leisure Products,Vista Outdoor Inc,US9283771007
+JBGS.NYSE,Residential & Commercial REIT,JBG SMITH Properties,US46590V1008
+DEI.NYSE,Residential & Commercial REIT,Douglas Emmett Inc,US25960P1093
+AAT.NYSE,Residential & Commercial REIT,American Assets Trust Inc,US0240131047
+EGHT.NYSE,Communications & Networking,8x8 Inc,US2829141009
+ASAN.NYSE,Software & IT Services,Asana Inc,US04342Y1047
+STOR.NYSE,Residential & Commercial REIT,STORE Capital Corp,US8621211007
+AMH.NYSE,Residential & Commercial REIT,American Homes 4 Rent,US02665T3068
+MMI.NYSE,Real Estate Operations,Marcus & Millichap Inc,US5663241090
+STAG.NYSE,Residential & Commercial REIT,STAG Industrial Inc,US85254J1025
+MXL.NYSE,Semiconductors & Semiconductor Equipment,MaxLinear Inc,US57776J1007
+LPI.NYSE,Oil & Gas,Laredo Petroleum Holdings Inc,US5168062058
+CUZ.NYSE,Residential & Commercial REIT,Cousins Properties Inc,US2227955026
+UNFI.NYSE,Food & Drug Retailing,United Natural Foods Inc,US9111631035
+JWN.NYSE,Diversified Retail,Nordstrom,US6556641008
+CPE.NYSE,Oil & Gas,Callon Petroleum Co,US13123X5086
+ANF.NYSE,Specialty Retailers,Abercrombie,US0028962076
+TPX.NYSE,Household Goods,Tempur-Pedic International Inc,US88023U1016
+JMIA.NYSE,Software & IT Services,Jumia Technologies AG,US48138M1053
+KBR.NYSE,Software & IT Services,KBR Inc,US48242W1062
+OMI.NYSE,Healthcare Equipment & Supplies,Owens & Minor Inc,US6907321029
+MAXR.NYSE,Communications & Networking,Maxar Technologies Ltd,US57778K1051
+HGV.NYSE,Hotels & Entertainment Services,Hilton Grand Vacations,US43283X1054
+SAVE.NYSE,Passenger Transportation Services,Spirit Airlines Inc,US8485771021
+PLT.NYSE,Communications & Networking,Plantronics Inc,US7274931085
+NIO.NYSE,Automobiles & Auto Parts,NIO Inc.,US62914V1061
+BTI.NYSE,Food & Tobacco,British American Tobacco PLC,US1104481072
+USFD.NYSE,Food & Drug Retailing,US Foods Holding Corp,US9120081099
+NVTA.NYSE,Biotechnology & Medical Research,Invitae Corporation,US46185L1035
+OHI.NYSE,Residential & Commercial REIT,Omega Healthcare Investors Inc,US6819361006
+NCR.NYSE,Software & IT Services,NCR,US62886E1082
+ARMK.NYSE,Hotels & Entertainment Services,Aramark Corp,US03852U1060
+GVA.NYSE,Construction & Engineering,Granite Construction Inc,US3873281071
+EPC.NYSE,Personal & Household Products & Services,Edgewell Personal Care Co,US28035Q1022
+CUBE.NYSE,Residential & Commercial REIT,CubeSmart,US2296631094
+COLD.NYSE,Residential & Commercial REIT,AmeriCold Realty Trust,US03064D1081
+OLN.NYSE,Chemicals,Olin Corp,US6806652052
+ATGE.NYSE,Miscellaneous Educational Service Providers,Adtalem Global Education Inc,US00737L1035
+YELP.NYSE,Software & IT Services,Yelp,US9858171054
+HOG.NYSE,Automobiles & Auto Parts,Harley Davidson,US4128221086
+NSA.NYSE,Residential & Commercial REIT,National Storage Affiliates Trust,US6378701063
+MAIN.NYSE,Banking Services,Main Street Capital Corp,US56035L1044
+RMAX.NYSE,Real Estate Operations,RE/MAX Holdings Inc,US75524W1080
+UGI.NYSE,Natural Gas Utilities,UGI Corp,US9026811052
+KMT.NYSE,"Machinery, Equipment & Components",Kennametal Inc,US4891701009
+VVI.NYSE,Media & Publishing,Viad Corp,US92552R4065
+JOE.NYSE,Real Estate Operations,St Joe Co/The,US7901481009
+PRG.NYSE,Personal & Household Products & Services,PROG Holdings Inc,US74319R1014
+HIW.NYSE,Residential & Commercial REIT,Highwoods Properties Inc,US4312841087
+SKX.NYSE,Textiles & Apparel,Skechers U.S.A. Inc,US8305661055
+LTC.NYSE,Residential & Commercial REIT,LTC Properties Inc,US5021751020
+BDC.NYSE,Communications & Networking,Belden Inc,US0774541066
+ARCH.NYSE,Coal,Arch Coal Inc,US03940R1077
+HLF.NYSE,Food & Tobacco,Herbalife Ltd,
+BAM.NYSE,Investment Banking & Investment Services,Brookfield Asset Management Inc,
+NNN.NYSE,Residential & Commercial REIT,National Retail Properties Inc,US6374171063
+LAZ.NYSE,Investment Banking & Investment Services,Lazard Ltd,
+DEN.NYSE,Oil & Gas,Denbury Inc,US24790A1016
+AJRD.NYSE,Aerospace & Defense,Aerojet Rocketdyne Holdings Inc,US0078001056
+ENR.NYSE,"Machinery, Equipment & Components",Energizer Holdings Inc,US29272W1099
+RVLV.NYSE,Diversified Retail,Revolve Group Inc,US76156B1070
+GDOT.NYSE,Banking Services,Green Dot Corp,US39304D1028
+PAGS.NYSE,Professional & Commercial Services,Pagseguro Digital LTD,
+ESNT.NYSE,Insurance,Essent Group Ltd,
+AMRC.NYSE,Renewable Energy,Ameresco Inc,US02361E1082
+TMX.NYSE,Professional & Commercial Services,Terminix Global Holdings Inc,US88087E1001
+SPR.NYSE,Aerospace & Defense,Spirit Aerosystems Holdings In,US8485741099
+KBH.NYSE,Homebuilding & Construction Supplies,KB Home,US48666K1097
+EPR.NYSE,Residential & Commercial REIT,EPR Properties,US26884U1097
+NYT.NYSE,Media & Publishing,New York Times,US6501111073
+SAH.NYSE,Specialty Retailers,Sonic Automotive Inc,US83545G1022
+KNX.NYSE,Freight & Logistics Services,Knight-Swift Transportation Co,US4990491049
+CPRI.NYSE,Specialty Retailers,Capri Holdings Ltd,
+THC.NYSE,Healthcare Providers & Services,Tenet Healthcare,US88033G4073
+FTCH.NYSE,Software & IT Services,Farfetch Limited,
+CIT.NYSE,Professional & Commercial Services,CIT Group,US1255818015
+ABM.NYSE,Professional & Commercial Services,ABM Industries Inc,US0009571003
+NUS.NYSE,Personal & Household Products & Services,Nu Skin Enterprises Inc,US67018T1051
+ARGO.NYSE,Insurance,Argo Group International Holdings,
+REXR.NYSE,Residential & Commercial REIT,Rexford Industrial Realty Inc,US76169C1009
+THS.NYSE,Food & Tobacco,TreeHouse Foods Inc,US89469A1043
+JBL.NYSE,Electronic Equipment & Parts,Jabil Circuit,US4663131039
+HASI.NYSE,Residential & Commercial REIT,Hannon Armstrong Sustainable Infrastructure Capital Inc,US41068X1000
+WWE.NYSE,Media & Publishing,World Wrestling Entertainment,US98156Q1085
+CIEN.NYSE,Communications & Networking,Ciena,US1717793095
+HXL.NYSE,Aerospace & Defense,Hexcel Corp,US4282911084
+GEF.NYSE,Containers & Packaging,Greif Inc - A,US3976241071
+PFGC.NYSE,Food & Drug Retailing,Performance Food Group Co,US71377A1034
+FAF.NYSE,Insurance,First American Financial Corp,US31847R1023
+DCI.NYSE,Professional & Commercial Services,Donaldson Co Inc,US2576511099
+UVV.NYSE,Food & Tobacco,Universal Corp/VA,US9134561094
+TOL.NYSE,Homebuilding & Construction Supplies,Toll Brothers Inc,US8894781033
+AER.NYSE,Professional & Commercial Services,AerCap Holdings NV,
+LPX.NYSE,Paper & Forest Products,Louisiana-Pacific Corp,US5463471053
+TRNO.NYSE,Residential & Commercial REIT,Terreno Realty Corp,US88146M1018
+KSS.NYSE,Diversified Retail,Kohl's Corporation,US5002551043
+MDC.NYSE,Homebuilding & Construction Supplies,MDC Holdings Inc,US5526761086
+XEC.NYSE,Oil & Gas,Cimarex Energy Co,US1717981013
+NEWR.NYSE,Software & IT Services,New Relic Inc,US64829B1008
+BYD.NYSE,Hotels & Entertainment Services,Boyd Gaming Corp,US1033041013
+BERY.NYSE,Containers & Packaging,Berry Plastics Group Inc,US08579W1036
+GMED.NYSE,Healthcare Equipment & Supplies,Globus Medical Inc,US3795772082
+BUD.NYSE,Beverages,Anheuser Busch Inbev SA,US03524A1088
+SON.NYSE,Containers & Packaging,Sonoco Products Co,US8354951027
+BOOT.NYSE,Specialty Retailers,Boot Barn Holdings,US0994061002
+ACM.NYSE,Construction & Engineering,AECOM Technology Corp,US00766T1007
+KRC.NYSE,Residential & Commercial REIT,Kilroy Realty Corp,US49427F1084
+BIG.NYSE,Diversified Retail,Big Lots,US0893021032
+ADC.NYSE,Residential & Commercial REIT,Agree Realty Corp,US0084921008
+SAFE.NYSE,Residential & Commercial REIT,Safehold Inc.,US78645L1008
+UHT.NYSE,Residential & Commercial REIT,Universal Health Realty Income,US91359E1055
+ONTO.NYSE,Semiconductors & Semiconductor Equipment,ONTO Innovation Inc,US6833441057
+ENV.NYSE,Software & IT Services,Envestnet Inc,US29404K1060
+CUB.NYSE,Oil & Gas,Cubic Corp,US2296691064
+YETI.NYSE,Leisure Products,YETI Holdings Inc,US98585X1046
+ORA.NYSE,Electrical Utilities & IPPs,Ormat Technologies Inc,US6866881021
+SXT.NYSE,Chemicals,Sensient Technologies Corp,US81725T1007
+GKOS.NYSE,Healthcare Equipment & Supplies,Glaukos Corp,US3773221029
+BCO.NYSE,Professional & Commercial Services,Brink's Co/The,US1096961040
+PAG.NYSE,Specialty Retailers,Penske Automotive Group Inc,US70959W1036
+EHC.NYSE,Healthcare Providers & Services,Encompass Health Corp,US29261A1007
+DKS.NYSE,Specialty Retailers,Dick's Sporting Goods Inc,US2533931026
+EBS.NYSE,Pharmaceuticals,Emergent Biosolutions Inc,US29089Q1058
+CHWY.NYSE,Specialty Retailers,"Chewy, Inc.",US16679L1098
+WGO.NYSE,Leisure Products,Winnebago Industries Inc,US9746371007
+CPA.NYSE,Passenger Transportation Services,Copa Holdings SA,
+PLNT.NYSE,Hotels & Entertainment Services,Planet Fitness Inc,US72703H1014
+GIB.NYSE,Software & IT Services,CGI Group Inc (US),
+AYX.NYSE,Software & IT Services,"Alteryx, Inc",US02156B1035
+NSP.NYSE,Professional & Commercial Services,Insperity Inc,US45778Q1076
+AIN.NYSE,"Machinery, Equipment & Components",Albany International Corp,US0123481089
+WCC.NYSE,"Machinery, Equipment & Components",WESCO International Inc,US95082P1057
+NVS.NYSE,Pharmaceuticals,Novartis AG - ADR,US66987V1098
+CHGG.NYSE,Professional & Commercial Services,Chegg Inc,US1630921096
+LSI.NYSE,Residential & Commercial REIT,Life Storage Inc,US53223X1072
+SPB.NYSE,Household Goods,Spectrum Brands Holdings Inc,US84790A1051
+DIN.NYSE,Hotels & Entertainment Services,DineEquity Inc,US2544231069
+ASH.NYSE,Chemicals,Ashland,US0441861046
+INGR.NYSE,Food & Tobacco,Ingredion Inc,US4571871023
+LMND.NYSE,Insurance,Lemonade Inc,US52567D1072
+DELL.NYSE,"Computers, Phones & Household Electronics",Dell Technologies Inc,US24703L2025
+CRI.NYSE,Specialty Retailers,Carter's Inc,US1462291097
+MTH.NYSE,Homebuilding & Construction Supplies,Meritage Homes Corp,US59001A1025
+ENS.NYSE,"Machinery, Equipment & Components",EnerSys Inc,US29275Y1029
+NBR.NYSE,Oil & Gas Related Equipment and Services,Nabors Indust,
+ATHM.NYSE,Media & Publishing,Autohome Inc,US05278C1071
+MTZ.NYSE,Construction & Engineering,MasTec Inc,US5763231090
+BMI.NYSE,"Machinery, Equipment & Components",Badger Meter Inc,US0565251081
+DDS.NYSE,Diversified Retail,Dillard's,US2540671011
+USNA.NYSE,Food & Tobacco,USANA Health Sciences Inc,US90328M1071
+HHC.NYSE,Real Estate Operations,Howard Hughes Corp/The,US44267D1072
+QTWO.NYSE,Software & IT Services,Q2 Holdings Inc,US74736L1098
+ADS.NYSE,Textiles & Apparel,Alliance Data Systems Corp,US0185811082
+ARW.NYSE,Semiconductors & Semiconductor Equipment,Arrow Electronics Inc,US0427351004
+HAE.NYSE,Healthcare Equipment & Supplies,Haemonetics Corp,US4050241003
+EME.NYSE,Construction & Engineering,EMCOR Group Inc,US29084Q1004
+SHAK.NYSE,Hotels & Entertainment Services,Shake Shack Inc,US8190471016
+AFG.NYSE,Insurance,American Financial Group Inc/O,US0259321042
+IBP.NYSE,Construction & Engineering,Installed Building Products Inc,US45780R1014
+OSK.NYSE,"Machinery, Equipment & Components",Oshkosh Corp,US6882392011
+SNX.NYSE,"Computers, Phones & Household Electronics",SYNNEX Corp,US87162W1009
+DASH.NYSE,Software & IT Services,DoorDash Inc,US25809K1051
+RGA.NYSE,Insurance,Reinsurance Group of America I,US7593516047
+CNMD.NYSE,Healthcare Equipment & Supplies,CONMED Corp,US2074101013
+THG.NYSE,Insurance,Hanover Insurance Group Inc/Th,US4108671052
+THO.NYSE,Leisure Products,Thor Industries Inc,US8851601018
+PII.NYSE,Leisure Products,Polaris,US7310681025
+ZEN.NYSE,Software & IT Services,Zendesk Inc,US98936J1016
+JBT.NYSE,"Machinery, Equipment & Components",John Bean Technologies Corp,US4778391049
+FCN.NYSE,Professional & Commercial Services,FTI Consulting Inc,US3029411093
+NVRO.NYSE,Healthcare Equipment & Supplies,Nevro Corp,US64157F1030
+MUSA.NYSE,Oil & Gas,Murphy USA Inc,US6267551025
+AGCO.NYSE,"Machinery, Equipment & Components",AGCO Corp,US0010841023
+EGP.NYSE,Residential & Commercial REIT,EastGroup Properties Inc,US2772761019
+AMG.NYSE,Investment Banking & Investment Services,Affiliated Managers Group Inc,US0082521081
+RS.NYSE,Metals & Mining,Reliance Steel & Aluminum Co,US7595091023
+GPI.NYSE,Specialty Retailers,Group 1 Automotive Inc,US3989051095
+RNR.NYSE,Insurance,RenaissanceRe Holdings Ltd,
+AYI.NYSE,Homebuilding & Construction Supplies,Acuity Brands Inc,US00508Y1029
+VAC.NYSE,Hotels & Entertainment Services,Marriott Vacations Worldwide C,US57164Y1073
+WSM.NYSE,Specialty Retailers,Williams-Sonoma Inc,US9699041011
+JLL.NYSE,Real Estate Operations,Jones Lang LaSalle Inc,US48020Q1076
+LEA.NYSE,Automobiles & Auto Parts,Lear Corp,US5218652049
+MSGS.NYSE,Media & Publishing,Madison Square Garden Sport Corp,US55825T1034
+HUBB.NYSE,"Machinery, Equipment & Components",Hubbell Inc,US4435106079
+IIPR.NYSE,Residential & Commercial REIT,Innovative Industrial Properties Inc,US45781V1017
+INSP.NYSE,Healthcare Equipment & Supplies,Inspire Medical Systems Inc,US4577301090
+WEX.NYSE,Professional & Commercial Services,WEX Inc,US96208T1043
+MED.NYSE,Food & Tobacco,Medifast Inc,US58470H1014
+FVRR.NYSE,Software & IT Services,Fiverr International Ltd.,
+VEEV.NYSE,Healthcare Equipment & Supplies,Veeva Systems Inc,US9224751084
+WSO.NYSE,"Machinery, Equipment & Components",Watsco Inc,US9426222009
+PEN.NYSE,Healthcare Equipment & Supplies,Penumbra Inc,US70975L1070
+ALX.NYSE,Residential & Commercial REIT,Alexander's Inc,US0147521092
+RNG.NYSE,Software & IT Services,RingCentral Inc,US76680R2067
+BURL.NYSE,Specialty Retailers,Burlington Stores Inc,US1220171060
+CHE.NYSE,Healthcare Providers & Services,Chemed Corp,US16359R1032
+GHC.NYSE,"School, College & University",Graham Holdings Co,US3846371041
+SHOP.NYSE,Software & IT Services,Shopify Inc,
+MAC.NYSE,Residential & Commercial REIT,Macerich Co,US5543821012
+TAL.NYSE,Miscellaneous Educational Service Providers,TAL Education Group,US8740801043
+ONTX.NAS,Pharmaceuticals,Onconova Therapeutics Inc,US68232V4059
+SNDL.NAS,Pharmaceuticals,Sundial Growers Inc,
+TNXP.NAS,Biotechnology & Medical Research,Tonix Pharmaceuticals Holding Corp,US8902607063
+TXMD.NAS,Pharmaceuticals,TherapeuticsMD Inc,US88338N1072
+NOVN.NAS,Pharmaceuticals,Novan Inc,US66988N1063
+ACRX.NAS,Biotechnology & Medical Research,AcelRx Pharmaceuticals Inc,US00444T1007
+TTOO.NAS,Healthcare Equipment & Supplies,T2 Biosystems Inc,US89853L1044
+GERN.NAS,Biotechnology & Medical Research,Geron Corp,US3741631036
+XSPA.NAS,Personal & Household Products & Services,XpresSpa Group Inc,US98420U7037
+JFU.NAS,Investment Banking & Investment Services,9F Inc,US65442R1095
+VEON.NAS,Telecommunications Services,Veon Ltd,US91822M1062
+TRVN.NAS,Biotechnology & Medical Research,Trevena Inc,US89532E1091
+GNUS.NAS,Media & Publishing,Genius Brands International Inc,US37229T3014
+ATHX.NAS,Biotechnology & Medical Research,Athersys Inc,US04744L1061
+CRBP.NAS,Biotechnology & Medical Research,Corbus Pharmaceuticals Holdings Inc,US21833P1030
+AGRX.NAS,Biotechnology & Medical Research,Agile Therapeutics Inc,US00847L1008
+MARK.NAS,Software & IT Services,Remark Holdings Inc,US75955K1025
+TELL.NAS,Passenger Transportation Services,Tellurian,US87968A1043
+NBEV.NAS,Beverages,New Age Beverages Corporation,US6501941032
+NERV.NAS,Biotechnology & Medical Research,Minerva Neurosciences Inc,US6033801068
+WTRH.NAS,Software & IT Services,Waitr Holdings Inc.,US9307521008
+VSTM.NAS,Biotechnology & Medical Research,Verastem Inc,US92337C1045
+AGEN.NAS,Biotechnology & Medical Research,Agenus Inc,US00847G7051
+VBIV.NAS,Biotechnology & Medical Research,VBI Vaccines Inc,
+SPPI.NAS,Biotechnology & Medical Research,Spectrum Pharmaceuticals Inc,US84763A1088
+ABUS.NAS,Pharmaceuticals,Arbutus Biopharma,
+RIGL.NAS,Biotechnology & Medical Research,Rigel Pharmaceuticals Inc,US7665596034
+IFRX.NAS,Biotechnology & Medical Research,Inflarx NV,
+OVID.NAS,Biotechnology & Medical Research,Ovid Therapeutics Inc,US6904691010
+CRNT.NAS,Communications & Networking,Ceragon Networks Ltd,
+WATT.NAS,"Machinery, Equipment & Components",Energous Corp,US29272C1036
+SELB.NAS,Biotechnology & Medical Research,"Selecta Biosciences, Inc",US8162121045
+GNPX.NAS,Biotechnology & Medical Research,Genprex Inc,US3724461047
+MNKD.NAS,Biotechnology & Medical Research,MannKind Corp,US56400P7069
+ATNX.NAS,Biotechnology & Medical Research,Athenex Inc,US04685N1037
+TRVG.NAS,Software & IT Services,Trivago NV,US89686D1054
+VRAY.NAS,Healthcare Equipment & Supplies,ViewRay Inc,US92672L1070
+CDEV.NAS,Oil & Gas,Centennial Resource Development Inc,US15136A1025
+OPK.NAS,Pharmaceuticals,Opko Health Inc,US68375N1037
+CPRX.NAS,Pharmaceuticals,Catalyst Pharmaceutical Partners Inc,US14888U1016
+CBAY.NAS,Biotechnology & Medical Research,CymaBay Therapeutics Inc,US23257D1037
+NYMT.NAS,Residential & Commercial REIT,New York Mortgage Trust Inc,US6496045013
+ZYNE.NAS,Biotechnology & Medical Research,Zynerba Pharmaceuticals Inc,US98986X1090
+NCMI.NAS,Media & Publishing,National CineMedia Inc,US6353091076
+IZEA.NAS,Software & IT Services,IZEA Worldwide Inc,US46604H1059
+VYGR.NAS,Biotechnology & Medical Research,"Voyager Therapeutics, Inc.",US92915B1061
+SOLO.NAS,Automobiles & Auto Parts,Electrameccanica Vehicles Corp,
+ARAY.NAS,Healthcare Equipment & Supplies,Accuray Inc,US0043971052
+ADAP.NAS,Biotechnology & Medical Research,Adaptimmune Therapeutics PLC,US00653A1079
+BGCP.NAS,Investment Banking & Investment Services,BGC Partners Inc,US05541T1016
+LXRX.NAS,Biotechnology & Medical Research,Lexicon Pharmaceuticals Inc,US5288723027
+VXRT.NAS,Biotechnology & Medical Research,Vaxart Inc,US92243A2006
+PNNT.NAS,Collective Investments,PennantPark Investment Corp,US7080621045
+CERS.NAS,Healthcare Equipment & Supplies,Cerus Corp,US1570851014
+VKTX.NAS,Biotechnology & Medical Research,"Viking Therapeutics, Inc.",US92686J1060
+AYRO.NAS,Automobiles & Auto Parts,AYRO Inc,US0547481087
+WIMI.NAS,Software & IT Services,WiMi Hologram Cloud Inc,US97264L1008
+LTRPA.NAS,Software & IT Services,Liberty TripAdvisor Holdings Inc,US5314651028
+XNET.NAS,Software & IT Services,Xunlei Ltd,US98419E1082
+KNDI.NAS,Automobiles & Auto Parts,Kandi Technologies Group Inc,US4837091010
+WETF.NAS,Investment Banking & Investment Services,WisdomTree Investments Inc,US97717P1049
+PRQR.NAS,Biotechnology & Medical Research,ProQR Therapeutics NV,
+VYNE.NAS,Pharmaceuticals,Vyne Therapeutics Inc,US92941V2097
+CLVS.NAS,Biotechnology & Medical Research,Clovis Oncology Inc,US1894641000
+CNDT.NAS,Software & IT Services,Conduent Inc,US2067871036
+MGI.NAS,Professional & Commercial Services,MoneyGram International Inc,US60935Y2081
+ORTX.NAS,Pharmaceuticals,Orchard Therapeutics PLC,US68570P1012
+PTEN.NAS,Oil & Gas Related Equipment and Services,Patterson Uti Energy,US7034811015
+AYTU.NAS,Pharmaceuticals,Aytu BioScience Inc,US0547548745
+PGEN.NAS,Pharmaceuticals,Pregicen Inc,US74017N1054
+PRTK.NAS,Pharmaceuticals,Paratek Pharmaceuticals Inc,US6993743029
+PLYA.NAS,Hotels & Entertainment Services,Playa Hotels & Resorts NV,
+SRNE.NAS,Biotechnology & Medical Research,Sorrento Therapeutics Inc,US83587F2020
+BNGO.NAS,Healthcare Equipment & Supplies,Bionano Genomics Inc,US09075F1075
+OCGN.NAS,Biotechnology & Medical Research,Ocugen Inc,US67577C1053
+IMGN.NAS,Biotechnology & Medical Research,ImmunoGen Inc,US45253H1014
+NNDM.NAS,Electronic Equipment & Parts,Nano Dimension Ltd - ADR,US63008G2030
+PSEC.NAS,Collective Investments,Prospect Capital Corp,US74348T1025
+HLIT.NAS,Communications & Networking,Harmonic Inc,US4131601027
+SURF.NAS,Biotechnology & Medical Research,Surface Oncology Inc,US86877M2098
+SFT.NAS,Specialty Retailers,Shift Technologies Inc,US82452T1079
+GEVO.NAS,Renewable Energy,Gevo Inc,US3743964062
+INO.NAS,Biotechnology & Medical Research,Inovio Pharmaceuticals Inc,US45773H2013
+DTIL.NAS,Biotechnology & Medical Research,Precision Biosciences Inc,US74019P1084
+INSG.NAS,Communications & Networking,Inseego Corp.,US45782B1044
+GOSS.NAS,Biotechnology & Medical Research,Gossamer Bio Inc,US38341P1021
+CASA.NAS,Communications & Networking,"Casa Systems, Inc.",US14713L1026
+CODX.NAS,Healthcare Equipment & Supplies,Co-Diagnostics Inc,US1897631057
+EGAN.NAS,Software & IT Services,eGain Corp,US28225C8064
+FOLD.NAS,Biotechnology & Medical Research,Amicus Therapeutics Inc,US03152W1099
+PBYI.NAS,Biotechnology & Medical Research,Puma Biotechnology Inc,US74587V1070
+PAGP.NAS,Oil & Gas Related Equipment and Services,Plains GP Holdings LP,US72651A2078
+ADVM.NAS,Biotechnology & Medical Research,Adverum Biotechnologies Inc,US00773U1088
+INFN.NAS,Communications & Networking,Infinera Corp,US45667G1031
+CRMD.NAS,Pharmaceuticals,CorMedix Inc,US21900C3088
+DVAX.NAS,Biotechnology & Medical Research,Dynavax Technologies Corp,US2681582019
+PRVB.NAS,Biotechnology & Medical Research,Provention Bio Inc,US74374N1028
+GOGO.NAS,Telecommunications Services,Gogo Inc,US38046C1099
+SDC.NAS,Healthcare Equipment & Supplies,SmileDirectClub Inc.,US83192H1068
+DOYU.NAS,Software & IT Services,DouYu International Holdings Ltd - ADR,US25985W1053
+GLAD.NAS,Collective Investments,Gladstone Capital Corp,US3765351008
+NMRK.NAS,Real Estate Operations,Newmark Group Inc - Class A,US65158N1028
+LUNA.NAS,"Machinery, Equipment & Components",Luna Innovations Inc,US5503511009
+BCRX.NAS,Biotechnology & Medical Research,BioCryst Pharmaceuticals Inc,US09058V1035
+QIWI.NAS,Professional & Commercial Services,QIWI plc,US74735M1080
+NDLS.NAS,Hotels & Entertainment Services,Noodles & Co,US65540B1052
+OSUR.NAS,Healthcare Equipment & Supplies,OraSure Technologies Inc,US68554V1089
+GLNG.NAS,Oil & Gas Related Equipment and Services,Golar LNG Ltd,
+VRA.NAS,Textiles & Apparel,Vera Bradley Inc,US92335C1062
+UNIT.NAS,Residential & Commercial REIT,Uniti Group Inc,US91325V1089
+CRIS.NAS,Biotechnology & Medical Research,Curis Inc,US2312692005
+SGMO.NAS,Biotechnology & Medical Research,Sangamo Biosciences Inc,US8006771062
+QRTEA.NAS,Diversified Retail,Qurate Retail Group Inc QVC Group,US74915M1009
+SVC.NAS,Residential & Commercial REIT,Service Properties Trust,US81761L1026
+GPRO.NAS,"Computers, Phones & Household Electronics",GoPro Inc (A shares),US38268T1034
+PFLT.NAS,Collective Investments,PennantPark Floating Rate Capital Ltd,US70806A1060
+ALDX.NAS,Biotechnology & Medical Research,Aldeyra Therapeutics Inc,US01438T1060
+FOSL.NAS,Textiles & Apparel,Fossil,US34988V1061
+CWCO.NAS,Water Utilities,Consolidated Water Co Ltd,
+NESR.NAS,Oil & Gas Related Equipment and Services,National Energy Services Reunited Corp,
+FCEL.NAS,Renewable Energy,FuelCell Energy Inc,US35952H6018
+NKLA.NAS,Automobiles & Auto Parts,Nikola Corporation,US6541101050
+ERIC.NAS,Communications & Networking,Telefonaktiebolaget LM Ericsson,US2948216088
+WKHS.NAS,Automobiles & Auto Parts,Workhorse Group Inc,US98138J2069
+LILA.NAS,Telecommunications Services,Liberty Latin America Ltd,
+CLNE.NAS,Oil & Gas,Clean Energy Fuels Corp,US1844991018
+EOLS.NAS,Pharmaceuticals,Evolus Inc,US30052C1071
+ATRA.NAS,Biotechnology & Medical Research,Atara Biotherapeutics Inc,US0465131078
+ANGI.NAS,Software & IT Services,ANGI Homeservices Inc,US00183L1026
+NAVI.NAS,Banking Services,Navient Corp,US63938C1080
+CHRS.NAS,Biotechnology & Medical Research,Coherus Biosciences Inc,US19249H1032
+SSSS.NAS,Collective Investments,Sutter Rock Capital Corp,US86887Q1094
+MRNS.NAS,Pharmaceuticals,Marinus Pharmaceuticals Inc.,US56854Q2003
+ZYXI.NAS,Healthcare Equipment & Supplies,Zynex Inc,US98986M1036
+MITK.NAS,Software & IT Services,Mitek Systems Inc,US6067102003
+SSRM.NAS,Metals & Mining,Silver Standard Resources Inc,
+MOMO.NAS,Software & IT Services,Momo Inc,US60879B1070
+SABR.NAS,Software & IT Services,Sabre Corp,US78573M1045
+MVIS.NAS,Electronic Equipment & Parts,MicroVision Inc,US5949603048
+AVXL.NAS,Biotechnology & Medical Research,Anavex Life Sciences Corp,US0327973006
+VIAV.NAS,Communications & Networking,Viavi Solutions Inc,US9255501051
+ROIC.NAS,Residential & Commercial REIT,Retail Opportunity Investments,US76131N1019
+OCUL.NAS,Pharmaceuticals,Ocular Therapeutix Inc,US67576A1007
+AGNC.NAS,Residential & Commercial REIT,AGNC Investment Corp,US00123Q1040
+XBIT.NAS,Biotechnology & Medical Research,XBiotech Inc,
+SPWH.NAS,Specialty Retailers,Sportsmans Warehouse Holdings Inc,US84920Y1064
+IHRT.NAS,Media & Publishing,iHeartMedia Inc,US45174J5092
+SWBI.NAS,Leisure Products,Smith & Wesson Brands Inc,US8317541063
+DENN.NAS,Hotels & Entertainment Services,Denny's Corp,US24869P1049
+AMRS.NAS,Chemicals,Amyris Inc,US03236M2008
+CAN.NAS,Passenger Transportation Services,Canaan Inc,US1347481020
+SBRA.NAS,Residential & Commercial REIT,Sabra Health Care REIT Inc,US78573L1061
+FLEX.NAS,Electronic Equipment & Parts,Flex Ltd,
+SLM.NAS,Banking Services,SLM,US78442P1066
+ARCC.NAS,Collective Investments,Ares Capital Corp,US04010L1035
+AXGN.NAS,Healthcare Equipment & Supplies,AxoGen Inc,US05463X1063
+NKTR.NAS,Pharmaceuticals,Nektar Therapeutics,US6402681083
+SPTN.NAS,Food & Drug Retailing,SpartanNash Co,US8472151005
+TTCF.NAS,Food & Tobacco,Tattooed Chef Inc,US87663X1028
+MCRB.NAS,Biotechnology & Medical Research,Seres Therapeutics Inc,US81750R1023
+GOOD.NAS,Passenger Transportation Services,Gladstone Commercial Corp,US3765361080
+MLCO.NAS,Hotels & Entertainment Services,Melco Resorts & Entertainment Ltd - ADR,US5854641009
+ACAD.NAS,Biotechnology & Medical Research,ACADIA Pharmaceuticals Inc,US0042251084
+JBLU.NAS,Passenger Transportation Services,JetBlue Airways Corp,US4771431016
+PCVX.NAS,Biotechnology & Medical Research,Vaxcyte Inc,US92243G1085
+CLDX.NAS,Biotechnology & Medical Research,Celldex Therapeutics Inc,US15117B2025
+VREX.NAS,Healthcare Equipment & Supplies,Varex Imaging Corp,US92214X1063
+CLSK.NAS,Financial Technology (Fintech) & Infrastructure,CleanSpark Inc,US18452B2097
+WEN.NAS,Hotels & Entertainment Services,Wendys/Arby,US95058W1009
+AVID.NAS,Software & IT Services,Avid Technology Inc,US05367P1003
+CONN.NAS,Specialty Retailers,Conn's Inc,US2082421072
+NMIH.NAS,Insurance,NMI Holdings Inc,US6292093050
+LI.NAS,Textiles & Apparel,LI Auto Inc (ADR),US50202M1027
+ICPT.NAS,Biotechnology & Medical Research,Intercept Pharmaceuticals Inc,US45845P1084
+CYTK.NAS,Biotechnology & Medical Research,Cytokinetics Inc,US23282W6057
+SNDX.NAS,Biotechnology & Medical Research,Syndax Pharmaceuticals Inc,US87164F1057
+EXEL.NAS,Biotechnology & Medical Research,Exelixis Inc,US30161Q1040
+ILPT.NAS,Residential & Commercial REIT,Industrial Logistics Properties Trust,US4562371066
+RUBY.NAS,Biotechnology & Medical Research,Rubius Therapeutics Inc,US78116T1034
+CDXS.NAS,Biotechnology & Medical Research,"Codexis, Inc.",US1920051067
+ALVR.NAS,Biotechnology & Medical Research,Allovir Inc,US0198181036
+RUTH.NAS,Hotels & Entertainment Services,Ruth's Hospitality Group Inc,US7833321091
+CMTL.NAS,Communications & Networking,Comtech Telecommunications Cor,US2058262096
+QFIN.NAS,Banking Services,360 DigiTech Inc,US88557W1018
+LBTYK.NAS,Telecommunications Services,Liberty Global PLC Class C,
+LBTYA.NAS,Telecommunications Services,Liberty Global PLC Class A,
+SFM.NAS,Food & Drug Retailing,Sprouts Farmers Market Inc,US85208M1027
+RVNC.NAS,Biotechnology & Medical Research,Revance Therapeutics Inc,US7613301099
+CARA.NAS,Biotechnology & Medical Research,Cara Therapeutics,US1407551092
+BLMN.NAS,Hotels & Entertainment Services,Bloomin' Brands Inc,US0942351083
+FLWS.NAS,Specialty Retailers,1-800-Flowers.com Inc,US68243Q1067
+ANDE.NAS,Food & Tobacco,Andersons Inc/The,US0341641035
+HEAR.NAS,"Computers, Phones & Household Electronics",Turtle Beach Corp,US9004502061
+NTNX.NAS,Software & IT Services,Nutanix Inc,US67059N1081
+KTOS.NAS,Aerospace & Defense,Kratos Defense & Security Solutions Inc,US50077B2079
+OPI.NAS,Residential & Commercial REIT,Office Properties Income Trust,US67623C1099
+BBBY.NAS,Specialty Retailers,Bed Bath & Beyond,US0758961009
+GPRE.NAS,Renewable Energy,Green Plains Inc,US3932221043
+TSEM.NAS,Semiconductors & Semiconductor Equipment,Tower Semiconductor Ltd,
+VUZI.NAS,Electronic Equipment & Parts,Vuzix Corporation,US92921W3007
+BLUE.NAS,Biotechnology & Medical Research,Bluebird Bio Inc,US09609G1004
+SBGI.NAS,Media & Publishing,Sinclair Broadcast Group Inc,US8292261091
+GIII.NAS,Textiles & Apparel,G-III Apparel Group Ltd,US36237H1014
+MMYT.NAS,Hotels & Entertainment Services,MakeMyTrip Ltd,
+ITCI.NAS,Biotechnology & Medical Research,Intra-Cellular Therapies Inc,US46116X1019
+CHEF.NAS,Food & Drug Retailing,Chefs' Warehouse Inc/The,US1630861011
+PDCO.NAS,Healthcare Equipment & Supplies,Patterson,US7033951036
+PACB.NAS,Healthcare Equipment & Supplies,Pacific Biosciences of California Inc,US69404D1081
+QURE.NAS,Biotechnology & Medical Research,uniQure B.V.,
+PINC.NAS,Healthcare Providers & Services,Premier Inc,US74051N1028
+EGLE.NAS,Freight & Logistics Services,Eagle Bulk Shipping Inc,
+SSTI.NAS,Software & IT Services,Shotspotter Inc,US82536T1079
+PDCE.NAS,Oil & Gas,PDC Energy Inc,US69327R1014
+BLFS.NAS,Healthcare Equipment & Supplies,Biolife Solutions Inc,US09062W2044
+STOK.NAS,Biotechnology & Medical Research,Stoke Therapeutics Inc,US86150R1077
+GNTX.NAS,Automobiles & Auto Parts,Gentex Corp/MI,US3719011096
+NIU.NAS,Automobiles & Auto Parts,Niu Technologies,US65481N1000
+EVER.NAS,Software & IT Services,EverQuote Inc,US30041R1086
+GO.NAS,Passenger Transportation Services,Grocery Outlet Holding Corp.,US39874R1014
+BZUN.NAS,Software & IT Services,Baozun Inc,US06684L1035
+URBN.NAS,Specialty Retailers,Urban Outfitters,US9170471026
+TCOM.NAS,Hotels & Entertainment Services,TRIP.COM GROUP LTD,US89677Q1076
+VRM.NAS,Software & IT Services,Vroom Inc,US92918V1098
+RRGB.NAS,Hotels & Entertainment Services,Red Robin Gourmet Burgers Inc,US75689M1018
+TIGO.NAS,Telecommunications Services,Millicom International Cellular SA,
+ARCT.NAS,Biotechnology & Medical Research,Arcturus Therapeutics Holdings Inc,US03969T1097
+FWONA.NAS,Media & Publishing,Liberty Media Formula One Series A,US5312298707
+SONO.NAS,"Computers, Phones & Household Electronics",Sonos,US83570H1086
+IRDM.NAS,Telecommunications Services,Iridium Communications Inc,US46269C1027
+ONEM.NAS,Healthcare Providers & Services,1Life Healthcare Inc,US68269G1076
+EDIT.NAS,Biotechnology & Medical Research,Editas Medicine Inc.,US28106W1036
+SANM.NAS,Semiconductors & Semiconductor Equipment,Sanmina Sci,US8010561020
+ODP.NAS,Specialty Retailers,ODP Corp,US88337F1057
+BLNK.NAS,"Machinery, Equipment & Components",Blink Charging Co.,US09354A1007
+SLGN.NAS,Containers & Packaging,Silgan Holdings Inc,US8270481091
+HALO.NAS,Biotechnology & Medical Research,Halozyme Therapeutics Inc,US40637H1095
+AVT.NAS,Electronic Equipment & Parts,Avnet Inc,US0538071038
+HAIN.NAS,Food & Tobacco,Hain Celestial Group Inc/The,US4052171000
+NATI.NAS,Software & IT Services,National Instruments Corp,US6365181022
+PGNY.NAS,Healthcare Providers & Services,Progyny Inc,US74340E1038
+PLAY.NAS,Hotels & Entertainment Services,Dave & Buster's Entertainment Inc,US2383371091
+IONS.NAS,Biotechnology & Medical Research,Ionis Pharmaceuticals Inc,US4622221004
+CSIQ.NAS,Renewable Energy,Canadian Solar Inc,
+UPWK.NAS,Professional & Commercial Services,Upwork Inc.,US91688F1049
+RVMD.NAS,Biotechnology & Medical Research,Revolution Medicines Inc,US76155X1000
+BHF.NAS,Insurance,Brighthouse Financial Inc,US10922N1037
+VIR.NAS,Biotechnology & Medical Research,Vir Biotechnology Inc,US92764N1028
+FROG.NAS,Software & IT Services,JFrog Ltd,
+BLDR.NAS,Homebuilding & Construction Supplies,Builders FirstSource Inc,US12008R1077
+MARA.NAS,Financial Technology (Fintech) & Infrastructure,Marathon Digital Holdings Inc,US5657881067
+FIZZ.NAS,Beverages,National Beverage Corp,US6350171061
+LSCC.NAS,Semiconductors & Semiconductor Equipment,Lattice Semiconductor Corp,US5184151042
+MRVL.NAS,Semiconductors & Semiconductor Equipment,Marvell,
+STLD.NAS,Metals & Mining,Steel Dynamics,US8581191009
+SFIX.NAS,Software & IT Services,Stitch Fix INC,US8608971078
+ABCB.NAS,Banking Services,Ameris Bancorp,US03076K1088
+VCYT.NAS,Biotechnology & Medical Research,Veracyte Inc,US92337F1075
+INGN.NAS,Healthcare Equipment & Supplies,Inogen Inc,US45780L1044
+TRIP.NAS,Hotels & Entertainment Services,TripAdvisor,US8969452015
+SKYW.NAS,Passenger Transportation Services,SkyWest Inc,US8308791024
+TPIC.NAS,Renewable Energy,TPI Composites Inc,US87266J1043
+AXSM.NAS,Biotechnology & Medical Research,Axsome Therapeutics Inc,US05464T1043
+UEIC.NAS,"Computers, Phones & Household Electronics",Universal Electronics Inc,US9134831034
+HTHT.NAS,Hotels & Entertainment Services,Huazhu Group Ltd,US44332N1063
+PCH.NAS,Residential & Commercial REIT,Potlatch Corp,US7376301039
+LPSN.NAS,Software & IT Services,LivePerson Inc,US5381461012
+DOMO.NAS,Software & IT Services,Domo Inc,US2575541055
+BBIO.NAS,Pharmaceuticals,BridgeBio Pharma,US10806X1028
+CEVA.NAS,Semiconductors & Semiconductor Equipment,CEVA Inc,US1572101053
+CAKE.NAS,Hotels & Entertainment Services,Cheesecake Factory Inc/The,US1630721017
+SEIC.NAS,Investment Banking & Investment Services,SEI Investments Co,US7841171033
+REGI.NAS,Textiles & Apparel,Renewable Energy Group Inc,US75972A3014
+YNDX.NAS,Software & IT Services,Yandex NV,
+PRFT.NAS,Software & IT Services,Perficient Inc,US71375U1016
+OSTK.NAS,Software & IT Services,Overstock.com Inc,US6903701018
+ARWR.NAS,Biotechnology & Medical Research,Arrowhead Research Corp,US04280A1007
+STNE.NAS,Financial Technology (Fintech) & Infrastructure,StoneCo Ltd.,
+SNEX.NAS,Investment Banking & Investment Services,StoneX Group Inc,US8618961085
+NUVA.NAS,Healthcare Equipment & Supplies,NuVasive Inc,US6707041058
+RDFN.NAS,Real Estate Operations,Redfin Corporation,US75737F1084
+BRKR.NAS,Healthcare Equipment & Supplies,Bruker Corp,US1167941087
+HQY.NAS,Software & IT Services,HealthEquity Inc,US42226A1079
+SRCL.NAS,Professional & Commercial Services,Stericycle,US8589121081
+IDCC.NAS,Communications & Networking,InterDigital Inc/PA,US45867G1013
+SMTC.NAS,Semiconductors & Semiconductor Equipment,Semtech Corp,US8168501018
+PLCE.NAS,Specialty Retailers,Children's Place Retail Stores,US1689051076
+EHTH.NAS,Insurance,eHealth Inc,US28238P1093
+SRPT.NAS,Biotechnology & Medical Research,Sarepta Therapeutics Inc,US8036071004
+MRCY.NAS,Aerospace & Defense,Mercury Systems Inc,US5893781089
+CAR.NAS,Passenger Transportation Services,Avis Budget Group Inc,US0537741052
+IIVI.NAS,Electronic Equipment & Parts,II-VI Inc,US9021041085
+SDGR.NAS,Software & IT Services,Schrodinger Inc,US80810D1037
+NTLA.NAS,Biotechnology & Medical Research,Intellia Therapeutics Inc,US45826J1051
+SYNH.NAS,Biotechnology & Medical Research,Syneos Health Inc,US87166B1026
+RPD.NAS,Software & IT Services,Rapid7 Inc,US7534221046
+FATE.NAS,Biotechnology & Medical Research,Fate Therapeutics Inc,US31189P1021
+SAGE.NAS,Biotechnology & Medical Research,Sage Therapeutics Inc,US78667J1088
+POWI.NAS,Semiconductors & Semiconductor Equipment,Power Integrations Inc,US7392761034
+CROX.NAS,Textiles & Apparel,Crocs,US2270461096
+ALRM.NAS,Software & IT Services,Alarm.com Holdings Inc,US0116421050
+CRUS.NAS,Semiconductors & Semiconductor Equipment,Cirrus Logic Inc,US1727551004
+OLLI.NAS,Diversified Retail,Ollie's Bargain Outlet Holdings Inc,US6811161099
+ACMR.NAS,Semiconductors & Semiconductor Equipment,ACM Research Inc,US00108J1097
+TNDM.NAS,Healthcare Equipment & Supplies,Tandem Diabetes Care Inc,US8753722037
+LITE.NAS,Communications & Networking,Lumentum Holdings Inc.,US55024U1097
+CVAC.NAS,Biotechnology & Medical Research,CureVac N.V.,
+PZZA.NAS,Hotels & Entertainment Services,Papa John's International Inc,US6988131024
+ITRI.NAS,"Machinery, Equipment & Components",Itron Inc,US4657411066
+BPMC.NAS,Biotechnology & Medical Research,Blueprint Medicines Corp,US09627Y1091
+RETA.NAS,Biotechnology & Medical Research,Reata Pharmaceuticals Inc,US75615P1030
+LAMR.NAS,Residential & Commercial REIT,Lamar Advertising Co.,US5128161099
+TXRH.NAS,Hotels & Entertainment Services,Texas Roadhouse Inc,US8826811098
+NTES.NAS,Software & IT Services,NetEase Inc,US64110W1027
+AMBA.NAS,Semiconductors & Semiconductor Equipment,Ambarella Inc,
+BILI.NAS,Software & IT Services,Bilibili Inc.,US0900401060
+CDLX.NAS,Media & Publishing,Cardlytics Inc,US14161W1053
+NARI.NAS,Healthcare Equipment & Supplies,Inari Medical Inc,US45332Y1091
+JACK.NAS,Hotels & Entertainment Services,Jack in the Box Inc,US4663671091
+RYAAY.NAS,Passenger Transportation Services,Ryanair Holdings plc,US7835132033
+BNTX.NAS,Biotechnology & Medical Research,BioNTech SE,US09075V1026
+AVAV.NAS,Aerospace & Defense,Aerovironment Inc,US0080731088
+CHKP.NAS,Software & IT Services,Check Point Software Technologies,
+IRBT.NAS,Electronic Equipment & Parts,iRobot Corp,US4627261005
+CRSP.NAS,Biotechnology & Medical Research,CRISPR Therapeutics AG,
+LECO.NAS,"Machinery, Equipment & Components",Lincoln Electric Holdings Inc,US5339001068
+EVBG.NAS,Software & IT Services,"Everbridge, Inc.",US29978A1043
+QDEL.NAS,Healthcare Equipment & Supplies,Quidel Corp,US74838J1016
+SWAV.NAS,Healthcare Equipment & Supplies,Shockwave Medical Inc.,US82489T1043
+NVCR.NAS,Healthcare Equipment & Supplies,Novocure Ltd,
+IRTC.NAS,Healthcare Equipment & Supplies,iRhythm Technologies Inc,US4500561067
+CYBR.NAS,Software & IT Services,Cyberark Software Ltd,
+SYNA.NAS,Semiconductors & Semiconductor Equipment,Synaptics Inc,US87157D1090
+PDD.NAS,Software & IT Services,Pinduoduo Inc.,US7223041028
+APPF.NAS,Software & IT Services,AppFolio Inc,US03783C1009
+EEFT.NAS,Professional & Commercial Services,Euronet Worldwide Inc,US2987361092
+NXST.NAS,Media & Publishing,Nexstar Broadcasting Group Inc,US65336K1034
+SLAB.NAS,Semiconductors & Semiconductor Equipment,Silicon Laboratories Inc,US8269191024
+JOUT.NAS,Leisure Products,Johnson Outdoors Inc,US4791671088
+FRPT.NAS,Food & Tobacco,Freshpet Inc,US3580391056
+JAZZ.NAS,Pharmaceuticals,Jazz Pharmaceuticals Plc,
+CBRL.NAS,Hotels & Entertainment Services,Cracker Barrel Old Country Sto,US22410J1060
+UTHR.NAS,Biotechnology & Medical Research,United Therapeutics Corp,US91307C1027
+MKSI.NAS,"Machinery, Equipment & Components",MKS Instruments Inc,US55306N1046
+NXPI.NAS,Semiconductors & Semiconductor Equipment,NXP Semiconductor NV,
+IDEX.NAS,Financial Technology (Fintech) & Infrastructure,Ideanomics Inc,US45166V1061
+CASY.NAS,Food & Drug Retailing,Casey's General Stores Inc,US1475281036
+TEAM.NAS,Software & IT Services,Atlassian,
+BIDU.NAS,Software & IT Services,Baidu Inc ADR Class A,US0567521085
+TREE.NAS,Banking Services,LendingTree Inc,US52603B1070
+CHDN.NAS,Hotels & Entertainment Services,Churchill Downs Inc,US1714841087
+SEDG.NAS,Renewable Energy,SolarEdge Technologies Inc,US83417M1045
+WIX.NAS,Software & IT Services,Wix.com Ltd,
+LULU.NAS,Textiles & Apparel,Lululemon Athletica Inc,US5500211090

@@ -1,0 +1,1578 @@
+Ticker,Category
+AR.NYSE,Oil & Gas E&P
+PBT.NYSE,Oil & Gas Midstream
+COMM.NAS,Oil & Gas Midstream
+SM.NYSE,Oil & Gas E&P
+XOM.NYSE,Oil & Gas Integrated
+DVN.NYSE,Oil & Gas E&P
+VLO.NYSE,Oil & Gas Refining & Marketing
+FTI.NYSE,Oil & Gas Equipment & Services
+MGY.NYSE,Oil & Gas E&P
+AMR.NYSE,Coking Coal
+MTB.NYSE,Banks—Regional
+CHS.NYSE,Apparel Retail
+PM.NYSE,Tobacco
+CLI.NYSE,Oil & Gas Midstream
+ENPC.NYSE,Shell Companies
+STNG.NYSE,Oil & Gas Midstream
+WTI.NYSE,Oil & Gas E&P
+EQT.NYSE,Oil & Gas E&P
+DK.NYSE,Oil & Gas Refining & Marketing
+LPI.NYSE,Oil & Gas E&P
+MTDR.NYSE,Oil & Gas E&P
+TTI.NYSE,Oil & Gas Equipment & Services
+PTEN.NAS,Oil & Gas Drilling
+KLAC.NAS,Semiconductor Equipment & Materials
+OLN.NYSE,Specialty Chemicals
+TDW.NYSE,Oil & Gas Equipment & Services
+XLE.NYSE,Equity Energy
+TEL.NYSE,Electronic Components
+COP.NYSE,Oil & Gas E&P
+MPWR.NAS,Semiconductors
+AAPL.NAS,"Computers, Phones & Household Electronics"
+ADBE.NAS,Software & IT Services
+ADI.NAS,Semiconductors & Semiconductor Equipment
+ADP.NAS,Software & IT Services
+AMAT.NAS,Semiconductors & Semiconductor Equipment
+AMGN.NAS,Pharmaceuticals
+AMZN.NAS,Diversified Retail
+ATVI.NAS,Software & IT Services
+AVGO.NAS,Semiconductors & Semiconductor Equipment
+BKNG.NAS,Hotels & Entertainment Services
+BIIB.NAS,Pharmaceuticals
+CELG.NAS,Pharmaceuticals
+CHTR.NAS,Telecommunications Services
+CMCSA.NAS,Media & Publishing
+CME.NAS,Investment Banking & Investment Services
+COST.NAS,Diversified Retail
+CRON.NAS,Pharmaceuticals
+CSCO.NAS,Communications & Networking
+CSX.NAS,Freight & Logistics Services
+CTSH.NAS,Software & IT Services
+DISH.NAS,Media & Publishing
+EQIX.NAS,Residential & Commercial REIT
+FOX.NAS,Media & Publishing
+FOXA.NAS,Media & Publishing
+GILD.NAS,Biotechnology & Medical Research
+GOOG.NAS,Software & IT Services
+INTC.NAS,Semiconductors & Semiconductor Equipment
+INTU.NAS,Financial Technology (Fintech) & Infrastructure
+ISRG.NAS,Healthcare Equipment & Supplies
+KHC.NAS,Food & Tobacco
+MAR.NAS,Hotels & Entertainment Services
+MDLZ.NAS,Food & Tobacco
+MSFT.NAS,Software & IT Services
+NFLX.NAS,Software & IT Services
+NVDA.NAS,Semiconductors & Semiconductor Equipment
+PEP.NAS,Beverages
+PYPL.NAS,Software & IT Services
+QCOM.NAS,Semiconductors & Semiconductor Equipment
+REGN.NAS,Biotechnology & Medical Research
+SBUX.NAS,Hotels & Entertainment Services
+TLRY.NAS,Pharmaceuticals
+TMUS.NAS,Telecommunications Services
+TSLA.NAS,Automobiles & Auto Parts
+TXN.NAS,Semiconductors & Semiconductor Equipment
+VRTX.NAS,Biotechnology & Medical Research
+WBA.NAS,Food & Drug Retailing
+ABBV.NYSE,Pharmaceuticals
+ABT.NYSE,Healthcare Equipment & Supplies
+ACB.NYSE,Pharmaceuticals
+AGN.NYSE,Insurance
+AXP.NYSE,Banking Services
+BAC.NYSE,Banking Services
+BLK.NYSE,Investment Banking & Investment Services
+BMY.NYSE,Pharmaceuticals
+CGC.NYSE,Pharmaceuticals
+CVX.NYSE,Oil & Gas
+DIS.NYSE,Media & Publishing
+DOW.NYSE,Chemicals
+HON.NYSE,Consumer Goods Conglomerates
+IBM.NYSE,Software & IT Services
+JNJ.NYSE,Pharmaceuticals
+JPM.NYSE,Banking Services
+LLY.NYSE,Pharmaceuticals
+LMT.NYSE,Aerospace & Defense
+MCD.NYSE,Hotels & Entertainment Services
+MMM.NYSE,Consumer Goods Conglomerates
+MRK.NYSE,Pharmaceuticals
+NKE.NYSE,Textiles & Apparel
+ORCL.NYSE,Software & IT Services
+PFE.NYSE,Pharmaceuticals
+SLB.NYSE,Oil & Gas Related Equipment and Services
+SPOT.NYSE,Software & IT Services
+UNH.NYSE,Healthcare Providers & Services
+UNP.NYSE,Freight & Logistics Services
+UPS.NYSE,Freight & Logistics Services
+USB.NYSE,Banking Services
+WFC.NYSE,Banking Services
+WMT.NYSE,Food & Drug Retailing
+XOM.NYSE,Oil & Gas
+VXX.NYSE,Banking Services
+DEO.NYSE,Beverages
+NEE.NYSE,Electrical Utilities & IPPs
+AMT.NYSE,Residential & Commercial REIT
+BABA.NYSE,Software & IT Services
+TMO.NYSE,Healthcare Equipment & Supplies
+LYFT.NAS,Software & IT Services
+UBER.NYSE,Software & IT Services
+PINS.NYSE,Software & IT Services
+ABMD.NAS,Healthcare Equipment & Supplies
+AMD.NAS,Semiconductors & Semiconductor Equipment
+AKAM.NAS,Software & IT Services
+ALGN.NAS,Healthcare Equipment & Supplies
+LNT.NAS,Electrical Utilities & IPPs
+AAL.NAS,Passenger Transportation Services
+AEP.NAS,Electrical Utilities & IPPs
+ANSS.NAS,Software & IT Services
+APA.NAS,Oil & Gas
+ADSK.NAS,Software & IT Services
+CHRW.NAS,Freight & Logistics Services
+CDNS.NAS,Software & IT Services
+CDW.NAS,Software & IT Services
+CINF.NAS,Insurance
+CTAS.NAS,Professional & Commercial Services
+CTXS.NAS,Software & IT Services
+CPRT.NAS,Specialty Retailers
+AAP.NYSE,Specialty Retailers
+AES.NYSE,Electrical Utilities & IPPs
+AFL.NYSE,Insurance
+APD.NYSE,Chemicals
+ALK.NYSE,Passenger Transportation Services
+ALLE.NYSE,Communications & Networking
+AMCR.NYSE,Containers & Packaging
+AEE.NYSE,Multiline Utilities
+AIG.NYSE,Insurance
+AWK.NYSE,Water Utilities
+AMP.NYSE,Investment Banking & Investment Services
+ABC.NYSE,Healthcare Equipment & Supplies
+AME.NYSE,"Machinery, Equipment & Components"
+APH.NYSE,Electronic Equipment & Parts
+AON.NYSE,Insurance
+AOS.NYSE,"Machinery, Equipment & Components"
+APTV.NYSE,Automobiles & Auto Parts
+ANET.NYSE,Communications & Networking
+AJG.NYSE,Insurance
+AIZ.NYSE,Insurance
+ATO.NYSE,Natural Gas Utilities
+AZO.NYSE,Specialty Retailers
+AVB.NYSE,Residential & Commercial REIT
+AVY.NYSE,Containers & Packaging
+BKR.NYSE,Oil & Gas Related Equipment and Services
+BLL.NYSE,Containers & Packaging
+BAX.NYSE,Healthcare Equipment & Supplies
+BDX.NYSE,Healthcare Equipment & Supplies
+BBY.NYSE,Specialty Retailers
+BWA.NYSE,Automobiles & Auto Parts
+BXP.NYSE,Residential & Commercial REIT
+BSX.NYSE,Healthcare Equipment & Supplies
+CPB.NYSE,Food & Tobacco
+COF.NYSE,Banking Services
+CAH.NYSE,Food & Drug Retailing
+KMX.NYSE,Specialty Retailers
+CCL.NYSE,Hotels & Entertainment Services
+CARR.NYSE,"Machinery, Equipment & Components"
+CTLT.NYSE,Pharmaceuticals
+CBRE.NYSE,Real Estate Operations
+CNC.NYSE,Healthcare Providers & Services
+CNP.NYSE,Multiline Utilities
+SCHW.NYSE,Investment Banking & Investment Services
+CMG.NYSE,Hotels & Entertainment Services
+CHD.NYSE,Personal & Household Products & Services
+CFG.NYSE,Banking Services
+CLX.NYSE,Personal & Household Products & Services
+CMS.NYSE,Multiline Utilities
+CMA.NYSE,Banking Services
+CAG.NYSE,Food & Tobacco
+COP.NYSE,Oil & Gas
+STZ.NYSE,Beverages
+COO.NYSE,Healthcare Equipment & Supplies
+GLW.NYSE,Electronic Equipment & Parts
+CTVA.NYSE,Food & Tobacco
+CCI.NYSE,Residential & Commercial REIT
+CMI.NYSE,Automobiles & Auto Parts
+DHI.NYSE,Homebuilding & Construction Supplies
+DHR.NYSE,Healthcare Equipment & Supplies
+DRI.NYSE,Hotels & Entertainment Services
+DVA.NYSE,Healthcare Providers & Services
+ACN.NYSE,Software & IT Services
+BF/B.NYSE,Food & Tobacco
+XRAY.NAS,Healthcare Equipment & Supplies
+DVN.NYSE,Oil & Gas
+DXCM.NAS,Healthcare Equipment & Supplies
+FANG.NAS,Oil & Gas
+DLR.NYSE,Residential & Commercial REIT
+DFS.NYSE,Banking Services
+DLTR.NAS,Diversified Retail
+DPZ.NYSE,Hotels & Entertainment Services
+DOV.NYSE,"Machinery, Equipment & Components"
+DTE.NYSE,Electrical Utilities & IPPs
+DUK.NYSE,Electrical Utilities & IPPs
+DRE.NYSE,Residential & Commercial REIT
+DXC.NYSE,Software & IT Services
+EMN.NYSE,Chemicals
+ETN.NYSE,"Machinery, Equipment & Components"
+ECL.NYSE,Chemicals
+EIX.NYSE,Electrical Utilities & IPPs
+EMR.NYSE,"Machinery, Equipment & Components"
+ENPH.NAS,Renewable Energy
+ETR.NYSE,Electrical Utilities & IPPs
+EOG.NYSE,Oil & Gas
+EFX.NYSE,Professional & Commercial Services
+EQR.NYSE,Residential & Commercial REIT
+ESS.NYSE,Residential & Commercial REIT
+ETSY.NAS,Diversified Retail
+EVRG.NYSE,Electrical Utilities & IPPs
+EXC.NAS,Electrical Utilities & IPPs
+EXPE.NAS,Hotels & Entertainment Services
+EXPD.NAS,Freight & Logistics Services
+EXR.NYSE,Residential & Commercial REIT
+FFIV.NAS,Software & IT Services
+FAST.NAS,"Machinery, Equipment & Components"
+FRT.NYSE,Residential & Commercial REIT
+FDX.NYSE,Freight & Logistics Services
+FIS.NYSE,Financial Technology (Fintech) & Infrastructure
+FITB.NAS,Banking Services
+FRC.NYSE,Banking Services
+FISV.NAS,Professional & Commercial Services
+FLT.NYSE,Professional & Commercial Services
+FLS.NYSE,"Machinery, Equipment & Components"
+FMC.NYSE,Chemicals
+FTNT.NAS,Software & IT Services
+FTV.NYSE,"Machinery, Equipment & Components"
+FBHS.NYSE,Homebuilding & Construction Supplies
+FCX.NYSE,Metals & Mining
+BEN.NYSE,Investment Banking & Investment Services
+GPS.NYSE,Specialty Retailers
+GRMN.NAS,Communications & Networking
+GIS.NYSE,Food & Tobacco
+GPC.NAS,Automobiles & Auto Parts
+GPN.NYSE,Professional & Commercial Services
+GWW.NYSE,"Machinery, Equipment & Components"
+HAL.NYSE,Oil & Gas Related Equipment and Services
+HBI.NYSE,Textiles & Apparel
+HIG.NYSE,Insurance
+HAS.NAS,Passenger Transportation Services
+HCA.NYSE,Healthcare Providers & Services
+PEAK.NYSE,Residential & Commercial REIT
+HSIC.NAS,Healthcare Equipment & Supplies
+HSY.NYSE,Food & Tobacco
+HES.NYSE,Oil & Gas
+HPE.NYSE,"Computers, Phones & Household Electronics"
+HLT.NYSE,Hotels & Entertainment Services
+HOLX.NAS,Healthcare Equipment & Supplies
+HRL.NYSE,Food & Tobacco
+HST.NAS,Residential & Commercial REIT
+HWM.NYSE,Aerospace & Defense
+HPQ.NYSE,"Computers, Phones & Household Electronics"
+HUM.NYSE,Healthcare Providers & Services
+HBAN.NAS,Banking Services
+HII.NYSE,Aerospace & Defense
+IEX.NYSE,"Machinery, Equipment & Components"
+IDXX.NAS,Healthcare Equipment & Supplies
+ITW.NYSE,Consumer Goods Conglomerates
+ILMN.NAS,Healthcare Equipment & Supplies
+INCY.NAS,Pharmaceuticals
+ICE.NYSE,Investment Banking & Investment Services
+IPG.NYSE,Media & Publishing
+IFF.NYSE,Food & Tobacco
+IVZ.NYSE,Investment Banking & Investment Services
+IPGP.NAS,Electronic Equipment & Parts
+IQV.NYSE,Biotechnology & Medical Research
+IRM.NYSE,Residential & Commercial REIT
+JBHT.NAS,Freight & Logistics Services
+SJM.NYSE,Food & Tobacco
+JCI.NYSE,"Machinery, Equipment & Components"
+JNPR.NYSE,Communications & Networking
+KEY.NYSE,Oil & Gas Related Equipment and Services
+KEYS.NYSE,"Machinery, Equipment & Components"
+KMB.NYSE,Personal & Household Products & Services
+KIM.NYSE,Residential & Commercial REIT
+KMI.NYSE,Oil & Gas Related Equipment and Services
+KLAC.NAS,Semiconductors & Semiconductor Equipment
+LB.NYSE,Chemicals
+LHX.NYSE,Aerospace & Defense
+LRCX.NAS,Semiconductors & Semiconductor Equipment
+LVS.NYSE,Hotels & Entertainment Services
+LEG.NYSE,Household Goods
+LDOS.NYSE,Software & IT Services
+LEN.NYSE,Homebuilding & Construction Supplies
+LNC.NYSE,Insurance
+LYV.NYSE,Media & Publishing
+LUMN.NYSE,Telecommunications Services
+LYB.NYSE,Chemicals
+MTB.NYSE,Banking Services
+MRO.NYSE,Oil & Gas
+MPC.NYSE,Oil & Gas
+MMC.NYSE,Insurance
+MLM.NYSE,Construction Materials
+MAS.NYSE,Homebuilding & Construction Supplies
+MKC.NYSE,Food & Tobacco
+MCK.NYSE,Food & Drug Retailing
+MDT.NYSE,Healthcare Equipment & Supplies
+MET.NYSE,Insurance
+MTD.NYSE,Office Equipment
+MCHP.NAS,Semiconductors & Semiconductor Equipment
+MAA.NYSE,Residential & Commercial REIT
+MHK.NYSE,Household Goods
+TAP.NYSE,Beverages
+MNST.NAS,Beverages
+MCO.NYSE,Professional & Commercial Services
+MOS.NYSE,Chemicals
+MSI.NYSE,Communications & Networking
+MSCI.NYSE,Professional & Commercial Services
+NDAQ.NAS,Investment Banking & Investment Services
+NTAP.NAS,"Computers, Phones & Household Electronics"
+NWL.NAS,Household Goods
+NEM.NYSE,Software & IT Services
+NWSA.NAS,Media & Publishing
+NWS.NAS,Construction & Engineering
+NLSN.NYSE,Media & Publishing
+NSC.NYSE,Freight & Logistics Services
+NTRS.NAS,Investment Banking & Investment Services
+NOC.NYSE,Aerospace & Defense
+NLOK.NAS,Software & IT Services
+NCLH.NYSE,Hotels & Entertainment Services
+NOV.NYSE,Oil & Gas Related Equipment and Services
+NRG.NYSE,Electrical Utilities & IPPs
+NUE.NYSE,Metals & Mining
+NVR.NYSE,Homebuilding & Construction Supplies
+ORLY.NAS,Specialty Retailers
+OXY.NYSE,Oil & Gas
+OMC.NYSE,Media & Publishing
+OKE.NYSE,Oil & Gas Related Equipment and Services
+OTIS.NYSE,"Machinery, Equipment & Components"
+PCAR.NAS,"Machinery, Equipment & Components"
+PKG.NYSE,Containers & Packaging
+PAYX.NAS,Professional & Commercial Services
+PAYC.NYSE,Software & IT Services
+PNR.NYSE,"Machinery, Equipment & Components"
+PKI.NYSE,Healthcare Equipment & Supplies
+PRGO.NYSE,Pharmaceuticals
+PSX.NYSE,Oil & Gas
+PNW.NYSE,Electrical Utilities & IPPs
+PXD.NYSE,Oil & Gas
+PNC.NYSE,Banking Services
+PPG.NYSE,Chemicals
+PPL.NYSE,Multiline Utilities
+PFG.NAS,Insurance
+PGR.NYSE,Insurance
+PLD.NYSE,Residential & Commercial REIT
+PRU.NYSE,Insurance
+PEG.NYSE,Multiline Utilities
+PHM.NYSE,Homebuilding & Construction Supplies
+PVH.NYSE,Textiles & Apparel
+PWR.NYSE,Construction & Engineering
+DGX.NYSE,Healthcare Providers & Services
+RJF.NYSE,Investment Banking & Investment Services
+RYN.NYSE,Residential & Commercial REIT
+REG.NAS,Residential & Commercial REIT
+RF.NYSE,Banking Services
+RSG.NYSE,Professional & Commercial Services
+RMD.NYSE,Healthcare Equipment & Supplies
+RHI.NYSE,Professional & Commercial Services
+ROK.NYSE,"Machinery, Equipment & Components"
+ROL.NYSE,Professional & Commercial Services
+ROP.NYSE,Software & IT Services
+ROST.NAS,Specialty Retailers
+RCL.NYSE,Hotels & Entertainment Services
+SPGI.NYSE,Professional & Commercial Services
+CRM.NYSE,Software & IT Services
+STX.NAS,Oil & Gas
+SEE.NYSE,Containers & Packaging
+SRE.NYSE,Multiline Utilities
+SHW.NYSE,Chemicals
+SPG.NYSE,Residential & Commercial REIT
+SLG.NYSE,Residential & Commercial REIT
+SNA.NYSE,"Machinery, Equipment & Components"
+LUV.NYSE,Passenger Transportation Services
+SWK.NYSE,"Machinery, Equipment & Components"
+STT.NYSE,Investment Banking & Investment Services
+SYK.NYSE,Healthcare Equipment & Supplies
+SYF.NYSE,Banking Services
+SYY.NYSE,Food & Drug Retailing
+TROW.NAS,Investment Banking & Investment Services
+TPR.NYSE,Specialty Retailers
+TGT.NYSE,Diversified Retail
+TEL.NYSE,"Machinery, Equipment & Components"
+FTI.NYSE,Oil & Gas Related Equipment and Services
+TDY.NYSE,Electronic Equipment & Parts
+TFX.NYSE,Healthcare Equipment & Supplies
+TXT.NYSE,Aerospace & Defense
+TJX.NYSE,Diversified Retail
+TDG.NYSE,Aerospace & Defense
+TRV.NYSE,Insurance
+TFC.NYSE,Banking Services
+TWTR.NYSE,Software & IT Services
+TYL.NYSE,Software & IT Services
+TSN.NYSE,Food & Tobacco
+UDR.NYSE,Residential & Commercial REIT
+ULTA.NAS,Specialty Retailers
+UAA.NYSE,Textiles & Apparel
+UAL.NAS,Passenger Transportation Services
+URI.NYSE,Professional & Commercial Services
+UHS.NYSE,Healthcare Providers & Services
+UNM.NYSE,Insurance
+VLO.NYSE,Oil & Gas
+VTR.NYSE,Residential & Commercial REIT
+VRSN.NAS,Software & IT Services
+VFC.NYSE,Textiles & Apparel
+VTRS.NAS,Pharmaceuticals
+VNO.NYSE,Residential & Commercial REIT
+VMC.NYSE,Construction Materials
+WRB.NYSE,Insurance
+WAB.NYSE,"Machinery, Equipment & Components"
+WM.NYSE,Professional & Commercial Services
+WAT.NYSE,Healthcare Equipment & Supplies
+WEC.NYSE,Electrical Utilities & IPPs
+WELL.NYSE,Residential & Commercial REIT
+WST.NYSE,Healthcare Equipment & Supplies
+WDC.NAS,"Computers, Phones & Household Electronics"
+WRK.NYSE,Containers & Packaging
+WHR.NYSE,Household Goods
+WMB.NYSE,Oil & Gas Related Equipment and Services
+WYNN.NAS,Hotels & Entertainment Services
+XEL.NAS,Electrical Utilities & IPPs
+XYL.NYSE,"Machinery, Equipment & Components"
+YUM.NYSE,Hotels & Entertainment Services
+ZBH.NYSE,Healthcare Equipment & Supplies
+ZION.NAS,Banking Services
+ZTS.NYSE,Pharmaceuticals
+JKHY.NAS,Software & IT Services
+LKQ.NAS,Automobiles & Auto Parts
+MKTX.NAS,Investment Banking & Investment Services
+ODFL.NAS,Freight & Logistics Services
+POOL.NAS,Leisure Products
+QRVO.NAS,Semiconductors & Semiconductor Equipment
+RDWR.NAS,Software & IT Services
+SBAC.NAS,Residential & Commercial REIT
+SWKS.NAS,Semiconductors & Semiconductor Equipment
+SIVB.NAS,Banking Services
+SNPS.NAS,Software & IT Services
+TTWO.NAS,Leisure Products
+TSCO.NAS,Specialty Retailers
+TRMB.NAS,Software & IT Services
+VRSK.NAS,Software & IT Services
+ZBRA.NAS,Electronic Equipment & Parts
+RTX.NYSE,Aerospace & Defense
+SNOW.NYSE,Software & IT Services
+VMW.NYSE,Software & IT Services
+SCCO.NYSE,Metals & Mining
+CVNA.NYSE,Specialty Retailers
+TDOC.NYSE,Healthcare Providers & Services
+RKT.NYSE,Banking Services
+PANW.NYSE,Software & IT Services
+KKR.NYSE,Investment Banking & Investment Services
+YUMC.NYSE,Hotels & Entertainment Services
+PCG.NYSE,Electrical Utilities & IPPs
+HUBS.NYSE,Software & IT Services
+EPAM.NYSE,Software & IT Services
+GNRC.NYSE,"Machinery, Equipment & Components"
+CUK.NYSE,Hotels & Entertainment Services
+ATUS.NYSE,Telecommunications Services
+HEI.NYSE,Aerospace & Defense
+INVH.NYSE,Residential & Commercial REIT
+SUI.NYSE,Residential & Commercial REIT
+ALLY.NYSE,Banking Services
+OSH.NYSE,Healthcare Providers & Services
+MKL.NYSE,Insurance
+AVLR.NYSE,Software & IT Services
+ESTC.NYSE,Software & IT Services
+CRL.NYSE,Biotechnology & Medical Research
+GDDY.NYSE,Software & IT Services
+CDAY.NYSE,Software & IT Services
+ELAN.NYSE,Pharmaceuticals
+FICO.NYSE,Software & IT Services
+SMG.NYSE,Chemicals
+CCK.NYSE,Containers & Packaging
+MPW.NYSE,Residential & Commercial REIT
+MOH.NYSE,Healthcare Providers & Services
+BRO.NYSE,Insurance
+WPC.NYSE,Residential & Commercial REIT
+TREX.NYSE,Homebuilding & Construction Supplies
+EQH.NYSE,Investment Banking & Investment Services
+FDS.NYSE,Professional & Commercial Services
+NLY.NYSE,Residential & Commercial REIT
+FNF.NYSE,Insurance
+MTN.NYSE,Hotels & Entertainment Services
+APO.NYSE,Investment Banking & Investment Services
+WTRG.NYSE,Water Utilities
+ELS.NYSE,Residential & Commercial REIT
+BAH.NYSE,Software & IT Services
+RPM.NYSE,Chemicals
+DAR.NYSE,Food & Tobacco
+WLK.NYSE,Chemicals
+TTC.NYSE,"Machinery, Equipment & Components"
+BFAM.NYSE,Personal & Household Products & Services
+GWRE.NYSE,Software & IT Services
+CPT.NYSE,Residential & Commercial REIT
+SMAR.NYSE,Software & IT Services
+LAD.NYSE,Specialty Retailers
+MGP.NYSE,Healthcare Providers & Services
+TWLO.NYSE,Software & IT Services
+ABNB.NAS,Software & IT Services
+AFRM.NAS,Financial Technology (Fintech) & Infrastructure
+ALNY.NAS,Biotechnology & Medical Research
+AMED.NAS,Healthcare Providers & Services
+APPN.NAS,Software & IT Services
+AZPN.NAS,Software & IT Services
+BMRN.NAS,Pharmaceuticals
+BSY.NAS,Software & IT Services
+BYND.NAS,Food & Tobacco
+CGNX.NAS,"Machinery, Equipment & Components"
+COUP.NAS,Software & IT Services
+CRWD.NAS,Software & IT Services
+CSGP.NAS,Software & IT Services
+CZR.NAS,Hotels & Entertainment Services
+DBX.NAS,Software & IT Services
+DDOG.NAS,Software & IT Services
+DKNG.NAS,Hotels & Entertainment Services
+DOCU.NAS,Software & IT Services
+ENTG.NAS,Semiconductors & Semiconductor Equipment
+ERIE.NAS,Insurance
+EXAS.NAS,Biotechnology & Medical Research
+EXPI.NAS,Real Estate Operations
+FIVE.NAS,Passenger Transportation Services
+FIVN.NAS,Software & IT Services
+FSLR.NAS,Renewable Energy
+FWONK.NAS,Media & Publishing
+GDRX.NAS,Software & IT Services
+GLPI.NAS,Residential & Commercial REIT
+IAC.NAS,Software & IT Services
+IBKR.NAS,Investment Banking & Investment Services
+KDP.NAS,Beverages
+LAZR.NAS,Automobiles & Auto Parts
+LBRDA.NAS,Media & Publishing
+LBRDK.NAS,Media & Publishing
+LOGI.NAS,"Computers, Phones & Household Electronics"
+LPLA.NAS,Investment Banking & Investment Services
+LSXMK.NAS,Media & Publishing
+MASI.NAS,Healthcare Equipment & Supplies
+MDB.NAS,Software & IT Services
+MORN.NAS,Professional & Commercial Services
+MPWR.NAS,Semiconductors & Semiconductor Equipment
+MRNA.NAS,Biotechnology & Medical Research
+MRTX.NAS,Biotechnology & Medical Research
+MTCH.NAS,Software & IT Services
+NBIX.NAS,Biotechnology & Medical Research
+NDSN.NAS,"Machinery, Equipment & Components"
+NTRA.NAS,Healthcare Equipment & Supplies
+NVAX.NAS,Biotechnology & Medical Research
+OKTA.NAS,Software & IT Services
+OLED.NAS,Semiconductors & Semiconductor Equipment
+ON.NAS,Passenger Transportation Services
+OPEN.NAS,Real Estate Operations
+PCTY.NAS,Software & IT Services
+PEGA.NAS,Software & IT Services
+PLUG.NAS,Renewable Energy
+PODD.NAS,Healthcare Equipment & Supplies
+PTC.NAS,Software & IT Services
+PTON.NAS,Leisure Products
+RGEN.NAS,Healthcare Equipment & Supplies
+ROKU.NAS,Media & Publishing
+RPRX.NAS,Pharmaceuticals
+RUN.NAS,Renewable Energy
+SBNY.NAS,Banking Services
+SGEN.NAS,Biotechnology & Medical Research
+SIRI.NAS,Media & Publishing
+SPLK.NAS,Software & IT Services
+SPWR.NAS,Renewable Energy
+SSNC.NAS,Software & IT Services
+TECH.NAS,Biotechnology & Medical Research
+TTD.NAS,Software & IT Services
+WDAY.NAS,Software & IT Services
+WISH.NAS,Software & IT Services
+WMG.NAS,Media & Publishing
+ZNGA.NAS,Software & IT Services
+MUX.NYSE,Metals & Mining
+BEST.NYSE,Freight & Logistics Services
+PEI.NYSE,Residential & Commercial REIT
+CIG.NYSE,Electrical Utilities & IPPs
+LYG.NYSE,Banking Services
+TTI.NYSE,Oil & Gas Related Equipment and Services
+ABEV.NYSE,Beverages
+BBAR.NYSE,Banking Services
+KOS.NYSE,Oil & Gas
+WMC.NYSE,Residential & Commercial REIT
+GNW.NYSE,Insurance
+CHS.NYSE,Specialty Retailers
+RIG.NYSE,Oil & Gas Related Equipment and Services
+WTI.NYSE,Oil & Gas
+NOK.NYSE,Communications & Networking
+MITT.NYSE,Residential & Commercial REIT
+IVR.NYSE,Residential & Commercial REIT
+MFA.NYSE,Residential & Commercial REIT
+BRFS.NYSE,Food & Tobacco
+BBD.NYSE,Banking Services
+SWN.NYSE,Oil & Gas
+AUY.NYSE,Metals & Mining
+TEF.NYSE,Telecommunications Services
+ITUB.NYSE,Banking Services
+HMY.NYSE,Metals & Mining
+HLX.NYSE,Oil & Gas Related Equipment and Services
+EXK.NYSE,Metals & Mining
+GCI.NYSE,Media & Publishing
+ARCO.NYSE,Hotels & Entertainment Services
+VHC.NYSE,Software & IT Services
+CRK.NYSE,Oil & Gas
+GGB.NYSE,Metals & Mining
+CBD.NYSE,Food & Drug Retailing
+PRTY.NYSE,Specialty Retailers
+DHT.NYSE,Oil & Gas Related Equipment and Services
+AMRX.NYSE,Pharmaceuticals
+AIV.NYSE,Residential & Commercial REIT
+BKD.NYSE,Healthcare Providers & Services
+FSM.NYSE,Metals & Mining
+CORR.NYSE,Residential & Commercial REIT
+KGC.NYSE,Metals & Mining
+SBS.NYSE,Water Utilities
+GOL.NYSE,Passenger Transportation Services
+AGRO.NYSE,Food & Tobacco
+PBI.NYSE,Office Equipment
+PBR.NYSE,Oil & Gas
+COTY.NYSE,Personal & Household Products & Services
+ADT.NYSE,Communications & Networking
+UMC.NYSE,Semiconductors & Semiconductor Equipment
+NVGS.NYSE,Oil & Gas Related Equipment and Services
+CDE.NYSE,Metals & Mining
+AXL.NYSE,Automobiles & Auto Parts
+AROC.NYSE,Oil & Gas Related Equipment and Services
+TWI.NYSE,Automobiles & Auto Parts
+CMRE.NYSE,Freight & Logistics Services
+DNOW.NYSE,"Machinery, Equipment & Components"
+RYAM.NYSE,Chemicals
+RRC.NYSE,Oil & Gas
+GFI.NYSE,Metals & Mining
+PGRE.NYSE,Residential & Commercial REIT
+LFC.NYSE,Insurance
+DRH.NYSE,Residential & Commercial REIT
+CTT.NYSE,Residential & Commercial REIT
+BCS.NYSE,Banking Services
+RWT.NYSE,Residential & Commercial REIT
+PUMP.NYSE,Oil & Gas Related Equipment and Services
+SOL.NYSE,Construction & Engineering
+NRZ.NYSE,Oil & Gas
+EGO.NYSE,Metals & Mining
+FBP.NYSE,Banking Services
+RFP.NYSE,Paper & Forest Products
+ESRT.NYSE,Residential & Commercial REIT
+FPI.NYSE,Residential & Commercial REIT
+TEVA.NYSE,Pharmaceuticals
+LXP.NYSE,Residential & Commercial REIT
+LBRT.NYSE,Oil & Gas Related Equipment and Services
+HYLN.NYSE,Automobiles & Auto Parts
+USX.NYSE,Freight & Logistics Services
+MGY.NYSE,Oil & Gas
+SLCA.NYSE,Metals & Mining
+TALO.NYSE,Oil & Gas
+CYH.NYSE,Healthcare Providers & Services
+SHO.NYSE,Residential & Commercial REIT
+CIM.NYSE,Residential & Commercial REIT
+BDN.NYSE,Residential & Commercial REIT
+SCM.NYSE,Collective Investments
+RGS.NYSE,Personal & Household Products & Services
+CARS.NYSE,Software & IT Services
+CLDT.NYSE,Residential & Commercial REIT
+GMRE.NYSE,Residential & Commercial REIT
+SITC.NYSE,Residential & Commercial REIT
+DBD.NYSE,"Computers, Phones & Household Electronics"
+AMX.NYSE,Telecommunications Services
+MWA.NYSE,"Machinery, Equipment & Components"
+SCS.NYSE,Professional & Commercial Services
+EVRI.NYSE,Hotels & Entertainment Services
+PBF.NYSE,Oil & Gas
+EDU.NYSE,Miscellaneous Educational Service Providers
+CNX.NYSE,Oil & Gas
+YEXT.NYSE,Software & IT Services
+KAR.NYSE,Specialty Retailers
+VLRS.NYSE,Passenger Transportation Services
+ZUO.NYSE,Software & IT Services
+MNRL.NYSE,Oil & Gas
+IRT.NYSE,Residential & Commercial REIT
+CLI.NYSE,Real Estate Operations
+RLJ.NYSE,Residential & Commercial REIT
+KRO.NYSE,Chemicals
+FSR.NYSE,Automobiles & Auto Parts
+IGT.NYSE,Hotels & Entertainment Services
+MUR.NYSE,Oil & Gas
+HTGC.NYSE,Investment Banking & Investment Services
+MANU.NYSE,Hotels & Entertainment Services
+SWCH.NYSE,"Computers, Phones & Household Electronics"
+LTHM.NYSE,Chemicals
+AMWL.NYSE,Healthcare Providers & Services
+CCJ.NYSE,Uranium
+TAK.NYSE,Pharmaceuticals
+HSC.NYSE,Professional & Commercial Services
+PDM.NYSE,Residential & Commercial REIT
+SM.NYSE,Oil & Gas
+VST.NYSE,Electrical Utilities & IPPs
+DBI.NYSE,Specialty Retailers
+EQT.NYSE,Oil & Gas
+CCU.NYSE,Beverages
+CLF.NYSE,Metals & Mining
+TPC.NYSE,Construction & Engineering
+STNG.NYSE,Oil & Gas Related Equipment and Services
+VALE.NYSE,Metals & Mining
+SBSW.NYSE,Metals & Mining
+GPK.NYSE,Containers & Packaging
+GNL.NYSE,Residential & Commercial REIT
+SRG.NYSE,Residential & Commercial REIT
+INFY.NYSE,Software & IT Services
+GTN.NYSE,Media & Publishing
+CVI.NYSE,Oil & Gas
+AKR.NYSE,Residential & Commercial REIT
+EQNR.NYSE,Oil & Gas
+SBH.NYSE,Specialty Retailers
+TME.NYSE,Software & IT Services
+TECK.NYSE,Metals & Mining
+TGNA.NYSE,Media & Publishing
+TROX.NYSE,Chemicals
+BRX.NYSE,Residential & Commercial REIT
+TTM.NYSE,Automobiles & Auto Parts
+KW.NYSE,Real Estate Operations
+FSK.NYSE,Collective Investments
+MTW.NYSE,"Machinery, Equipment & Components"
+CADE.NYSE,Banking Services
+AZUL.NYSE,Passenger Transportation Services
+TPH.NYSE,Homebuilding & Construction Supplies
+PSTG.NYSE,"Computers, Phones & Household Electronics"
+IMAX.NYSE,Media & Publishing
+FLR.NYSE,Construction & Engineering
+ATI.NYSE,Aerospace & Defense
+HRB.NYSE,Personal & Household Products & Services
+WRE.NYSE,Residential & Commercial REIT
+CNK.NYSE,Hotels & Entertainment Services
+ORI.NYSE,Insurance
+PLTR.NYSE,Software & IT Services
+RDN.NYSE,Insurance
+EPRT.NYSE,Residential & Commercial REIT
+BOX.NYSE,Software & IT Services
+MTDR.NYSE,Oil & Gas
+PEB.NYSE,Residential & Commercial REIT
+FLO.NYSE,Food & Tobacco
+BSAC.NYSE,Banking Services
+STWD.NYSE,Residential & Commercial REIT
+LEVI.NYSE,Textiles & Apparel
+CNO.NYSE,Insurance
+DDD.NYSE,Electronic Equipment & Parts
+HOME.NYSE,Banking Services
+CLR.NYSE,Oil & Gas
+TUP.NYSE,Household Goods
+ELF.NYSE,Specialty Retailers
+AQUA.NYSE,Professional & Commercial Services
+OFC.NYSE,Residential & Commercial REIT
+SKM.NYSE,Telecommunications Services
+FTAI.NYSE,Banking Services
+HPP.NYSE,Residential & Commercial REIT
+NOMD.NYSE,Food & Tobacco
+FCPT.NYSE,Residential & Commercial REIT
+HTA.NYSE,Telecommunications Services
+EQC.NYSE,Residential & Commercial REIT
+CWEN.NYSE,Electrical Utilities & IPPs
+HUN.NYSE,Chemicals
+ZTO.NYSE,Freight & Logistics Services
+PBA.NYSE,Oil & Gas Related Equipment and Services
+GTY.NYSE,Residential & Commercial REIT
+SPCE.NYSE,Aerospace & Defense
+HMC.NYSE,Automobiles & Auto Parts
+HSBC.NYSE,Banking Services
+AXTA.NYSE,Chemicals
+VIPS.NYSE,Software & IT Services
+AVTR.NYSE,Healthcare Equipment & Supplies
+JEF.NYSE,Investment Banking & Investment Services
+AEO.NYSE,Specialty Retailers
+CMC.NYSE,Metals & Mining
+BXMT.NYSE,Residential & Commercial REIT
+MDU.NYSE,Multiline Utilities
+TRGP.NYSE,Oil & Gas Related Equipment and Services
+AA.NYSE,Metals & Mining
+TMHC.NYSE,Homebuilding & Construction Supplies
+LRN.NYSE,Miscellaneous Educational Service Providers
+VSTO.NYSE,Leisure Products
+JBGS.NYSE,Residential & Commercial REIT
+DEI.NYSE,Residential & Commercial REIT
+AAT.NYSE,Residential & Commercial REIT
+EGHT.NYSE,Communications & Networking
+ASAN.NYSE,Software & IT Services
+STOR.NYSE,Residential & Commercial REIT
+AMH.NYSE,Residential & Commercial REIT
+MMI.NYSE,Real Estate Operations
+STAG.NYSE,Residential & Commercial REIT
+MXL.NYSE,Semiconductors & Semiconductor Equipment
+LPI.NYSE,Oil & Gas
+CUZ.NYSE,Residential & Commercial REIT
+UNFI.NYSE,Food & Drug Retailing
+JWN.NYSE,Diversified Retail
+CPE.NYSE,Oil & Gas
+ANF.NYSE,Specialty Retailers
+TPX.NYSE,Household Goods
+JMIA.NYSE,Software & IT Services
+KBR.NYSE,Software & IT Services
+OMI.NYSE,Healthcare Equipment & Supplies
+MAXR.NYSE,Communications & Networking
+HGV.NYSE,Hotels & Entertainment Services
+SAVE.NYSE,Passenger Transportation Services
+PLT.NYSE,Communications & Networking
+NIO.NYSE,Automobiles & Auto Parts
+BTI.NYSE,Food & Tobacco
+USFD.NYSE,Food & Drug Retailing
+NVTA.NYSE,Biotechnology & Medical Research
+OHI.NYSE,Residential & Commercial REIT
+NCR.NYSE,Software & IT Services
+ARMK.NYSE,Hotels & Entertainment Services
+GVA.NYSE,Construction & Engineering
+EPC.NYSE,Personal & Household Products & Services
+CUBE.NYSE,Residential & Commercial REIT
+COLD.NYSE,Residential & Commercial REIT
+OLN.NYSE,Chemicals
+ATGE.NYSE,Miscellaneous Educational Service Providers
+YELP.NYSE,Software & IT Services
+HOG.NYSE,Automobiles & Auto Parts
+NSA.NYSE,Residential & Commercial REIT
+MAIN.NYSE,Banking Services
+RMAX.NYSE,Real Estate Operations
+UGI.NYSE,Natural Gas Utilities
+KMT.NYSE,"Machinery, Equipment & Components"
+VVI.NYSE,Media & Publishing
+JOE.NYSE,Real Estate Operations
+PRG.NYSE,Personal & Household Products & Services
+HIW.NYSE,Residential & Commercial REIT
+SKX.NYSE,Textiles & Apparel
+LTC.NYSE,Residential & Commercial REIT
+BDC.NYSE,Communications & Networking
+ARCH.NYSE,Coal
+HLF.NYSE,Food & Tobacco
+BAM.NYSE,Investment Banking & Investment Services
+NNN.NYSE,Residential & Commercial REIT
+LAZ.NYSE,Investment Banking & Investment Services
+DEN.NYSE,Oil & Gas
+AJRD.NYSE,Aerospace & Defense
+ENR.NYSE,"Machinery, Equipment & Components"
+RVLV.NYSE,Diversified Retail
+GDOT.NYSE,Banking Services
+PAGS.NYSE,Professional & Commercial Services
+ESNT.NYSE,Insurance
+AMRC.NYSE,Renewable Energy
+TMX.NYSE,Professional & Commercial Services
+SPR.NYSE,Aerospace & Defense
+KBH.NYSE,Homebuilding & Construction Supplies
+EPR.NYSE,Residential & Commercial REIT
+NYT.NYSE,Media & Publishing
+SAH.NYSE,Specialty Retailers
+KNX.NYSE,Freight & Logistics Services
+CPRI.NYSE,Specialty Retailers
+THC.NYSE,Healthcare Providers & Services
+FTCH.NYSE,Software & IT Services
+CIT.NYSE,Professional & Commercial Services
+ABM.NYSE,Professional & Commercial Services
+NUS.NYSE,Personal & Household Products & Services
+ARGO.NYSE,Insurance
+REXR.NYSE,Residential & Commercial REIT
+THS.NYSE,Food & Tobacco
+JBL.NYSE,Electronic Equipment & Parts
+HASI.NYSE,Residential & Commercial REIT
+WWE.NYSE,Media & Publishing
+CIEN.NYSE,Communications & Networking
+HXL.NYSE,Aerospace & Defense
+GEF.NYSE,Containers & Packaging
+PFGC.NYSE,Food & Drug Retailing
+FAF.NYSE,Insurance
+DCI.NYSE,Professional & Commercial Services
+UVV.NYSE,Food & Tobacco
+TOL.NYSE,Homebuilding & Construction Supplies
+AER.NYSE,Professional & Commercial Services
+LPX.NYSE,Paper & Forest Products
+TRNO.NYSE,Residential & Commercial REIT
+KSS.NYSE,Diversified Retail
+MDC.NYSE,Homebuilding & Construction Supplies
+XEC.NYSE,Oil & Gas
+NEWR.NYSE,Software & IT Services
+BYD.NYSE,Hotels & Entertainment Services
+BERY.NYSE,Containers & Packaging
+GMED.NYSE,Healthcare Equipment & Supplies
+BUD.NYSE,Beverages
+SON.NYSE,Containers & Packaging
+BOOT.NYSE,Specialty Retailers
+ACM.NYSE,Construction & Engineering
+KRC.NYSE,Residential & Commercial REIT
+BIG.NYSE,Diversified Retail
+ADC.NYSE,Residential & Commercial REIT
+SAFE.NYSE,Residential & Commercial REIT
+UHT.NYSE,Residential & Commercial REIT
+ONTO.NYSE,Semiconductors & Semiconductor Equipment
+ENV.NYSE,Software & IT Services
+CUB.NYSE,Oil & Gas
+YETI.NYSE,Leisure Products
+ORA.NYSE,Electrical Utilities & IPPs
+SXT.NYSE,Chemicals
+GKOS.NYSE,Healthcare Equipment & Supplies
+BCO.NYSE,Professional & Commercial Services
+PAG.NYSE,Specialty Retailers
+EHC.NYSE,Healthcare Providers & Services
+DKS.NYSE,Specialty Retailers
+EBS.NYSE,Pharmaceuticals
+CHWY.NYSE,Specialty Retailers
+WGO.NYSE,Leisure Products
+CPA.NYSE,Passenger Transportation Services
+PLNT.NYSE,Hotels & Entertainment Services
+GIB.NYSE,Software & IT Services
+AYX.NYSE,Software & IT Services
+NSP.NYSE,Professional & Commercial Services
+AIN.NYSE,"Machinery, Equipment & Components"
+WCC.NYSE,"Machinery, Equipment & Components"
+NVS.NYSE,Pharmaceuticals
+CHGG.NYSE,Professional & Commercial Services
+LSI.NYSE,Residential & Commercial REIT
+SPB.NYSE,Household Goods
+DIN.NYSE,Hotels & Entertainment Services
+ASH.NYSE,Chemicals
+INGR.NYSE,Food & Tobacco
+LMND.NYSE,Insurance
+DELL.NYSE,"Computers, Phones & Household Electronics"
+CRI.NYSE,Specialty Retailers
+MTH.NYSE,Homebuilding & Construction Supplies
+ENS.NYSE,"Machinery, Equipment & Components"
+NBR.NYSE,Oil & Gas Related Equipment and Services
+ATHM.NYSE,Media & Publishing
+MTZ.NYSE,Construction & Engineering
+BMI.NYSE,"Machinery, Equipment & Components"
+DDS.NYSE,Diversified Retail
+USNA.NYSE,Food & Tobacco
+HHC.NYSE,Real Estate Operations
+QTWO.NYSE,Software & IT Services
+ADS.NYSE,Textiles & Apparel
+ARW.NYSE,Semiconductors & Semiconductor Equipment
+HAE.NYSE,Healthcare Equipment & Supplies
+EME.NYSE,Construction & Engineering
+SHAK.NYSE,Hotels & Entertainment Services
+AFG.NYSE,Insurance
+IBP.NYSE,Construction & Engineering
+OSK.NYSE,"Machinery, Equipment & Components"
+SNX.NYSE,"Computers, Phones & Household Electronics"
+DASH.NYSE,Software & IT Services
+RGA.NYSE,Insurance
+CNMD.NYSE,Healthcare Equipment & Supplies
+THG.NYSE,Insurance
+THO.NYSE,Leisure Products
+PII.NYSE,Leisure Products
+ZEN.NYSE,Software & IT Services
+JBT.NYSE,"Machinery, Equipment & Components"
+FCN.NYSE,Professional & Commercial Services
+NVRO.NYSE,Healthcare Equipment & Supplies
+MUSA.NYSE,Oil & Gas
+AGCO.NYSE,"Machinery, Equipment & Components"
+EGP.NYSE,Residential & Commercial REIT
+AMG.NYSE,Investment Banking & Investment Services
+RS.NYSE,Metals & Mining
+GPI.NYSE,Specialty Retailers
+RNR.NYSE,Insurance
+AYI.NYSE,Homebuilding & Construction Supplies
+VAC.NYSE,Hotels & Entertainment Services
+WSM.NYSE,Specialty Retailers
+JLL.NYSE,Real Estate Operations
+LEA.NYSE,Automobiles & Auto Parts
+MSGS.NYSE,Media & Publishing
+HUBB.NYSE,"Machinery, Equipment & Components"
+IIPR.NYSE,Residential & Commercial REIT
+INSP.NYSE,Healthcare Equipment & Supplies
+WEX.NYSE,Professional & Commercial Services
+MED.NYSE,Food & Tobacco
+FVRR.NYSE,Software & IT Services
+VEEV.NYSE,Healthcare Equipment & Supplies
+WSO.NYSE,"Machinery, Equipment & Components"
+PEN.NYSE,Healthcare Equipment & Supplies
+ALX.NYSE,Residential & Commercial REIT
+RNG.NYSE,Software & IT Services
+BURL.NYSE,Specialty Retailers
+CHE.NYSE,Healthcare Providers & Services
+GHC.NYSE,"School, College & University"
+SHOP.NYSE,Software & IT Services
+MAC.NYSE,Residential & Commercial REIT
+TAL.NYSE,Miscellaneous Educational Service Providers
+ONTX.NAS,Pharmaceuticals
+SNDL.NAS,Pharmaceuticals
+TNXP.NAS,Biotechnology & Medical Research
+TXMD.NAS,Pharmaceuticals
+NOVN.NAS,Pharmaceuticals
+ACRX.NAS,Biotechnology & Medical Research
+TTOO.NAS,Healthcare Equipment & Supplies
+GERN.NAS,Biotechnology & Medical Research
+XSPA.NAS,Personal & Household Products & Services
+JFU.NAS,Investment Banking & Investment Services
+VEON.NAS,Telecommunications Services
+TRVN.NAS,Biotechnology & Medical Research
+GNUS.NAS,Media & Publishing
+ATHX.NAS,Biotechnology & Medical Research
+CRBP.NAS,Biotechnology & Medical Research
+AGRX.NAS,Biotechnology & Medical Research
+MARK.NAS,Software & IT Services
+TELL.NAS,Passenger Transportation Services
+NBEV.NAS,Beverages
+NERV.NAS,Biotechnology & Medical Research
+WTRH.NAS,Software & IT Services
+VSTM.NAS,Biotechnology & Medical Research
+AGEN.NAS,Biotechnology & Medical Research
+VBIV.NAS,Biotechnology & Medical Research
+SPPI.NAS,Biotechnology & Medical Research
+ABUS.NAS,Pharmaceuticals
+RIGL.NAS,Biotechnology & Medical Research
+IFRX.NAS,Biotechnology & Medical Research
+OVID.NAS,Biotechnology & Medical Research
+CRNT.NAS,Communications & Networking
+WATT.NAS,"Machinery, Equipment & Components"
+SELB.NAS,Biotechnology & Medical Research
+GNPX.NAS,Biotechnology & Medical Research
+MNKD.NAS,Biotechnology & Medical Research
+ATNX.NAS,Biotechnology & Medical Research
+TRVG.NAS,Software & IT Services
+VRAY.NAS,Healthcare Equipment & Supplies
+CDEV.NAS,Oil & Gas
+OPK.NAS,Pharmaceuticals
+CPRX.NAS,Pharmaceuticals
+CBAY.NAS,Biotechnology & Medical Research
+NYMT.NAS,Residential & Commercial REIT
+ZYNE.NAS,Biotechnology & Medical Research
+NCMI.NAS,Media & Publishing
+IZEA.NAS,Software & IT Services
+VYGR.NAS,Biotechnology & Medical Research
+SOLO.NAS,Automobiles & Auto Parts
+ARAY.NAS,Healthcare Equipment & Supplies
+ADAP.NAS,Biotechnology & Medical Research
+BGCP.NAS,Investment Banking & Investment Services
+LXRX.NAS,Biotechnology & Medical Research
+VXRT.NAS,Biotechnology & Medical Research
+PNNT.NAS,Collective Investments
+CERS.NAS,Healthcare Equipment & Supplies
+VKTX.NAS,Biotechnology & Medical Research
+AYRO.NAS,Automobiles & Auto Parts
+WIMI.NAS,Software & IT Services
+LTRPA.NAS,Software & IT Services
+XNET.NAS,Software & IT Services
+KNDI.NAS,Automobiles & Auto Parts
+WETF.NAS,Investment Banking & Investment Services
+PRQR.NAS,Biotechnology & Medical Research
+VYNE.NAS,Pharmaceuticals
+CLVS.NAS,Biotechnology & Medical Research
+CNDT.NAS,Software & IT Services
+MGI.NAS,Professional & Commercial Services
+ORTX.NAS,Pharmaceuticals
+PTEN.NAS,Oil & Gas Related Equipment and Services
+AYTU.NAS,Pharmaceuticals
+PGEN.NAS,Pharmaceuticals
+PRTK.NAS,Pharmaceuticals
+PLYA.NAS,Hotels & Entertainment Services
+SRNE.NAS,Biotechnology & Medical Research
+BNGO.NAS,Healthcare Equipment & Supplies
+OCGN.NAS,Biotechnology & Medical Research
+IMGN.NAS,Biotechnology & Medical Research
+NNDM.NAS,Electronic Equipment & Parts
+PSEC.NAS,Collective Investments
+HLIT.NAS,Communications & Networking
+SURF.NAS,Biotechnology & Medical Research
+SFT.NAS,Specialty Retailers
+GEVO.NAS,Renewable Energy
+INO.NAS,Biotechnology & Medical Research
+DTIL.NAS,Biotechnology & Medical Research
+INSG.NAS,Communications & Networking
+GOSS.NAS,Biotechnology & Medical Research
+CASA.NAS,Communications & Networking
+CODX.NAS,Healthcare Equipment & Supplies
+EGAN.NAS,Software & IT Services
+FOLD.NAS,Biotechnology & Medical Research
+PBYI.NAS,Biotechnology & Medical Research
+PAGP.NAS,Oil & Gas Related Equipment and Services
+ADVM.NAS,Biotechnology & Medical Research
+INFN.NAS,Communications & Networking
+CRMD.NAS,Pharmaceuticals
+DVAX.NAS,Biotechnology & Medical Research
+PRVB.NAS,Biotechnology & Medical Research
+GOGO.NAS,Telecommunications Services
+SDC.NAS,Healthcare Equipment & Supplies
+DOYU.NAS,Software & IT Services
+GLAD.NAS,Collective Investments
+NMRK.NAS,Real Estate Operations
+LUNA.NAS,"Machinery, Equipment & Components"
+BCRX.NAS,Biotechnology & Medical Research
+QIWI.NAS,Professional & Commercial Services
+NDLS.NAS,Hotels & Entertainment Services
+OSUR.NAS,Healthcare Equipment & Supplies
+GLNG.NAS,Oil & Gas Related Equipment and Services
+VRA.NAS,Textiles & Apparel
+UNIT.NAS,Residential & Commercial REIT
+CRIS.NAS,Biotechnology & Medical Research
+SGMO.NAS,Biotechnology & Medical Research
+QRTEA.NAS,Diversified Retail
+SVC.NAS,Residential & Commercial REIT
+GPRO.NAS,"Computers, Phones & Household Electronics"
+PFLT.NAS,Collective Investments
+ALDX.NAS,Biotechnology & Medical Research
+FOSL.NAS,Textiles & Apparel
+CWCO.NAS,Water Utilities
+NESR.NAS,Oil & Gas Related Equipment and Services
+FCEL.NAS,Renewable Energy
+NKLA.NAS,Automobiles & Auto Parts
+ERIC.NAS,Communications & Networking
+WKHS.NAS,Automobiles & Auto Parts
+LILA.NAS,Telecommunications Services
+CLNE.NAS,Oil & Gas
+EOLS.NAS,Pharmaceuticals
+ATRA.NAS,Biotechnology & Medical Research
+ANGI.NAS,Software & IT Services
+NAVI.NAS,Banking Services
+CHRS.NAS,Biotechnology & Medical Research
+SSSS.NAS,Collective Investments
+MRNS.NAS,Pharmaceuticals
+ZYXI.NAS,Healthcare Equipment & Supplies
+MITK.NAS,Software & IT Services
+SSRM.NAS,Metals & Mining
+MOMO.NAS,Software & IT Services
+SABR.NAS,Software & IT Services
+MVIS.NAS,Electronic Equipment & Parts
+AVXL.NAS,Biotechnology & Medical Research
+VIAV.NAS,Communications & Networking
+ROIC.NAS,Residential & Commercial REIT
+OCUL.NAS,Pharmaceuticals
+AGNC.NAS,Residential & Commercial REIT
+XBIT.NAS,Biotechnology & Medical Research
+SPWH.NAS,Specialty Retailers
+IHRT.NAS,Media & Publishing
+SWBI.NAS,Leisure Products
+DENN.NAS,Hotels & Entertainment Services
+AMRS.NAS,Chemicals
+CAN.NAS,Passenger Transportation Services
+SBRA.NAS,Residential & Commercial REIT
+FLEX.NAS,Electronic Equipment & Parts
+SLM.NAS,Banking Services
+ARCC.NAS,Collective Investments
+AXGN.NAS,Healthcare Equipment & Supplies
+NKTR.NAS,Pharmaceuticals
+SPTN.NAS,Food & Drug Retailing
+TTCF.NAS,Food & Tobacco
+MCRB.NAS,Biotechnology & Medical Research
+GOOD.NAS,Passenger Transportation Services
+MLCO.NAS,Hotels & Entertainment Services
+ACAD.NAS,Biotechnology & Medical Research
+JBLU.NAS,Passenger Transportation Services
+PCVX.NAS,Biotechnology & Medical Research
+CLDX.NAS,Biotechnology & Medical Research
+VREX.NAS,Healthcare Equipment & Supplies
+CLSK.NAS,Financial Technology (Fintech) & Infrastructure
+WEN.NAS,Hotels & Entertainment Services
+AVID.NAS,Software & IT Services
+CONN.NAS,Specialty Retailers
+NMIH.NAS,Insurance
+LI.NAS,Textiles & Apparel
+ICPT.NAS,Biotechnology & Medical Research
+CYTK.NAS,Biotechnology & Medical Research
+SNDX.NAS,Biotechnology & Medical Research
+EXEL.NAS,Biotechnology & Medical Research
+ILPT.NAS,Residential & Commercial REIT
+RUBY.NAS,Biotechnology & Medical Research
+CDXS.NAS,Biotechnology & Medical Research
+ALVR.NAS,Biotechnology & Medical Research
+RUTH.NAS,Hotels & Entertainment Services
+CMTL.NAS,Communications & Networking
+QFIN.NAS,Banking Services
+LBTYK.NAS,Telecommunications Services
+LBTYA.NAS,Telecommunications Services
+SFM.NAS,Food & Drug Retailing
+RVNC.NAS,Biotechnology & Medical Research
+CARA.NAS,Biotechnology & Medical Research
+BLMN.NAS,Hotels & Entertainment Services
+FLWS.NAS,Specialty Retailers
+ANDE.NAS,Food & Tobacco
+HEAR.NAS,"Computers, Phones & Household Electronics"
+NTNX.NAS,Software & IT Services
+KTOS.NAS,Aerospace & Defense
+OPI.NAS,Residential & Commercial REIT
+BBBY.NAS,Specialty Retailers
+GPRE.NAS,Renewable Energy
+TSEM.NAS,Semiconductors & Semiconductor Equipment
+VUZI.NAS,Electronic Equipment & Parts
+BLUE.NAS,Biotechnology & Medical Research
+SBGI.NAS,Media & Publishing
+GIII.NAS,Textiles & Apparel
+MMYT.NAS,Hotels & Entertainment Services
+ITCI.NAS,Biotechnology & Medical Research
+CHEF.NAS,Food & Drug Retailing
+PDCO.NAS,Healthcare Equipment & Supplies
+PACB.NAS,Healthcare Equipment & Supplies
+QURE.NAS,Biotechnology & Medical Research
+PINC.NAS,Healthcare Providers & Services
+EGLE.NAS,Freight & Logistics Services
+SSTI.NAS,Software & IT Services
+PDCE.NAS,Oil & Gas
+BLFS.NAS,Healthcare Equipment & Supplies
+STOK.NAS,Biotechnology & Medical Research
+GNTX.NAS,Automobiles & Auto Parts
+NIU.NAS,Automobiles & Auto Parts
+EVER.NAS,Software & IT Services
+GO.NAS,Passenger Transportation Services
+BZUN.NAS,Software & IT Services
+URBN.NAS,Specialty Retailers
+TCOM.NAS,Hotels & Entertainment Services
+VRM.NAS,Software & IT Services
+RRGB.NAS,Hotels & Entertainment Services
+TIGO.NAS,Telecommunications Services
+ARCT.NAS,Biotechnology & Medical Research
+FWONA.NAS,Media & Publishing
+SONO.NAS,"Computers, Phones & Household Electronics"
+IRDM.NAS,Telecommunications Services
+ONEM.NAS,Healthcare Providers & Services
+CORE.NAS,Real Estate Operations
+EDIT.NAS,Biotechnology & Medical Research
+SANM.NAS,Semiconductors & Semiconductor Equipment
+ODP.NAS,Specialty Retailers
+BLNK.NAS,"Machinery, Equipment & Components"
+SLGN.NAS,Containers & Packaging
+HALO.NAS,Biotechnology & Medical Research
+AVT.NAS,Electronic Equipment & Parts
+HAIN.NAS,Food & Tobacco
+NATI.NAS,Software & IT Services
+PGNY.NAS,Healthcare Providers & Services
+PLAY.NAS,Hotels & Entertainment Services
+IONS.NAS,Biotechnology & Medical Research
+CSIQ.NAS,Renewable Energy
+UPWK.NAS,Professional & Commercial Services
+RVMD.NAS,Biotechnology & Medical Research
+BHF.NAS,Insurance
+VIR.NAS,Biotechnology & Medical Research
+FROG.NAS,Software & IT Services
+BLDR.NAS,Homebuilding & Construction Supplies
+MARA.NAS,Financial Technology (Fintech) & Infrastructure
+FIZZ.NAS,Beverages
+LSCC.NAS,Semiconductors & Semiconductor Equipment
+MRVL.NAS,Semiconductors & Semiconductor Equipment
+STLD.NAS,Metals & Mining
+SFIX.NAS,Software & IT Services
+ABCB.NAS,Banking Services
+VCYT.NAS,Biotechnology & Medical Research
+INGN.NAS,Healthcare Equipment & Supplies
+TRIP.NAS,Hotels & Entertainment Services
+SKYW.NAS,Passenger Transportation Services
+TPIC.NAS,Renewable Energy
+AXSM.NAS,Biotechnology & Medical Research
+UEIC.NAS,"Computers, Phones & Household Electronics"
+HTHT.NAS,Hotels & Entertainment Services
+PCH.NAS,Residential & Commercial REIT
+LPSN.NAS,Software & IT Services
+DOMO.NAS,Software & IT Services
+BBIO.NAS,Pharmaceuticals
+CEVA.NAS,Semiconductors & Semiconductor Equipment
+CAKE.NAS,Hotels & Entertainment Services
+SEIC.NAS,Investment Banking & Investment Services
+REGI.NAS,Textiles & Apparel
+YNDX.NAS,Software & IT Services
+PRFT.NAS,Software & IT Services
+OSTK.NAS,Software & IT Services
+ARWR.NAS,Biotechnology & Medical Research
+STNE.NAS,Financial Technology (Fintech) & Infrastructure
+SNEX.NAS,Investment Banking & Investment Services
+NUVA.NAS,Healthcare Equipment & Supplies
+RDFN.NAS,Real Estate Operations
+BRKR.NAS,Healthcare Equipment & Supplies
+HQY.NAS,Software & IT Services
+SRCL.NAS,Professional & Commercial Services
+IDCC.NAS,Communications & Networking
+SMTC.NAS,Semiconductors & Semiconductor Equipment
+PLCE.NAS,Specialty Retailers
+EHTH.NAS,Insurance
+SRPT.NAS,Biotechnology & Medical Research
+MRCY.NAS,Aerospace & Defense
+CAR.NAS,Passenger Transportation Services
+IIVI.NAS,Electronic Equipment & Parts
+SDGR.NAS,Software & IT Services
+NTLA.NAS,Biotechnology & Medical Research
+SYNH.NAS,Biotechnology & Medical Research
+RPD.NAS,Software & IT Services
+FATE.NAS,Biotechnology & Medical Research
+SAGE.NAS,Biotechnology & Medical Research
+POWI.NAS,Semiconductors & Semiconductor Equipment
+CROX.NAS,Textiles & Apparel
+ALRM.NAS,Software & IT Services
+CRUS.NAS,Semiconductors & Semiconductor Equipment
+OLLI.NAS,Diversified Retail
+ACMR.NAS,Semiconductors & Semiconductor Equipment
+TNDM.NAS,Healthcare Equipment & Supplies
+LITE.NAS,Communications & Networking
+CVAC.NAS,Biotechnology & Medical Research
+PZZA.NAS,Hotels & Entertainment Services
+ITRI.NAS,"Machinery, Equipment & Components"
+BPMC.NAS,Biotechnology & Medical Research
+RETA.NAS,Biotechnology & Medical Research
+LAMR.NAS,Residential & Commercial REIT
+TXRH.NAS,Hotels & Entertainment Services
+NTES.NAS,Software & IT Services
+AMBA.NAS,Semiconductors & Semiconductor Equipment
+BILI.NAS,Software & IT Services
+CDLX.NAS,Media & Publishing
+NARI.NAS,Healthcare Equipment & Supplies
+JACK.NAS,Hotels & Entertainment Services
+RYAAY.NAS,Passenger Transportation Services
+BNTX.NAS,Biotechnology & Medical Research
+AVAV.NAS,Aerospace & Defense
+CHKP.NAS,Software & IT Services
+IRBT.NAS,Electronic Equipment & Parts
+CRSP.NAS,Biotechnology & Medical Research
+LECO.NAS,"Machinery, Equipment & Components"
+EVBG.NAS,Software & IT Services
+QDEL.NAS,Healthcare Equipment & Supplies
+SWAV.NAS,Healthcare Equipment & Supplies
+NVCR.NAS,Healthcare Equipment & Supplies
+IRTC.NAS,Healthcare Equipment & Supplies
+CYBR.NAS,Software & IT Services
+SYNA.NAS,Semiconductors & Semiconductor Equipment
+PDD.NAS,Software & IT Services
+APPF.NAS,Software & IT Services
+EEFT.NAS,Professional & Commercial Services
+NXST.NAS,Media & Publishing
+SLAB.NAS,Semiconductors & Semiconductor Equipment
+JOUT.NAS,Leisure Products
+FRPT.NAS,Food & Tobacco
+JAZZ.NAS,Pharmaceuticals
+CBRL.NAS,Hotels & Entertainment Services
+UTHR.NAS,Biotechnology & Medical Research
+MKSI.NAS,"Machinery, Equipment & Components"
+NXPI.NAS,Semiconductors & Semiconductor Equipment
+IDEX.NAS,Financial Technology (Fintech) & Infrastructure
+CASY.NAS,Food & Drug Retailing
+TEAM.NAS,Software & IT Services
+BIDU.NAS,Software & IT Services
+TREE.NAS,Banking Services
+CHDN.NAS,Hotels & Entertainment Services
+SEDG.NAS,Renewable Energy
+WIX.NAS,Software & IT Services
+LULU.NAS,Textiles & Apparel
+CACC.NAS,Banking Services
+MSTR.NAS,Software & IT Services
+MELI.NAS,Software & IT Services
+HOOD.NAS,Financial Technology (Fintech) & Infrastructure
+PANW.NAS,Software & IT Services
+MVRS.NAS,Software & IT Services
+VRE.NYSE,Residential & Commercial REIT
+MXL.NAS,Semiconductors & Semiconductor Equipment
+DBRG.NYSE,Residential & Commercial REIT
+DBRG.NYSE.a,Residential & Commercial REIT
+POLY.NYSE,Communications & Networking
+POLY.NYSE.a,Communications & Networking
+MNTV.NAS,Software & IT Services
+MNTV.NAS.a,Software & IT Services
+PARA.NAS,Media & Publishing
+ADTH.NAS,Software & IT Services
+ADAG.NAS,Biotechnology & Medical Research
+ADGI.NAS,Biotechnology & Medical Research
+ADMP.NAS,Pharmaceuticals
+AHCO.NAS,Healthcare Equipment & Supplies
+ADPT.NAS,Biotechnology & Medical Research
+ADUS.NAS,Healthcare Providers & Services
+ADNT.NYSE,Automobiles & Auto Parts
+ASIX.NYSE,Chemicals
+WMS.NYSE,Homebuilding & Construction Supplies
+ADES.NAS,Professional & Commercial Services
+ADN.NAS,Renewable Energy
+AGLE.NAS,Biotechnology & Medical Research
+AEG.NYSE,Insurance
+AEHR.NAS,Semiconductors & Semiconductor Equipment
+AMTX.NAS,Renewable Energy
+AENZ.NYSE,Construction & Engineering
+AFMD.NAS,Biotechnology & Medical Research
+AFYA.NAS,Professional & Business Education
+AEM.NYSE,Metals & Mining
+BIRD.NAS,Textiles & Apparel
+AMR.NYSE,Metals & Mining
+ATEC.NAS,Healthcare Equipment & Supplies
+ALPN.NAS,Biotechnology & Medical Research
+PINE.NYSE,Residential & Commercial REIT
+ALTG.NYSE,"Machinery, Equipment & Components"
+ASTE.NAS,"Machinery, Equipment & Components"
+AZN.NAS,Pharmaceuticals
+ACLS.NAS,Semiconductors & Semiconductor Equipment
+AXS.NYSE,Insurance
+AXON.NAS,Aerospace & Defense
+APRN.NYSE,Food & Tobacco
+BBW.NYSE,Specialty Retailers
+CNHI.NYSE,"Machinery, Equipment & Components"
+CWT.NYSE,Water Utilities
+CBAN.NAS,Banking Services
+CBU.NYSE,Banking Services
+CNCE.NAS,Biotechnology & Medical Research
+CFRX.NAS,Biotechnology & Medical Research
+CTKB.NAS,Healthcare Equipment & Supplies
+FHN.NYSE,Banking Services
+GME.NYSE,Specialty Retailers
+GMTX.NAS,Biotechnology & Medical Research
+GNK.NYSE,Freight & Logistics Services
+GABC.NAS,Banking Services
+GSK.NYSE,Pharmaceuticals
+GRAB.NAS,Software & IT Services
+GRIN.NAS,Freight & Logistics Services
+GRPN.NAS,Diversified Retail
+GRWG.NAS,Specialty Retailers
+KEN.NYSE,Electrical Utilities & IPPs
+LXU.NYSE,Chemicals
+MNDY.NAS,Software & IT Services
+RENN.NYSE,Software & IT Services
+RIVN.NAS,Automobiles & Auto Parts
+RBLX.NYSE,Software & IT Services
+RKLB.NAS,Aerospace & Defense
+RCKT.NAS,Biotechnology & Medical Research
+ROVR.NAS,Personal & Household Products & Services
+SGA.NAS,Media & Publishing
+SPNS.NAS,Software & IT Services
+SAR.NYSE,Investment Banking & Investment Services
+SILK.NAS,Healthcare Equipment & Supplies
+SBOW.NYSE,Oil & Gas
+SBTX.NAS,Biotechnology & Medical Research
+SOFI.NAS,Banking Services
+STKL.NAS,Food & Tobacco
+GLG.NAS,Passenger Transportation Services
+TFSL.NAS,Banking Services
+TSBK.NAS,Banking Services
+TKR.NYSE,"Machinery, Equipment & Components"
+TMST.NYSE,Metals & Mining
+UPST.NAS,Banking Services
+URGN.NAS,Biotechnology & Medical Research
+USIO.NAS,Professional & Commercial Services
+VECO.NAS,Semiconductors & Semiconductor Equipment
+VET.NYSE,Oil & Gas
+VSCO.NYSE,Specialty Retailers
+WERN.NAS,Freight & Logistics Services
+ABEO.NAS,Biotechnology & Medical Research
+FAX.NYSE,Collective Investments
+RERE.NYSE,Diversified Retail
+AIKI.NAS,Biotechnology & Medical Research
+ALRN.NAS,Biotechnology & Medical Research
+ATSG.NAS,Freight & Logistics Services
+AIRS.NAS,Healthcare Providers & Services
+AIRG.NAS,Communications & Networking
+ANTE.NAS,Media & Publishing
+MIMO.NYSE,Software & IT Services
+AKTX.NAS,Biotechnology & Medical Research
+KERN.NAS,Software & IT Services
+AKRO.NAS,Biotechnology & Medical Research
+AKUS.NAS,Biotechnology & Medical Research
+AKTS.NAS,Electronic Equipment & Parts
+AKYA.NAS,Healthcare Equipment & Supplies
+AHG.NAS,Software & IT Services
+AGI.NYSE,Hotels & Entertainment Services
+ACI.NYSE,Food & Drug Retailing
+ALBO.NAS,Biotechnology & Medical Research
+ALC.NYSE,Healthcare Equipment & Supplies
+ALEC.NAS,Biotechnology & Medical Research
+ALRS.NAS,Banking Services
+ALEX.NYSE,Residential & Commercial REIT
+DOX.NAS,Software & IT Services
+AVD.NYSE,Chemicals
+BGRY.NAS,"Machinery, Equipment & Components"
+BHLB.NYSE,Banking Services
+BZFD.NAS,Software & IT Services
+LAW.NYSE,Software & IT Services
+CALX.NYSE,Communications & Networking
+CWST.NAS,Professional & Commercial Services
+CASS.NAS,Professional & Commercial Services
+CSTL.NAS,Healthcare Equipment & Supplies
+CTRM.NAS,Freight & Logistics Services
+CATY.NAS,Banking Services
+CATO.NYSE,Specialty Retailers
+CVCO.NAS,Homebuilding & Construction Supplies
+CZOO.NYSE,Specialty Retailers
+CECE.NAS,Professional & Commercial Services
+CDR.NYSE,Residential & Commercial REIT
+CELC.NAS,Biotechnology & Medical Research
+CLS.NYSE,Electronic Equipment & Parts
+CLBT.NAS,Software & IT Services
+CLRB.NAS,Pharmaceuticals
+CLSN.NAS,Biotechnology & Medical Research
+CELH.NAS,Beverages
+CELU.NAS,Biotechnology & Medical Research
+CPAC.NYSE,Construction Materials
+CENN.NAS,Automobiles & Auto Parts
+CVE.NYSE,Oil & Gas
+CSR.NYSE,Residential & Commercial REIT
+COIN.NAS,Financial Technology (Fintech) & Infrastructure
+COUR.NYSE,Software & IT Services
+CRSR.NAS,"Computers, Phones & Household Electronics"
+DAVE.NAS,Financial Technology (Fintech) & Infrastructure
+DAWN.NAS,Biotechnology & Medical Research
+EKSO.NAS,Healthcare Equipment & Supplies
+EEX.NYSE,Professional & Commercial Services
+GAME.NAS,Software & IT Services
+GMBL.NAS,Software & IT Services
+EVO.NAS,Biotechnology & Medical Research
+EXAI.NAS,Biotechnology & Medical Research
+XGN.NAS,Healthcare Providers & Services
+ENPC.NYSE,Holding Companies
+XCUR.NAS,Biotechnology & Medical Research
+EXLS.NAS,Professional & Commercial Services
+EXFY.NAS,Software & IT Services
+EXPO.NAS,Professional & Commercial Services
+EXPR.NYSE,Specialty Retailers
+XPRO.NYSE,Oil & Gas Related Equipment and Services
+RACE.NYSE,Automobiles & Auto Parts
+GMS.NYSE,Homebuilding & Construction Supplies
+GSIT.NAS,Semiconductors & Semiconductor Equipment
+LAND.NAS,Residential & Commercial REIT
+GES.NYSE,Specialty Retailers
+ICFI.NAS,Professional & Commercial Services
+IHS.NYSE,Telecommunications Services
+IGAC.NAS,Holding Companies
+IGMS.NAS,Biotechnology & Medical Research
+LTRY.NAS,Hotels & Entertainment Services
+SHEL.NYSE,Oil & Gas
+SHEN.NAS,Telecommunications Services
+SHG.NYSE,Banking Services
+SHLS.NAS,Renewable Energy
+SCVL.NAS,Specialty Retailers
+SHBI.NAS,Banking Services
+SSTK.NYSE,Software & IT Services
+SHYF.NAS,Automobiles & Auto Parts
+SITM.NAS,Semiconductors & Semiconductor Equipment
+BSRR.NAS,Banking Services
+SIER.NAS,Holding Companies
+SWIR.NAS,Communications & Networking
+SIFY.NAS,Telecommunications Services
+SGHT.NAS,Healthcare Equipment & Supplies
+SGTX.NAS,Biotechnology & Medical Research
+SSU.NYSE,Specialty Retailers
+SIG.NYSE,Specialty Retailers
+SGFY.NYSE,Healthcare Providers & Services
+SILC.NAS,Communications & Networking
+SIMO.NAS,Semiconductors & Semiconductor Equipment
+SAMG.NAS,Investment Banking & Investment Services
+SMWB.NYSE,Software & IT Services
+SFNC.NAS,Banking Services
+STGW.NAS,Media & Publishing
+SLI.NYSE,Metals & Mining
+SMP.NYSE,Automobiles & Auto Parts
+SXI.NYSE,"Machinery, Equipment & Components"
+STN.NYSE,Construction & Engineering
+SBLK.NAS,Freight & Logistics Services
+SGU.NYSE,Food & Drug Retailing
+MITO.NAS,Biotechnology & Medical Research
+GASS.NAS,Freight & Logistics Services
+STCN.NAS,Software & IT Services
+STLA.NYSE,Automobiles & Auto Parts
+STEM.NYSE,"Machinery, Equipment & Components"
+STEP.NAS,Oil & Gas Related Equipment and Services
+SCL.NYSE,Oil & Gas Related Equipment and Services
+STXS.NYSE,Healthcare Equipment & Supplies
+SBT.NAS,Banking Services
+STER.NAS,Professional & Commercial Services
+STRL.NAS,Construction & Engineering
+STVN.NYSE,Healthcare Equipment & Supplies
+THR.NYSE,"Machinery, Equipment & Components"
+TRI.NYSE,Professional & Commercial Services
+TWKS.NAS,Software & IT Services
+TDUP.NAS,Software & IT Services
+THRY.NAS,Media & Publishing
+TDW.NYSE,Oil & Gas Related Equipment and Services
+TINV.NYSE,Holding Companies
+TLYS.NYSE,Specialty Retailers
+VINC.NAS,Biotechnology & Medical Research
+VINP.NAS,Investment Banking & Investment Services
+BBIG.NAS,Leisure Products
+VIOT.NAS,Household Goods
+EBET.NAS,Hotels & Entertainment Services
+BFH.NYSE,Professional & Commercial Services
+EMWP.NYSE,Media & Publishing
+GRMN.NYSE,Communications & Networking

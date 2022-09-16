@@ -1,0 +1,1897 @@
+Name,Ticker,ISIN
+Apple Inc CFD,AAPL.NAS,US0378331005
+Adobe Systems CFD,ADBE.NAS,US00724F1012
+Analog Devices CFD,ADI.NAS,US0326541051
+Automatic Data Processing (ADP) CFD,ADP.NAS,US0530151036
+Applied Materials CFD,AMAT.NAS,US0382221051
+Amgen CFD,AMGN.NAS,US0311621009
+Amazon.com CFD,AMZN.NAS,US0231351067
+Activision Blizzard CFD,ATVI.NAS,US00507V1098
+Broadcom Ltd CFD,AVGO.NAS,US11135F1012
+Booking Holdings Inc CFD,BKNG.NAS,US09857L1089
+Biogen Inc CFD,BIIB.NAS,US09062X1037
+Celgene Corp CFD,CELG.NAS,
+Charter Communications Inc CFD,CHTR.NAS,US16119P1084
+Comcast Corp A CFD,CMCSA.NAS,US20030N1019
+CME Group CFD,CME.NAS,US12572Q1058
+Costco Wholesale CFD,COST.NAS,US22160K1051
+Cronos Group Inc CFD,CRON.NAS,
+Cisco Systems CFD,CSCO.NAS,US17275R1023
+CSX Corp CFD,CSX.NAS,US1264081035
+Cognizant Technology Solutions CFD,CTSH.NAS,US1924461023
+Dish Network Corp CFD,DISH.NAS,US25470M1099
+Electronic Arts CFD,EA.NAS,US2855121099
+Ebay CFD,EBAY.NAS,US2786421030
+Equinix CFD,EQIX.NAS,US29444U7000
+Fox Corp - Class B CFD,FOX.NAS,US35137L2043
+Fox Corp - Class A CFD,FOXA.NAS,US35137L1052
+Gilead Sciences CFD,GILD.NAS,US3755581036
+Alphabet Inc C CFD,GOOG.NAS,US02079K1079
+Intel Corp CFD,INTC.NAS,US4581401001
+Intuit CFD,INTU.NAS,US4612021034
+Intuitive Surgical CFD,ISRG.NAS,US46120E6023
+Kraft Heinz Co CFD,KHC.NAS,US5007541064
+Marriott Intl CFD,MAR.NAS,US5719032022
+Mondelez International CFD,MDLZ.NAS,US6092071058
+Microsoft Corp CFD,MSFT.NAS,US5949181045
+Micron Technology Inc CFD,MU.NAS,US5951121038
+Netflix CFD,NFLX.NAS,US64110L1061
+Nvidia Corp CFD,NVDA.NAS,US67066G1040
+Pepsico CFD,PEP.NAS,US7134481081
+Paypal Holdings Inc CFD,PYPL.NAS,US70450Y1038
+Qualcomm CFD,QCOM.NAS,US7475251036
+Regeneron Pharmaceuticals Inc CFD,REGN.NAS,US75886F1075
+Starbucks Corp CFD,SBUX.NAS,US8552441094
+Shire Plc ADR CFD,SHPG.NAS,
+Twenty-First Century Fox (USD) B CFD,TFCF.NAS,
+Twenty-First Century Fox (USD) A CFD,TFCFA.NAS,
+Tilray Inc CFD,TLRY.NAS,US88688T1007
+T-Mobile US CFD,TMUS.NAS,US8725901040
+Tesla Motors CFD,TSLA.NAS,US88160R1014
+Texas Instruments CFD,TXN.NAS,US8825081040
+Vertex Pharma CFD,VRTX.NAS,US92532F1003
+Walgreens Boots Alliance Inc CFD,WBA.NAS,US9314271084
+AbbVie Inc CFD,ABBV.NYSE,US00287Y1091
+Abbott Labs CFD,ABT.NYSE,US0028241000
+Aurora Cannabis Inc. CFD,ACB.NYSE,
+Allergan plc CFD,AGN.NYSE,
+American Express CFD,AXP.NYSE,US0258161092
+Boeing Co CFD,BA.NYSE,US0970231058
+Bank Of America CFD,BAC.NYSE,US0605051046
+Blackrock Inc CFD,BLK.NYSE,US09247X1019
+Bristol Myers Sq CFD,BMY.NYSE,US1101221083
+Citigroup CFD,C.NYSE,US1729674242
+Canopy Growth Corp. CFD,CGC.NYSE,
+CVS Health Corp CFD,CVS.NYSE,US1266501006
+Chevron Corp CFD,CVX.NYSE,US1667641005
+DuPont de Nemours Inc CFD,DD.NYSE,US26614N1028
+Walt Disney Co CFD,DIS.NYSE,US2546871060
+DowDuPont Inc CFD,DWDP.NYSE,
+Dow Inc.,DOW.NYSE,US2605571031
+General Elec Co CFD,GE.NYSE,US3696041033
+Goldman Sachs CFD,GS.NYSE,US38141G1040
+Home Depot CFD,HD.NYSE,US4370761029
+Honeywell International Inc CFD,HON.NYSE,US4385161066
+IBM CFD,IBM.NYSE,US4592001014
+Johnson and Johnson CFD,JNJ.NYSE,US4781601046
+J.P. Morgan Chase CFD,JPM.NYSE,US46625H1005
+Coca Cola Co CFD,KO.NYSE,US1912161007
+Eli Lilly CFD,LLY.NYSE,US5324571083
+Lockheed Martin CFD,LMT.NYSE,US5398301094
+Mastercard CFD,MA.NYSE,US57636Q1040
+McDonald's Corp CFD,MCD.NYSE,US5801351017
+3M Company CFD,MMM.NYSE,US88579Y1010
+Altria Group Inc CFD,MO.NYSE,US02209S1033
+Merck and Co CFD,MRK.NYSE,US58933Y1055
+Morgan Stanley CFD,MS.NYSE,US6174464486
+Nike CL B CFD,NKE.NYSE,US6541061031
+Oracle CFD,ORCL.NYSE,US68389X1054
+Pfizer CFD,PFE.NYSE,US7170811035
+Procter and Gamble CFD,PG.NYSE,US7427181091
+Philip Morris CFD,PM.NYSE,US7181721090
+Schlumberger CFD,SLB.NYSE,
+Spotify Technology SA CFD,SPOT.NYSE,
+AT and T CFD,T.NYSE,US00206R1023
+Time Warner CFD,TWX.NYSE,
+UnitedHealth Group CFD,UNH.NYSE,US91324P1021
+Union Pacific Cp CFD,UNP.NYSE,US9078181081
+United Parcel Services CFD,UPS.NYSE,US9113121068
+US Bancorp CFD,USB.NYSE,US9029733048
+Visa CFD,V.NYSE,US92826C8394
+Verizon Communications Inc CFD,VZ.NYSE,US92343V1044
+Wells Fargo and Co CFD,WFC.NYSE,US9497461015
+Wal-Mart Stores CFD,WMT.NYSE,US9311421039
+Exxon Mobil CFD,XOM.NYSE,US30231G1022
+Ripple US Dollar,XRPUSD,
+XLM vs US Dollar,XLMUSD,
+EOS US Dollar,EOSUSD,
+Invesco DB Agriculture ETF CFD,DBA.NYSE,US46140H1068
+Shares MSCI Emerging Markets ETF CFD,EEM.NYSE,US4642872349
+iShares MSCI Hong Kong ETF CFD,EWH.NYSE,US4642868719
+iShares MSCI Mexico Capped ETF CFD,EWW.NYSE,US4642868222
+iShares MSCI Brazil Capped ETF CFD,EWZ.NYSE,US4642864007
+iShares China Large-Cap ETF CFD,FXI.NYSE,US4642871846
+Vaneck Vectors Gold Miners ETF CFD,GDX.NYSE,US92189F1066
+VanEck Vectors Junior Gold Miners ETF CFD,GDXJ.NYSE,US92189F7915
+iShares Core MSCI Emerging Markets ETF CFD,IEMG.NYSE,US46434G1031
+iShares iBoxx $ Invmt Grade Corp Bd ETF CFD,LQD.NYSE,US4642872422
+VanEck Vectors Agribusiness ETF CFD,MOO.NYSE,US92189F7006
+ETFMG Alternative Harvest ETF CFD,MJ.NYSE,US26924G5080
+VanEck Vectors Russia ETF CFD,RSX.NYSE,US92189F4037
+Global X Silver Miners ETF CFD,SIL.NYSE,US37954Y8488
+United States Natural Gas ETF CFD,UNG.NYSE,US9123183009
+Global X Uranium ETF CFD,URA.NYSE,US37954Y8710
+United States Oil ETF CFD,USO.NYSE,US91232N2071
+iPath S&P 500 VIX ST Futures ETN CFD,VXX.NYSE,US06746P6218
+iPath B S&P 500 VIX S/T Futs ETN,VXXB.NYSE,
+Vanguard High Dividend Yield ETF CFD,VYM.NYSE,US9219464065
+Energy Select Sector SPDR ETF CFD,XLE.NYSE,US81369Y5069
+Financial Select Sector SPDR ETF CFD,XLF.NYSE,US81369Y6059
+Industrial Select Sector SPDR ETF CFD,XLI.NYSE,US81369Y7040
+Consumer Staples Select Sector SPDR ETF CFD,XLP.NYSE,US81369Y3080
+Utilities Select Sector SPDR ETF CFD,XLU.NYSE,US81369Y8865
+SPDR S&P Oil & Gas Explor & Prodtn ETF CFD,XOP.NYSE,US78468R5569
+Invesco QQQ Trust ETF CFD,QQQ.NAS,US46090E1038
+iShares 20+ Year Treasury Bond ETF CFD,TLT.NAS,US4642874329
+Gold vs Australian Dollar,XAUAUD,
+Linde plc CFD,LIN.NYSE,
+Diageo plc CFD,DEO.NYSE,US25243Q2057
+"NextEra Energy, Inc. CFD",NEE.NYSE,US65339F1012
+American Tower Corporation (REIT) CFD,AMT.NYSE,US03027X1000
+Alibaba Group Holding Limited CFD,BABA.NYSE,US01609W1027
+Berkshire Hathaway Inc - B Shares CFD,BRK-B.NYSE,US0846707026
+Thermo Fisher Scientific Inc. CFD,TMO.NYSE,US8835561023
+"Lyft, Inc. CFD",LYFT.NAS,US55087P1049
+Toyota Motor Corporation CFD,TM.NYSE,US8923313071
+Uber Technologies Inc CFD,UBER.NYSE,US90353T1007
+Pinterest Inc CFD,PINS.NYSE,US72352L1061
+Canada 60 Index,CA60,
+Netherlands 25 Index,NETH25,
+Sweden 30 Index,SE30,
+Switzerland 20 Index,SWI20,
+Hong Kong China H-shares Index,CHINAH,
+South Africa 40 Index,SA40,
+Norway 25 Index,NOR25,
+Germany Tech 30 Index,TecDE30,
+Germany Mid 60 Index,MidDE60,
+ABIOMED Inc,ABMD.NAS,US0036541003
+Advanced Micro Devices Inc,AMD.NAS,US0079031078
+Akamai Technologies Inc,AKAM.NAS,US00971T1016
+Align Technology,ALGN.NAS,US0162551016
+Alliant Energy Corp,LNT.NAS,US0188021085
+American Airlines Group,AAL.NAS,US02376R1023
+American Electric Power,AEP.NAS,US0255371017
+"ANSYS, Inc.",ANSS.NAS,US03662Q1058
+Apache Corporation,APA.NAS,US03743Q1085
+Autodesk Inc.,ADSK.NAS,US0527691069
+C. H. Robinson Worldwide,CHRW.NAS,US12541W2098
+Cadence Design Systems,CDNS.NAS,US1273871087
+CDW,CDW.NAS,US12514G1085
+Cincinnati Financial,CINF.NAS,US1720621010
+Cintas Corporation,CTAS.NAS,US1729081059
+Citrix Systems,CTXS.NAS,US1773761002
+Copart Inc,CPRT.NAS,US2172041061
+Advance Auto Parts,AAP.NYSE,US00751Y1064
+AES Corp,AES.NYSE,US00130H1059
+AFLAC Inc,AFL.NYSE,US0010551028
+Agilent Technologies Inc,A.NYSE,US00846U1016
+Air Products & Chemicals Inc,APD.NYSE,US0091581068
+Alaska Air Group Inc,ALK.NYSE,US0116591092
+Albemarle Corp,ALB.NYSE,US0126531013
+Alexandria Real Estate Equities,ARE.NYSE,US0152711091
+Allegion,ALLE.NYSE,
+Allstate Corp,ALL.NYSE,US0200021014
+Amcor plc,AMCR.NYSE,
+Ameren Corp,AEE.NYSE,US0236081024
+American International Group,AIG.NYSE,US0268747849
+American Water Works Company Inc,AWK.NYSE,US0304201033
+Ameriprise Financial,AMP.NYSE,US03076C1062
+AmerisourceBergen Corp,ABC.NYSE,US03073E1055
+AMETEK Inc.,AME.NYSE,US0311001004
+Amphenol Corp,APH.NYSE,US0320951017
+Aon plc,AON.NYSE,
+A.O. Smith Corp,AOS.NYSE,US8318652091
+Aptiv PLC,APTV.NYSE,
+Archer-Daniels-Midland Co,ADM.NYSE,US0394831020
+Arista Networks,ANET.NYSE,US0404131064
+Arthur J. Gallagher & Co.,AJG.NYSE,US3635761097
+Assurant,AIZ.NYSE,US04621X1081
+Atmos Energy,ATO.NYSE,US0495601058
+AutoZone Inc,AZO.NYSE,US0533321024
+AvalonBay Communities,AVB.NYSE,US0534841012
+Avery Dennison Corp,AVY.NYSE,US0536111091
+Baker Hughes Co,BKR.NYSE,US05722G1004
+Ball Corp,BLL.NYSE,US0584981064
+The Bank of New York Mellon,BK.NYSE,US0640581007
+Baxter International Inc.,BAX.NYSE,US0718131099
+Becton Dickinson,BDX.NYSE,US0758871091
+Best Buy Co. Inc.,BBY.NYSE,US0865161014
+Bio-Rad Laboratories,BIO.NYSE,US0905722072
+BorgWarner,BWA.NYSE,US0997241064
+Boston Properties,BXP.NYSE,US1011211018
+Boston Scientific,BSX.NYSE,US1011371077
+Broadridge Financial Solutions,BR.NYSE,US11133T1034
+Campbell Soup,CPB.NYSE,US1344291091
+Capital One Financial,COF.NYSE,US14040H1059
+Cardinal Health Inc.,CAH.NYSE,US14149Y1082
+Carmax Inc,KMX.NYSE,US1431301027
+Carnival Corp.,CCL.NYSE,
+Carrier Global,CARR.NYSE,US14448C1045
+Catalent,CTLT.NYSE,US1488061029
+Caterpillar Inc.,CAT.NYSE,US1491231015
+CBRE Group,CBRE.NYSE,US12504L1098
+Celanese,CE.NYSE,US1508701034
+Centene Corporation,CNC.NYSE,US15135B1017
+CenterPoint Energy,CNP.NYSE,US15189T1079
+CF Industries Holdings Inc,CF.NYSE,US1252691001
+Charles Schwab Corporation,SCHW.NYSE,US8085131055
+Chipotle Mexican Grill,CMG.NYSE,US1696561059
+Chubb Ltd,CB.NYSE,
+Church & Dwight,CHD.NYSE,US1713401024
+CIGNA Corp.,CI.NYSE,US1255231003
+Citizens Financial Group,CFG.NYSE,US1746101054
+The Clorox Company,CLX.NYSE,US1890541097
+CMS Energy,CMS.NYSE,US1258961002
+Colgate-Palmolive,CL.NYSE,US1941621039
+Comerica Inc.,CMA.NYSE,US2003401070
+Conagra Brands,CAG.NYSE,US2058871029
+ConocoPhillips,COP.NYSE,US20825C1045
+Consolidated Edison,ED.NYSE,US2091151041
+Constellation Brands,STZ.NYSE,US21036P1084
+The Cooper Companies,COO.NYSE,US2166484020
+Corning Inc.,GLW.NYSE,US2193501051
+Corteva,CTVA.NYSE,US22052L1044
+Crown Castle International Corp.,CCI.NYSE,US22822V1017
+Cummins Inc.,CMI.NYSE,US2310211063
+D. R. Horton,DHI.NYSE,US23331A1097
+Danaher Corp.,DHR.NYSE,US2358511028
+Darden Restaurants,DRI.NYSE,US2371941053
+DaVita Inc.,DVA.NYSE,US23918K1088
+Deere & Co.,DE.NYSE,US2441991054
+Brown-Forman Corp.,BFB.NYSE,
+Accenture plc,ACN.NYSE,
+Brown-Forman Corp.,BF/B.NYSE,
+Delta Air Lines Inc.,DAL.NYSE,US2473617023
+Dentsply Sirona,XRAY.NAS,US24906P1093
+Devon Energy,DVN.NYSE,US25179M1036
+DexCom,DXCM.NAS,US2521311074
+Diamondback Energy,FANG.NAS,US25278X1090
+Digital Realty Trust Inc,DLR.NYSE,US2538681030
+Discover Financial Services,DFS.NYSE,US2547091080
+Dollar General,DG.NYSE,US2566771059
+Dollar Tree,DLTR.NAS,US2567461080
+Dominion Energy,D.NYSE,US25746U1097
+Domino's Pizza,DPZ.NYSE,US25754A2015
+Dover Corporation,DOV.NYSE,US2600031080
+DTE Energy Co.,DTE.NYSE,US2333311072
+Duke Energy,DUK.NYSE,US26441C2044
+Duke Realty Corp,DRE.NYSE,US2644115055
+DXC Technology,DXC.NYSE,US23355L1061
+Eastman Chemical,EMN.NYSE,US2774321002
+Eaton Corporation,ETN.NYSE,
+Ecolab Inc.,ECL.NYSE,US2788651006
+Edison Int'l,EIX.NYSE,US2810201077
+Edwards Lifesciences,EW.NYSE,US28176E1082
+Emerson Electric Company,EMR.NYSE,US2910111044
+Enphase Energy,ENPH.NAS,US29355A1079
+Entergy Corp.,ETR.NYSE,US29364G1031
+EOG Resources,EOG.NYSE,US26875P1012
+Equifax Inc.,EFX.NYSE,US2944291051
+Equity Residential,EQR.NYSE,US29476L1070
+"Essex Property Trust, Inc.",ESS.NYSE,US2971781057
+Estée Lauder Companies,EL.NYSE,US5184391044
+Etsy,ETSY.NAS,US29786A1060
+Evergy,EVRG.NYSE,US30034W1062
+Eversource Energy,ES.NYSE,US30040W1080
+Everest Re Group Ltd.,RE.NYSE,
+Exelon Corp.,EXC.NAS,US30161N1019
+Expedia Group,EXPE.NAS,US30212P3038
+Expeditors,EXPD.NAS,US3021301094
+Extra Space Storage,EXR.NYSE,US30225T1025
+F5 Networks,FFIV.NAS,US3156161024
+Fastenal Co,FAST.NAS,US3119001044
+Federal Realty Investment Trust,FRT.NYSE,US3137472060
+FedEx Corporation,FDX.NYSE,US31428X1063
+Fidelity National Information Services,FIS.NYSE,US31620M1062
+Fifth Third Bancorp,FITB.NAS,US3167731005
+FirstEnergy Corp,FE.NYSE,US3379321074
+First Republic Bank,FRC.NYSE,US33616C1009
+Fiserv Inc,FISV.NAS,US3377381088
+FleetCor Technologies Inc,FLT.NYSE,US3390411052
+Flowserve Corporation,FLS.NYSE,US34354P1057
+FMC Corporation,FMC.NYSE,US3024913036
+Ford Motor Company,F.NYSE,US3453708600
+Fortinet,FTNT.NAS,US34959E1091
+Fortive Corp,FTV.NYSE,US34959J1088
+Fortune Brands Home & Security,FBHS.NYSE,US34964C1062
+Freeport-McMoRan Inc.,FCX.NYSE,US35671D8570
+Gartner Inc,IT.NYSE,US3666511072
+Franklin Resources,BEN.NYSE,US3546131018
+Gap Inc.,GPS.NYSE,US3647601083
+Garmin Ltd.,GRMN.NAS,
+General Dynamics,GD.NYSE,US3695501086
+General Mills,GIS.NYSE,US3703341046
+General Motors,GM.NYSE,US37045V1008
+Genuine Parts,GPC.NAS,US3724601055
+Globe Life Inc.,GL.NYSE,US37959E1029
+Global Payments Inc.,GPN.NYSE,US37940X1028
+Grainger (W.W.) Inc.,GWW.NYSE,US3848021040
+Halliburton Co.,HAL.NYSE,US4062161017
+Hanesbrands Inc,HBI.NYSE,US4103451021
+Hartford Financial Svc.Gp.,HIG.NYSE,US4165151048
+Hasbro Inc.,HAS.NAS,US4180561072
+HCA Healthcare,HCA.NYSE,US40412C1018
+Healthpeak Properties,PEAK.NYSE,US42250P1030
+Henry Schein,HSIC.NAS,US8064071025
+The Hershey Company,HSY.NYSE,US4278661081
+Hess Corporation,HES.NYSE,US42809H1077
+Hewlett Packard Enterprise,HPE.NYSE,US42824C1099
+Hilton Worldwide Holdings Inc,HLT.NYSE,US43300A2033
+Hologic,HOLX.NAS,US4364401012
+Hormel Foods Corp.,HRL.NYSE,US4404521001
+Host Hotels & Resorts,HST.NAS,US44107P1049
+Howmet Aerospace,HWM.NYSE,US4432011082
+HP Inc.,HPQ.NYSE,US40434L1052
+Humana Inc.,HUM.NYSE,US4448591028
+Huntington Bancshares,HBAN.NAS,US4461501045
+Huntington Ingalls Industries,HII.NYSE,US4464131063
+IDEX Corporation,IEX.NYSE,US45167R1041
+IDEXX Laboratories,IDXX.NAS,US45168D1046
+Illinois Tool Works,ITW.NYSE,US4523081093
+Illumina Inc,ILMN.NAS,US4523271090
+Incyte,INCY.NAS,US45337C1027
+Ingersoll Rand,IR.NYSE,US45687V1061
+Intercontinental Exchange,ICE.NYSE,US45866F1049
+International Paper,IP.NYSE,US4601461035
+Interpublic Group,IPG.NYSE,US4606901001
+International Flavors & Fragrances,IFF.NYSE,US4595061015
+Invesco Ltd.,IVZ.NYSE,
+IPG Photonics Corp.,IPGP.NAS,US44980X1090
+NiSource Inc.,NI.NYSE,US65473P1057
+IQVIA Holdings Inc.,IQV.NYSE,US46266C1053
+Iron Mountain Incorporated,IRM.NYSE,US46284V1017
+Jacobs Engineering Group,J.NYSE,US4698141078
+J. B. Hunt Transport Services,JBHT.NAS,US4456581077
+JM Smucker,SJM.NYSE,US8326964058
+Johnson Controls International,JCI.NYSE,
+Juniper Networks,JNPR.NYSE,US48203R1041
+Kellogg Co.,K.NYSE,US4878361082
+KeyCorp,KEY.NYSE,US4932671088
+Keysight Technologies,KEYS.NYSE,US49338L1035
+Kimberly-Clark,KMB.NYSE,US4943681035
+Kimco Realty,KIM.NYSE,US49446R1095
+Kinder Morgan,KMI.NYSE,US49456B1017
+KLA Corporation,KLAC.NAS,US4824801009
+Kroger Co.,KR.NYSE,US5010441013
+L Brands Inc.,LB.NYSE,US5017971046
+L3Harris Technologies,LHX.NYSE,US5024311095
+Laboratory Corp. of America Holding,LH.NYSE,US50540R4092
+Lam Research,LRCX.NAS,US5128071082
+Lamb Weston Holdings Inc,LW.NYSE,US5132721045
+Las Vegas Sands,LVS.NYSE,US5178341070
+Leggett & Platt,LEG.NYSE,US5246601075
+Leidos Holdings,LDOS.NYSE,US5253271028
+Lennar Corp.,LEN.NYSE,US5260571048
+Lincoln National,LNC.NYSE,US5341871094
+Live Nation Entertainment,LYV.NYSE,US5380341090
+Loews Corp.,L.NYSE,US5404241086
+Lowe's Cos.,LOW.NYSE,US5486611073
+Lumen Technologies,LUMN.NYSE,US5502411037
+LyondellBasell,LYB.NYSE,
+M&T Bank Corp.,MTB.NYSE,US55261F1049
+Marathon Oil Corp.,MRO.NYSE,US5658491064
+Marathon Petroleum,MPC.NYSE,US56585A1025
+Marsh & McLennan,MMC.NYSE,US5717481023
+Martin Marietta Materials,MLM.NYSE,US5732841060
+Masco Corp.,MAS.NYSE,US5745991068
+McCormick & Co.,MKC.NYSE,US5797802064
+McKesson Corp.,MCK.NYSE,US58155Q1031
+Medtronic plc,MDT.NYSE,
+MetLife Inc.,MET.NYSE,US59156R1086
+Mettler Toledo,MTD.NYSE,US5926881054
+Microchip Technology,MCHP.NAS,US5950171042
+Mid-America Apartments,MAA.NYSE,US59522J1034
+Mohawk Industries,MHK.NYSE,US6081901042
+Molson Coors Beverage Company,TAP.NYSE,US60871R2094
+Monster Beverage,MNST.NAS,US61174X1090
+Moody's Corp,MCO.NYSE,US6153691059
+The Mosaic Company,MOS.NYSE,US61945C1036
+Motorola Solutions Inc.,MSI.NYSE,US6200763075
+MSCI Inc,MSCI.NYSE,US55354G1004
+"Nasdaq, Inc.",NDAQ.NAS,US6311031081
+NetApp,NTAP.NAS,US64110D1046
+Newell Brands,NWL.NAS,US6512291062
+Newmont Corporation,NEM.NYSE,US6516391066
+News Corp. Class A,NWSA.NAS,US65249B1098
+News Corp. Class B,NWS.NAS,US65249B2088
+Nielsen Holdings,NLSN.NYSE,
+Norfolk Southern Corp.,NSC.NYSE,US6558441084
+Northern Trust Corp.,NTRS.NAS,US6658591044
+Northrop Grumman,NOC.NYSE,US6668071029
+NortonLifeLock,NLOK.NAS,US6687711084
+Norwegian Cruise Line Holdings,NCLH.NYSE,
+NOV Inc.,NOV.NYSE,US62955J1034
+NRG Energy,NRG.NYSE,US6293775085
+Nucor Corp.,NUE.NYSE,US6703461052
+"NVR, Inc.",NVR.NYSE,US62944T1051
+O'Reilly Automotive,ORLY.NAS,US67103H1077
+Occidental Petroleum,OXY.NYSE,US6745991058
+Omnicom Group,OMC.NYSE,US6819191064
+ONEOK,OKE.NYSE,US6826801036
+Otis Worldwide,OTIS.NYSE,US68902V1070
+PACCAR Inc.,PCAR.NAS,US6937181088
+Packaging Corporation of America,PKG.NYSE,US6951561090
+Parker-Hannifin,PH.NYSE,US7010941042
+Paychex Inc.,PAYX.NAS,US7043261079
+Paycom,PAYC.NYSE,US70432V1026
+Pentair plc,PNR.NYSE,
+People's United Financial,PBCT.NAS,US7127041058
+PerkinElmer,PKI.NYSE,US7140461093
+Perrigo,PRGO.NYSE,
+Phillips 66,PSX.NYSE,US7185461040
+Pinnacle West Capital,PNW.NYSE,US7234841010
+Pioneer Natural Resources,PXD.NYSE,US7237871071
+PNC Financial Services,PNC.NYSE,US6934751057
+PPG Industries,PPG.NYSE,US6935061076
+PPL Corp.,PPL.NYSE,US69351T1060
+Principal Financial Group,PFG.NAS,US74251V1026
+Progressive Corp.,PGR.NYSE,US7433151039
+Prologis,PLD.NYSE,US74340W1036
+Prudential Financial,PRU.NYSE,US7443201022
+Public Service Enterprise Group (PSEG),PEG.NYSE,US7445731067
+Public Storage,PSA.NYSE,US74460D1090
+PulteGroup,PHM.NYSE,US7458671010
+PVH Corp.,PVH.NYSE,US6936561009
+Quanta Services Inc.,PWR.NYSE,US74762E1029
+Quest Diagnostics,DGX.NYSE,US74834L1008
+"Raymond James Financial, Inc.",RJF.NYSE,US7547301090
+Rayonier Inc.,RYN.NYSE,US7549071030
+Realty Income Corporation,O.NYSE,US7561091049
+Regency Centers Corporation,REG.NAS,US7588491032
+Regions Financial Corp.,RF.NYSE,US7591EP1005
+Republic Services Inc,RSG.NYSE,US7607591002
+ResMed,RMD.NYSE,US7611521078
+Robert Half International,RHI.NYSE,US7703231032
+Rockwell Automation Inc.,ROK.NYSE,US7739031091
+"Rollins, Inc.",ROL.NYSE,US7757111049
+Roper Technologies,ROP.NYSE,US7766961061
+Ross Stores,ROST.NAS,US7782961038
+Royal Caribbean Group,RCL.NYSE,
+S&P Global Inc.,SPGI.NYSE,US78409V1044
+Salesforce.com,CRM.NYSE,US79466L3024
+Seagate Technology,STX.NAS,
+Sealed Air,SEE.NYSE,US81211K1007
+Sempra Energy,SRE.NYSE,US8168511090
+ServiceNow,NOW.NYSE,US81762P1021
+Sherwin-Williams,SHW.NYSE,US8243481061
+Simon Property Group Inc,SPG.NYSE,US8288061091
+SL Green Realty,SLG.NYSE,US78440X8048
+Snap-on,SNA.NYSE,US8330341012
+Southern Company,SO.NYSE,US8425871071
+Southwest Airlines,LUV.NYSE,US8447411088
+Stanley Black & Decker,SWK.NYSE,US8545021011
+State Street Corp.,STT.NYSE,US8574771031
+STERIS plc,STE.NYSE,
+Stryker Corp.,SYK.NYSE,US8636671013
+Synchrony Financial,SYF.NYSE,US87165B1035
+Sysco Corp.,SYY.NYSE,US8718291078
+T. Rowe Price Group,TROW.NAS,US74144T1088
+"Tapestry, Inc.",TPR.NYSE,US8760301072
+Target Corp.,TGT.NYSE,US87612E1064
+TE Connectivity Ltd.,TEL.NYSE,
+TechnipFMC,FTI.NYSE,
+Teledyne Technologies,TDY.NYSE,US8793601050
+Teleflex,TFX.NYSE,US8793691069
+Teradyne,TER.NAS,US8807701029
+Textron Inc.,TXT.NYSE,US8832031012
+TJX Companies Inc.,TJX.NYSE,US8725401090
+Trane Technologies plc,TT.NYSE,
+TransDigm Group,TDG.NYSE,US8936411003
+The Travelers Companies Inc.,TRV.NYSE,US89417E1091
+Truist Financial,TFC.NYSE,US89832Q1094
+"Twitter, Inc.",TWTR.NYSE,US90184L1026
+Tyler Technologies,TYL.NYSE,US9022521051
+Tyson Foods,TSN.NYSE,US9024941034
+"UDR, Inc.",UDR.NYSE,US9026531049
+Ulta Beauty,ULTA.NAS,US90384S3031
+Under Armour (Class A),UAA.NYSE,US9043111072
+Under Armour (Class C),UA.NYSE,US9043112062
+United Airlines Holdings,UAL.NAS,US9100471096
+"United Rentals, Inc.",URI.NYSE,US9113631090
+Universal Health Services,UHS.NYSE,US9139031002
+Unum Group,UNM.NYSE,US91529Y1064
+Valero Energy,VLO.NYSE,US91913Y1001
+Ventas Inc,VTR.NYSE,US92276F1003
+Verisign Inc.,VRSN.NAS,US92343E1029
+VF Corporation,VFC.NYSE,US9182041080
+ViacomCBS,VIAC.NAS,US92556H2067
+Viatris,VTRS.NAS,US92556V1061
+Vontier,VG.NAS,US92886T2015
+Vornado Realty Trust,VNO.NYSE,US9290421091
+Vulcan Materials,VMC.NYSE,US9291601097
+W. R. Berkley Corporation,WRB.NYSE,US0844231029
+Westinghouse Air Brake Technologies Corp,WAB.NYSE,US9297401088
+Waste Management Inc.,WM.NYSE,US94106L1098
+Waters Corporation,WAT.NYSE,US9418481035
+WEC Energy Group,WEC.NYSE,US92939U1060
+Welltower Inc.,WELL.NYSE,US95040Q1040
+West Pharmaceutical Services,WST.NYSE,US9553061055
+Western Digital,WDC.NAS,US9581021055
+Western Union Co,WU.NYSE,US9598021098
+WestRock,WRK.NYSE,US96145D1054
+Weyerhaeuser,WY.NYSE,US9621661043
+Whirlpool Corp.,WHR.NYSE,US9633201069
+Williams Companies,WMB.NYSE,US9694571004
+Willis Towers Watson,WLTW.NAS,
+Wynn Resorts Ltd,WYNN.NAS,US9831341071
+Xcel Energy Inc,XEL.NAS,US98389B1008
+Xylem Inc.,XYL.NYSE,US98419M1009
+Yum! Brands Inc,YUM.NYSE,US9884981013
+Zimmer Biomet Inc.,ZBH.NYSE,US98956P1021
+Zions Bancorp,ZION.NAS,US9897011071
+Zoetis Inc.,ZTS.NYSE,US98978V1035
+Jack Henry & Associates,JKHY.NAS,US4262811015
+LKQ Corporation,LKQ.NAS,US5018892084
+MarketAxess,MKTX.NAS,US57060D1081
+Old Dominion Freight Line,ODFL.NAS,US6795801009
+Pool Corporation,POOL.NAS,US73278L1052
+Qorvo,QRVO.NAS,US74736K1016
+Radware Ltd.,RDWR.NAS,
+SBA Communications,SBAC.NAS,US78410G1040
+Skyworks Solutions,SWKS.NAS,US83088M1027
+SVB Financial,SIVB.NAS,US78486Q1013
+Synopsys Inc.,SNPS.NAS,US8716071076
+Take-Two Interactive,TTWO.NAS,US8740541094
+Tractor Supply Company,TSCO.NAS,US8923561067
+Trimble Inc.,TRMB.NAS,US8962391004
+Verisk Analytics,VRSK.NAS,US92345Y1064
+Zebra Technologies,ZBRA.NAS,US9892071054
+Sea Limited American Depositary Shares,SE.NYSE,US81141R1005
+Square Inc. Class A Common Stock,SQ.NYSE,US8522341036
+Raytheon Technologies Corporation Common Stock,RTX.NYSE,US75513E1010
+Snap Inc. Class A Common Stock,SNAP.NYSE,US83304A1060
+Snowflake Inc. Class A Common Stock,SNOW.NYSE,US8334451098
+Vmware Inc. Common stock Class A,VMW.NYSE,US9285634021
+Southern Copper Corporation Common Stock,SCCO.NYSE,US84265V1052
+Carvana Co. Class A Common Stock,CVNA.NYSE,US1468691027
+The Blackstone Group Inc. Class A Common Stock,BX.NYSE,US09260D1072
+Enterprise Products Partners L.P. Common Stock,EPD.NYSE,US2937921078
+Teladoc Health Inc. Common Stock,TDOC.NYSE,US87918A1051
+Rocket Companies Inc. Class A Common Stock,RKT.NYSE,US77311W1018
+Palo Alto Networks Inc. Common Stock,PANW.NYSE,US6974351057
+Wayfair Inc. Class A Common Stock,W.NYSE,US94419L1017
+KKR & Co. Inc. Common Stock,KKR.NYSE,US48251W1045
+Cloudflare Inc. Class A Common Stock,NET.NYSE,US18915M1071
+Yum China Holdings Inc. Common Stock,YUMC.NYSE,US98850P1093
+MPLX LP Common Units Representing Limited Partner Interests,MPLX.NYSE,US55336V1008
+Pacific Gas & Electric Co. Common Stock,PCG.NYSE,US69331C1080
+HubSpot Inc. Common Stock,HUBS.NYSE,US4435731009
+EPAM Systems Inc. Common Stock,EPAM.NYSE,US29414B1044
+Ubiquiti Inc. Common Stock,UI.NYSE,US90353W1036
+Generac Holdlings Inc. Common Stock,GNRC.NYSE,US3687361044
+QuantumScape Corporation Class A Common Stock,QS.NYSE,US74767V1098
+Carnival Plc ADS ADS,CUK.NYSE,US14365C1036
+Altice USA Inc. Class A Common Stock,ATUS.NYSE,US02156K1034
+Energy Transfer LP Common Units,ET.NYSE,US29273V1008
+TransUnion Common Stock,TRU.NYSE,US89400J1079
+Heico Corporation Common Stock,HEI.NYSE,US4228061093
+Invitation Homes Inc. Common Stock,INVH.NYSE,US46187W1071
+Sun Communities Inc. Common Stock,SUI.NYSE,US8666741041
+Ally Financial Inc. Common Stock,ALLY.NYSE,US02005N1000
+Oak Street Health Inc. Common Stock,OSH.NYSE,US67181A1079
+Markel Corporation Common Stock,MKL.NYSE,US5705351048
+Dynatrace Inc. Common Stock,DT.NYSE,US2681501092
+Avalara Inc. Common Stock,AVLR.NYSE,US05338G1067
+Elastic N.V. Ordinary Shares,ESTC.NYSE,
+Avangrid Inc. Common Stock,AGR.NYSE,US05351W1036
+Charles River Laboratories International Inc. Common Stock,CRL.NYSE,US1598641074
+GoDaddy Inc. Class A Common Stock,GDDY.NYSE,US3802371076
+Ceridian HCM Holding Inc. Common Stock,CDAY.NYSE,US15677J1088
+Boston Beer Company Inc. (The) Common Stock,SAM.NYSE,US1005571070
+Elanco Animal Health Incorporated Common Stock,ELAN.NYSE,US28414H1032
+Fair Isaac Corproation Common Stock,FICO.NYSE,US3032501047
+Scotts Miracle-Gro Company (The) Common Stock,SMG.NYSE,US8101861065
+Crown Holdings Inc.,CCK.NYSE,US2283681060
+Medical Properties Trust Inc. common stock,MPW.NYSE,US58463J3041
+Molina Healthcare Inc Common Stock,MOH.NYSE,US60855R1005
+Brown & Brown Inc. Common Stock,BRO.NYSE,US1152361010
+W. P. Carey Inc. REIT,WPC.NYSE,US92936U1097
+Trex Company Inc. Common Stock,TREX.NYSE,US89531P1057
+Equitable Holdings Inc. Common Stock,EQH.NYSE,US29452E1010
+FactSet Research Systems Inc. Common Stock,FDS.NYSE,US3030751057
+Annaly Capital Management Inc Common Stock,NLY.NYSE,US0357104092
+FNF Group of Fidelity National Financial Inc. Common Stock,FNF.NYSE,US31620R3030
+Vail Resorts Inc. Common Stock,MTN.NYSE,US91879Q1094
+Apollo Global Management Inc,APO.NYSE,US03769M1062
+Essential Utilities Inc. Common Stock,WTRG.NYSE,US29670G1022
+Equity Lifestyle Properties Inc. Common Stock,ELS.NYSE,US29472R1086
+Booz Allen Hamilton Holding Corporation Common Stock,BAH.NYSE,US0995021062
+RPM International Inc. Common Stock,RPM.NYSE,US7496851038
+Lennox International Inc. Common Stock,LII.NYSE,US5261071071
+Darling Ingredients Inc. Common Stock,DAR.NYSE,US2372661015
+Westlake Chemical Corporation Common Stock,WLK.NYSE,US9604131022
+Toro Company (The) Common Stock,TTC.NYSE,US8910921084
+Bunge Limited Bunge Limited,BG.NYSE,
+Bright Horizons Family Solutions Inc. Common Stock,BFAM.NYSE,US1091941005
+Guidewire Software Inc. Common Stock,GWRE.NYSE,US40171V1008
+Camden Property Trust Common Stock,CPT.NYSE,US1331311027
+Churchill Capital Corp IV Class A Common Stock,CCIV.NYSE,US1714391026
+Smartsheet Inc. Class A Common Stock,SMAR.NYSE,US83200N1037
+Lithia Motors Inc. Common Stock,LAD.NYSE,US5367971034
+MGM Growth Properties LLC Class A common shares,MGP.NYSE,US55303A1051
+RH Common Stock,RH.NYSE,US74967X1037
+Twilio Inc. Class A Common Stock,TWLO.NYSE,US90138F1021
+Airbnb Inc. Class A Common Stock,ABNB.NAS,US0090661010
+Affirm Holdings Inc. Class A Common Stock,AFRM.NAS,US00827B1061
+Alnylam Pharmaceuticals Inc. Common Stock,ALNY.NAS,US02043Q1076
+Amedisys Inc Common Stock,AMED.NAS,US0234361089
+Appian Corporation Class A Common Stock,APPN.NAS,US03782L1017
+Aspen Technology Inc. Common Stock,AZPN.NAS,US0453271035
+BioMarin Pharmaceutical Inc. Common Stock,BMRN.NAS,US09061G1013
+Bentley Systems Incorporated Class B Common Stock,BSY.NAS,US08265T2087
+Beyond Meat Inc. Common Stock,BYND.NAS,US08862E1091
+The Carlyle Group Inc. Common Stock,CG.NAS,US14316J1088
+Cognex Corporation Common Stock,CGNX.NAS,US1924221039
+Coupa Software Incorporated Common Stock,COUP.NAS,US22266L1061
+Cree Inc. Common Stock,CREE.NAS,US2254471012
+CrowdStrike Holdings Inc. Class A Common Stock,CRWD.NAS,US22788C1053
+CoStar Group Inc. Common Stock,CSGP.NAS,US22160N1090
+Caesars Entertainment Inc. Common Stock,CZR.NAS,US12769G1004
+Dropbox Inc. Class A Common Stock,DBX.NAS,US26210C1045
+Datadog Inc. Class A Common Stock,DDOG.NAS,US23804L1035
+Discovery Inc. Series A Common Stock,DISCA.NAS,US25470F1049
+Discovery Inc. Series C Common Stock,DISCK.NAS,US25470F3029
+DraftKings Inc. Class A Common Stock,DKNG.NAS,US26142R1041
+DocuSign Inc. Common Stock,DOCU.NAS,US2561631068
+Entegris Inc. Common Stock,ENTG.NAS,US29362U1043
+Erie Indemnity Company Class A Common Stock,ERIE.NAS,US29530P1021
+Exact Sciences Corporation Common Stock,EXAS.NAS,US30063P1057
+eXp World Holdings Inc. Common Stock,EXPI.NAS,US30212W1009
+Five Below Inc. Common Stock,FIVE.NAS,US33829M1018
+Five9 Inc. Common Stock,FIVN.NAS,US3383071012
+First Solar Inc. Common Stock,FSLR.NAS,US3364331070
+Liberty Media Corporation Series C Liberty Formula One Common S,FWONK.NAS,US5312298541
+GoodRx Holdings Inc. Class A Common Stock,GDRX.NAS,US38246G1085
+Gaming and Leisure Properties Inc. Common Stock,GLPI.NAS,US36467J1088
+IAC/InterActiveCorp Common Stock,IAC.NAS,US44891N1090
+Interactive Brokers Group Inc. Class A Common Stock,IBKR.NAS,US45841N1072
+Icahn Enterprises L.P. Common Stock,IEP.NAS,US4511001012
+Keurig Dr Pepper Inc. Common Stock,KDP.NAS,US49271V1008
+Luminar Technologies Inc. Class A Common Stock,LAZR.NAS,US5504241051
+Liberty Broadband Corporation Class A Common Stock,LBRDA.NAS,US5303071071
+Liberty Broadband Corporation Class C Common Stock,LBRDK.NAS,US5303073051
+Logitech International S.A. Ordinary Shares,LOGI.NAS,
+LPL Financial Holdings Inc. Common Stock,LPLA.NAS,US50212V1008
+Liberty Media Corporation Series C Liberty SiriusXM Common Stoc,LSXMK.NAS,US5312296073
+Masimo Corporation Common Stock,MASI.NAS,US5747951003
+MongoDB Inc. Class A Common Stock,MDB.NAS,US60937P1066
+Morningstar Inc. Common Stock,MORN.NAS,US6177001095
+Monolithic Power Systems Inc. Common Stock,MPWR.NAS,US6098391054
+Moderna Inc. Common Stock,MRNA.NAS,US60770K1079
+Mirati Therapeutics Inc. Common Stock,MRTX.NAS,US60468T1051
+Match Group Inc. Common Stock,MTCH.NAS,US57667L1070
+Neurocrine Biosciences Inc. Common Stock,NBIX.NAS,US64125C1099
+Nordson Corporation Common Stock,NDSN.NAS,US6556631025
+Natera Inc. Common Stock,NTRA.NAS,US6323071042
+Novavax Inc. Common Stock,NVAX.NAS,US6700024010
+Okta Inc. Class A Common Stock,OKTA.NAS,US6792951054
+Universal Display Corporation Common Stock,OLED.NAS,US91347P1057
+ON Semiconductor Corporation Common Stock,ON.NAS,US6821891057
+Opendoor Technologies Inc Common Stock,OPEN.NAS,US6837121036
+Paylocity Holding Corporation Common Stock,PCTY.NAS,US70438V1061
+Pegasystems Inc. Common Stock,PEGA.NAS,US7055731035
+Penn National Gaming Inc. Common Stock,PENN.NAS,US7075691094
+Plug Power Inc. Common Stock,PLUG.NAS,US72919P2020
+Insulet Corporation Common Stock,PODD.NAS,US45784P1012
+PTC Inc. Common Stock,PTC.NAS,US69370C1009
+Peloton Interactive Inc. Class A Common Stock,PTON.NAS,US70614W1009
+Repligen Corporation Common Stock,RGEN.NAS,US7599161095
+Roku Inc. Class A Common Stock,ROKU.NAS,US77543R1023
+Royalty Pharma plc Class A Ordinary Shares,RPRX.NAS,
+Sunrun Inc. Common Stock,RUN.NAS,US86771W1053
+Signature Bank Common Stock,SBNY.NAS,US82669G1040
+Seagen Inc. Common Stock,SGEN.NAS,US81181C1045
+Sirius XM Holdings Inc. Common Stock,SIRI.NAS,US82968B1035
+Splunk Inc. Common Stock,SPLK.NAS,US8486371045
+SunPower Corporation Common Stock,SPWR.NAS,US8676524064
+SS&C Technologies Holdings Inc. Common Stock,SSNC.NAS,US78467J1007
+Bio-Techne Corp Common Stock,TECH.NAS,US09073M1045
+The Trade Desk Inc. Class A Common Stock,TTD.NAS,US88339J1051
+Workday Inc. Class A Common Stock,WDAY.NAS,US98138H1014
+ContextLogic Inc. Class A Common Stock,WISH.NAS,US21077C1071
+Warner Music Group Corp. Class A Common Stock,WMG.NAS,US9345502036
+Zillow Group Inc. Class C Capital Stock,Z.NAS,US98954M2008
+Zillow Group Inc. Class A Common Stock,ZG.NAS,US98954M1018
+ZoomInfo Technologies Inc. Class A Common Stock,ZI.NAS,US98980F1049
+Zoom Video Communications Inc. Class A Common Stock,ZM.NAS,US98980L1017
+Zynga Inc. Class A Common Stock,ZNGA.NAS,US98986T1088
+Zscaler Inc. Common Stock,ZS.NAS,US98980G1022
+McEwen Mining Inc,MUX.NYSE,US58039P1075
+BEST Inc,BEST.NYSE,US08653C1062
+Eros Stx Global Corp,ESGC.NYSE,
+Pennsylvania Real Estate Inves,PEI.NYSE,US7091021078
+Qudian Inc,QD.NYSE,US7477981069
+Companhia Energetica De Minas Gerais Cemig,CIG.NYSE,US2044096012
+Lloyds Banking Group PLC,LYG.NYSE,US5394391099
+TETRA Technologies Inc,TTI.NYSE,US88162F1057
+Ambev ADR Representing One Ord Shs,ABEV.NYSE,US02319V1035
+BBVA Argentina SA,BBAR.NYSE,US0589341009
+Kosmos Energy Ltd,KOS.NYSE,US5006881065
+Western Asset Mortgage Capital Corp,WMC.NYSE,US95790D1054
+Genworth Financial,GNW.NYSE,US37247D1063
+Chico's FAS Inc,CHS.NYSE,US1686151028
+Transocean (US),RIG.NYSE,
+Nordic American Tanker Shipping,NAT.NYSE,
+Banco Santander SA - ADR,SAN.NYSE,US05964H1059
+Drive Shack Inc,DS.NYSE,US2620771004
+W&T Offshore Inc,WTI.NYSE,US92922P1066
+Nokia (US),NOK.NYSE,US6549022043
+AG Mortgage Investment Trust Inc,MITT.NYSE,US0012281053
+Invesco Mortgage Capital Inc,IVR.NYSE,US46131B1008
+MFA Financial Inc,MFA.NYSE,US55272X1028
+BRF SA,BRFS.NYSE,US10552T1079
+Global Cord Blood Corp,CO.NYSE,
+Banco Bradesco,BBD.NYSE,US0594603039
+Southwestern Energy,SWN.NYSE,US8454671095
+Yamana Gold Inc (US),AUY.NYSE,
+Telefonica SA - ADR,TEF.NYSE,US8793822086
+Itau Unibanco Holding SA,ITUB.NYSE,US4655621062
+Harmony Gold Mining Co Ltd,HMY.NYSE,US4132163001
+Helix Energy Solutions Group I,HLX.NYSE,US42330P1075
+Endeavour Silver Corp (US),EXK.NYSE,
+Gannett Co Inc,GCI.NYSE,US36472T1097
+Arcos Dorados Holdings Inc,ARCO.NYSE,
+VirnetX Holding Corp,VHC.NYSE,US92823T1088
+Comstock Resources Inc,CRK.NYSE,US2057683029
+Gerdau,GGB.NYSE,US3737371050
+Companhia Brasileira de Distribuicao,CBD.NYSE,US20440T3005
+Party City Holdco Inc,PRTY.NYSE,US7021491052
+Geo Group Inc/The,GEO.NYSE,US36162J1060
+DHT Holdings Inc,DHT.NYSE,
+Amneal Pharmaceuticals,AMRX.NYSE,US03168L1052
+Apartment Investment & Management,AIV.NYSE,US03748R7474
+Brookdale Senior Living Inc,BKD.NYSE,US1124631045
+PIMCO High Income Fund,PHK.NYSE,
+Fortuna Silver Mines Inc (US),FSM.NYSE,
+CorEnergy Infrastructure Trust Inc,CORR.NYSE,US21870U5020
+CEMEX,CX.NYSE,US1512908898
+Kinross Gold Corp (US),KGC.NYSE,
+Two Harbors Investment Corp,TWO.NYSE,US90187B4086
+Cia de Saneamento Basico do Estado de Sao Paulo,SBS.NYSE,US20441A1025
+Gol Linhas Aereas Inteligentes,GOL.NYSE,US38045R2067
+Adecoagro SA,AGRO.NYSE,
+Pitney Bowes,PBI.NYSE,US7244791007
+Petroleo Brasileiro ADR Reptg 2,PBR.NYSE,US71654V4086
+Coty Inc,COTY.NYSE,US2220702037
+Babcock & Wilcox Enterprises Inc,BW.NYSE,US05614L2097
+Antero Midstream Partners LP,AM.NYSE,US03676B1026
+ADT Inc.,ADT.NYSE,US00090Q1031
+United Microelectronics Corp,UMC.NYSE,US9108734057
+Navigator Holdings Ltd,NVGS.NYSE,
+Blackberry,BB.NYSE,
+Coeur d'Alene Mines Corp,CDE.NYSE,US1921085049
+Genesis Energy LP,GEL.NYSE,US3719271047
+BlackRock Enhanced Equity Dividend Trust,BDJ.NYSE,
+American Axle & Manufacturing,AXL.NYSE,US0240611030
+Archrock Inc,AROC.NYSE,US03957W1062
+Grupo Televisa,TV.NYSE,US40049J2069
+Titan International Inc,TWI.NYSE,US88830M1027
+Costamare Inc,CMRE.NYSE,
+NOW Inc,DNOW.NYSE,US67011P1003
+Rayonier Advanced Materials Inc,RYAM.NYSE,US75508B1044
+Range Resources,RRC.NYSE,US75281A1097
+Gold Fields Ltd (US),GFI.NYSE,US38059T1060
+Paramount Group Inc,PGRE.NYSE,US69924R1086
+Antero Resources Corp,AR.NYSE,US03674X1063
+China Life Insurance Co Ltd ADR,LFC.NYSE,US16939P1066
+Summit Hotel Properties Inc,INN.NYSE,US8660821005
+DiamondRock Hospitality Co,DRH.NYSE,US2527843013
+CatchMark Timber Trust Inc,CTT.NYSE,US14912Y2028
+Barclays PLC,BCS.NYSE,US06738E2046
+Redwood Trust Inc,RWT.NYSE,US7580754023
+ProPetro Holding Corp,PUMP.NYSE,US74347M1080
+ReneSola Ltd,SOL.NYSE,US75971T3014
+Retail Properties of America I,RPAI.NYSE,US76131V2025
+New Residential Investment Corp,NRZ.NYSE,US64828T2015
+Eldorado Gold Corp (US),EGO.NYSE,
+First BanCorp/Puerto Rico,FBP.NYSE,
+Resolute Forest Products,RFP.NYSE,US76117W1099
+Empire State Realty Trust Inc,ESRT.NYSE,US2921041065
+Farmland Partners Inc,FPI.NYSE,US31154R1095
+Center Coast MLP & Infrastructure Fund,CEN.NYSE,
+Teva Depository Receipt,TEVA.NYSE,US8816242098
+Lexington Realty Trust,LXP.NYSE,US5290431015
+Liberty Oilfield Services Inc,LBRT.NYSE,US53115L1044
+Hyliion Holdings Corp,HYLN.NYSE,US4491091074
+US Xpress Enterprises Inc,USX.NYSE,US90338N2027
+Magnolia Oil & Gas Corp,MGY.NYSE,US5596631094
+BlackRock Corporate High Yield Fund Inc,HYT.NYSE,
+US Silica Holdings Inc,SLCA.NYSE,US90346E1038
+Talos Energy Inc,TALO.NYSE,US87484T1088
+ARMOUR Residential REIT Inc,ARR.NYSE,US0423155078
+Community Health Systems Inc,CYH.NYSE,US2036681086
+Deutsche Bank AG (US),DB.NYSE,
+ING Groep NV - ADR,ING.NYSE,US4568371037
+Sunstone Hotel Investors Inc,SHO.NYSE,US8678921011
+Ecopetrol SA,EC.NYSE,US2791581091
+Chimera Investment Corp,CIM.NYSE,US16934Q2084
+Brandywine Realty Trust,BDN.NYSE,US1053682035
+Stellus Capital Investment Corp,SCM.NYSE,US8585681088
+Regis Corp,RGS.NYSE,US7589321071
+Cars.com Inc.,CARS.NYSE,US14575E1055
+Chatham Lodging Trust,CLDT.NYSE,US16208T1025
+Global Medical REIT Inc,GMRE.NYSE,US37954A2042
+SITE Centers Corp,SITC.NYSE,US82981J1097
+Shell Midstream Partners LP,SHLX.NYSE,US8226341019
+Diebold Inc,DBD.NYSE,US2536511031
+America Movil,AMX.NYSE,US02364W1053
+Mueller Water Products Inc,MWA.NYSE,US6247581084
+Steelcase Inc,SCS.NYSE,US8581552036
+Everi Holdings Inc,EVRI.NYSE,US30034T1034
+PBF Energy Inc,PBF.NYSE,US69318G1067
+New Oriental Education & Techn,EDU.NYSE,US6475811070
+O-I Glass Inc,OI.NYSE,US67098H1041
+CNX Resources Corp,CNX.NYSE,US12653C1080
+Yext Inc,YEXT.NYSE,US98585N1063
+KAR Auction Services Inc,KAR.NYSE,US48238T1097
+Controladora Vuela Co Avcn SA CV,VLRS.NYSE,US21240E1055
+USA Compression Partners LP,USAC.NYSE,US90290N1090
+Zuora Inc,ZUO.NYSE,US98983V1061
+Brigham Minerals Inc,MNRL.NYSE,US10918L1035
+Independence Realty Trust Inc,IRT.NYSE,US45378A1060
+Mack-Cali Realty Corp,CLI.NYSE,US5544891048
+Realogy Holdings Corp,RLGY.NYSE,US75605Y1064
+RLJ Lodging Trust,RLJ.NYSE,US74965L1017
+Macy's,M.NYSE,US55616P1049
+Arbor Realty Trust Inc,ABR.NYSE,US0389231087
+Kronos Worldwide Inc,KRO.NYSE,US50105F1057
+Fisker Inc,FSR.NYSE,US33813J1060
+International Game Technology,IGT.NYSE,
+Murphy Oil,MUR.NYSE,US6267171022
+Hercules Technology Growth Capital Inc,HTGC.NYSE,US4270965084
+First Majestic Silver Corp (US),AG.NYSE,
+Urban Edge Properties,UE.NYSE,US91704F1049
+Manchester United Plc,MANU.NYSE,
+Seabridge Gold Inc,SA.NYSE,
+Switch Inc,SWCH.NYSE,US87105L1044
+Livent Corporation,LTHM.NYSE,US53814L1089
+American Well Corp,AMWL.NYSE,US03044L1052
+Cameco Corp,CCJ.NYSE,
+Takeda Pharmaceutical Company Limited,TAK.NYSE,US8740602052
+Harsco Corp,HSC.NYSE,US4158641070
+Piedmont Office Realty Trust I,PDM.NYSE,US7201902068
+SM Energy Co,SM.NYSE,US78454L1008
+Vistra Energy Corp,VST.NYSE,US92840M1027
+Designer Brands Inc,DBI.NYSE,US2505651081
+EQT,EQT.NYSE,US26884L1098
+Cia Cervecerias Unidas SA,CCU.NYSE,US2044291043
+NuStar Energy LP,NS.NYSE,US67058H1023
+Cleveland-Cliffs Inc.,CLF.NYSE,US1858991011
+Tutor Perini Corp,TPC.NYSE,US9011091082
+Scorpio Tankers Inc,STNG.NYSE,
+Vale SA,VALE.NYSE,US91912E1055
+PIMCO Corporate & Income Opportunity Fund,PTY.NYSE,
+Sibanye Stillwater Ltd - ADR,SBSW.NYSE,US82575P1075
+Graphic Packaging Holding Co,GPK.NYSE,US3886891015
+Global Net Lease Inc,GNL.NYSE,US3793782018
+Seritage Growth Properties,SRG.NYSE,US81752R1005
+Dynex Capital Inc,DX.NYSE,US26817Q8868
+Infosys Technologies,INFY.NYSE,US4567881085
+Gray Television Inc,GTN.NYSE,US3893751061
+CVR Energy Inc,CVI.NYSE,US12662P1084
+Acadia Realty Trust,AKR.NYSE,US0042391096
+Equinor ASA - ADR,EQNR.NYSE,US29446M1027
+Sally Beauty Holdings Inc,SBH.NYSE,US79546E1047
+Tencent Music Entertainment,TME.NYSE,US88034P1093
+Teck Resources Ltd (US),TECK.NYSE,
+Tegna Inc,TGNA.NYSE,US87901J1051
+Tronox Ltd,TROX.NYSE,
+Brixmor Property Group Inc,BRX.NYSE,US11120U1051
+Tata Motors,TTM.NYSE,US8765685024
+Kennedy-Wilson Holdings Inc,KW.NYSE,US4893981070
+Barrick Gold Corp,GOLD.NYSE,
+Caleres Inc,CAL.NYSE,US1295001044
+FS KKR Capital Corp,FSK.NYSE,US3026352068
+Manitowoc,MTW.NYSE,US5635714059
+Cadence Bancorp,CADE.NYSE,US12739A1007
+Azul SA ADR,AZUL.NYSE,US05501U1060
+TRI Pointe Homes Inc,TPH.NYSE,US87265H1095
+Rite Aid Corp,RAD.NYSE,US7677548726
+Pure Storage Inc,PSTG.NYSE,US74624M1027
+Park Hotels and Resorts Inc,PK.NYSE,US7005171050
+IMAX Corp (US),IMAX.NYSE,
+Fluor Corporation,FLR.NYSE,US3434121022
+Outfront Media Inc,OUT.NYSE,US69007J1060
+AngloGold Ashanti Limited,AU.NYSE,US0351282068
+Global Partners LP/MA,GLP.NYSE,US37946R1095
+Allegheny Technologies,ATI.NYSE,US01741R1023
+Delek US Holdings Inc,DK.NYSE,US24665A1034
+H&R Block,HRB.NYSE,US0936711052
+Washington Real Estate Investm,WRE.NYSE,US9396531017
+Cinemark Holdings Inc,CNK.NYSE,US17243V1026
+Old Republic International Cor,ORI.NYSE,US6802231042
+Palantir Technologies Inc,PLTR.NYSE,US69608A1088
+Radian Group Inc,RDN.NYSE,US7502361014
+Essential Properties Realty Trust Inc,EPRT.NYSE,US29670E1073
+"Eventbrite, Inc.",EB.NYSE,US29975E1091
+Box Inc,BOX.NYSE,US10316T1043
+Matador Resources Co,MTDR.NYSE,US5764852050
+Pebblebrook Hotel Trust,PEB.NYSE,US70509V1008
+Flowers Foods Inc,FLO.NYSE,US3434981011
+Dana Holding Corp,DAN.NYSE,US2358252052
+Banco Santander Chile,BSAC.NYSE,US05965X1090
+Starwood Property Trust Inc,STWD.NYSE,US85571B1052
+Levi Strauss & Co.,LEVI.NYSE,US52736R1023
+MEDNAX Inc,MD.NYSE,US58502B1061
+CNO Financial Group Inc,CNO.NYSE,US12621E1038
+3D Systems Corp,DDD.NYSE,US88554D2053
+Bloom Energy Corp,BE.NYSE,US0937121079
+At Home Group Inc,HOME.NYSE,US04650Y1001
+"Continental Resources, Inc.",CLR.NYSE,US2120151012
+Tupperware Brands Corp,TUP.NYSE,US8998961044
+Magnachip Semiconductor Corp,MX.NYSE,US55933J2033
+Helmerich,HP.NYSE,US4234521015
+e.l.f. Beauty Inc,ELF.NYSE,US26856L1035
+Evoqua Water Technologies Corp,AQUA.NYSE,US30057T1051
+Corporate Office Properties Tr,OFC.NYSE,US22002T1088
+SK Telecom Co Ltd,SKM.NYSE,US78440P1084
+Fortress Transportation & Infrastructure Investors,FTAI.NYSE,US34960P1012
+Hudson Pacific Properties Inc,HPP.NYSE,US4440971095
+Nomad Foods,NOMD.NYSE,
+Four Corners Property Trust,FCPT.NYSE,US35086T1097
+Healthcare Trust of America Inc,HTA.NYSE,US42225P5017
+Equity Commonwealth,EQC.NYSE,US2946281027
+Clearway Energy Inc,CWEN.NYSE,US18539C2044
+Huntsman,HUN.NYSE,US4470111075
+ZTO Express (Cayman) Inc,ZTO.NYSE,US98980A1051
+Chemours Co,CC.NYSE,US1638511089
+Pembina Pipeline Corp (US),PBA.NYSE,
+Getty Realty Corp,GTY.NYSE,US3742971092
+Virgin Galactic Holdings Inc,SPCE.NYSE,US92766K1060
+Honda Motor Co Ltd,HMC.NYSE,US4381283088
+HSBC Holdings plc,HSBC.NYSE,US4042804066
+Axalta Coating Systems Ltd,AXTA.NYSE,
+Vipshop Holdings Ltd,VIPS.NYSE,US92763W1036
+"Avantor, Inc",AVTR.NYSE,US05352A1007
+Jefferies Financial Group Inc,JEF.NYSE,US47233W1099
+American Eagle Outfitters,AEO.NYSE,US02553E1064
+Healthcare Realty Trust Inc,HR.NYSE,US4219461047
+Commercial Metals Co,CMC.NYSE,US2017231034
+Blackstone Mortgage Trust Inc,BXMT.NYSE,US09257W1009
+MDU Resources Group Inc,MDU.NYSE,US5526901096
+Targa Resources Corp,TRGP.NYSE,US87612G1013
+Alcoa Corp,AA.NYSE,US0138721065
+Taylor Morrison Home Corp,TMHC.NYSE,US87724P1066
+Stride Inc,LRN.NYSE,US86333M1080
+Vista Outdoor Inc,VSTO.NYSE,US9283771007
+JBG SMITH Properties,JBGS.NYSE,US46590V1008
+Douglas Emmett Inc,DEI.NYSE,US25960P1093
+American Assets Trust Inc,AAT.NYSE,US0240131047
+8x8 Inc,EGHT.NYSE,US2829141009
+Asana Inc,ASAN.NYSE,US04342Y1047
+STORE Capital Corp,STOR.NYSE,US8621211007
+American Homes 4 Rent,AMH.NYSE,US02665T3068
+Marcus & Millichap Inc,MMI.NYSE,US5663241090
+STAG Industrial Inc,STAG.NYSE,US85254J1025
+MaxLinear Inc,MXL.NYSE,US57776J1007
+Laredo Petroleum Holdings Inc,LPI.NYSE,US5168062058
+Cousins Properties Inc,CUZ.NYSE,US2227955026
+United Natural Foods Inc,UNFI.NYSE,US9111631035
+Nordstrom,JWN.NYSE,US6556641008
+Callon Petroleum Co,CPE.NYSE,US13123X5086
+Abercrombie,ANF.NYSE,US0028962076
+Tempur-Pedic International Inc,TPX.NYSE,US88023U1016
+Jumia Technologies AG,JMIA.NYSE,US48138M1053
+KBR Inc,KBR.NYSE,US48242W1062
+Owens & Minor Inc,OMI.NYSE,US6907321029
+Maxar Technologies Ltd,MAXR.NYSE,US57778K1051
+Hilton Grand Vacations,HGV.NYSE,US43283X1054
+Spirit Airlines Inc,SAVE.NYSE,US8485771021
+Plantronics Inc,PLT.NYSE,US7274931085
+NIO Inc.,NIO.NYSE,US62914V1061
+British American Tobacco PLC,BTI.NYSE,US1104481072
+US Foods Holding Corp,USFD.NYSE,US9120081099
+Invitae Corporation,NVTA.NYSE,US46185L1035
+Omega Healthcare Investors Inc,OHI.NYSE,US6819361006
+NCR,NCR.NYSE,US62886E1082
+Aramark Corp,ARMK.NYSE,US03852U1060
+Granite Construction Inc,GVA.NYSE,US3873281071
+Edgewell Personal Care Co,EPC.NYSE,US28035Q1022
+CubeSmart,CUBE.NYSE,US2296631094
+AmeriCold Realty Trust,COLD.NYSE,US03064D1081
+Ternium SA,TX.NYSE,US8808901081
+Olin Corp,OLN.NYSE,US6806652052
+Adtalem Global Education Inc,ATGE.NYSE,US00737L1035
+Teradata,TDC.NYSE,US88076W1036
+Yelp,YELP.NYSE,US9858171054
+Harley Davidson,HOG.NYSE,US4128221086
+National Storage Affiliates Trust,NSA.NYSE,US6378701063
+Main Street Capital Corp,MAIN.NYSE,US56035L1044
+RE/MAX Holdings Inc,RMAX.NYSE,US75524W1080
+PagerDuty Inc,PD.NYSE,US69553P1003
+UGI Corp,UGI.NYSE,US9026811052
+Kennametal Inc,KMT.NYSE,US4891701009
+Viad Corp,VVI.NYSE,US92552R4065
+St Joe Co/The,JOE.NYSE,US7901481009
+PROG Holdings Inc,PRG.NYSE,US74319R1014
+Highwoods Properties Inc,HIW.NYSE,US4312841087
+Skechers U.S.A. Inc,SKX.NYSE,US8305661055
+LTC Properties Inc,LTC.NYSE,US5021751020
+"American Campus Communities, Inc.",ACC.NYSE,US0248351001
+Belden Inc,BDC.NYSE,US0774541066
+Arch Coal Inc,ARCH.NYSE,US03940R1077
+Herbalife Ltd,HLF.NYSE,
+Brookfield Asset Management Inc,BAM.NYSE,
+National Retail Properties Inc,NNN.NYSE,US6374171063
+"BJ's Wholesale Club Holdings, Inc.",BJ.NYSE,US05550J1016
+Lazard Ltd,LAZ.NYSE,
+First Industrial Realty Trust,FR.NYSE,US32054K1034
+Denbury Inc,DEN.NYSE,US24790A1016
+Six Flags Entertainment Corp,SIX.NYSE,US83001A1025
+Aerojet Rocketdyne Holdings Inc,AJRD.NYSE,US0078001056
+Energizer Holdings Inc,ENR.NYSE,US29272W1099
+Revolve Group Inc,RVLV.NYSE,US76156B1070
+Green Dot Corp,GDOT.NYSE,US39304D1028
+Pagseguro Digital LTD,PAGS.NYSE,
+Essent Group Ltd,ESNT.NYSE,
+Ameresco Inc,AMRC.NYSE,US02361E1082
+Terminix Global Holdings Inc,TMX.NYSE,US88087E1001
+Spirit Aerosystems Holdings In,SPR.NYSE,US8485741099
+KB Home,KBH.NYSE,US48666K1097
+EPR Properties,EPR.NYSE,US26884U1097
+New York Times,NYT.NYSE,US6501111073
+Sonic Automotive Inc,SAH.NYSE,US83545G1022
+Knight-Swift Transportation Co,KNX.NYSE,US4990491049
+Capri Holdings Ltd,CPRI.NYSE,
+Tenet Healthcare,THC.NYSE,US88033G4073
+Farfetch Limited,FTCH.NYSE,
+CIT Group,CIT.NYSE,US1255818015
+ABM Industries Inc,ABM.NYSE,US0009571003
+Service Corp International/US,SCI.NYSE,US8175651046
+Nu Skin Enterprises Inc,NUS.NYSE,US67018T1051
+Argo Group International Holdings,ARGO.NYSE,
+Rexford Industrial Realty Inc,REXR.NYSE,US76169C1009
+TreeHouse Foods Inc,THS.NYSE,US89469A1043
+Jabil Circuit,JBL.NYSE,US4663131039
+Hannon Armstrong Sustainable Infrastructure Capital Inc,HASI.NYSE,US41068X1000
+Brookfield Infrastructure Partners LP (US),BIP.NYSE,
+World Wrestling Entertainment,WWE.NYSE,US98156Q1085
+Ciena,CIEN.NYSE,US1717793095
+Foot Locker Inc,FL.NYSE,US3448491049
+Hexcel Corp,HXL.NYSE,US4282911084
+Greif Inc - A,GEF.NYSE,US3976241071
+Performance Food Group Co,PFGC.NYSE,US71377A1034
+First American Financial Corp,FAF.NYSE,US31847R1023
+Donaldson Co Inc,DCI.NYSE,US2576511099
+Universal Corp/VA,UVV.NYSE,US9134561094
+Toll Brothers Inc,TOL.NYSE,US8894781033
+AerCap Holdings NV,AER.NYSE,
+Louisiana-Pacific Corp,LPX.NYSE,US5463471053
+Terreno Realty Corp,TRNO.NYSE,US88146M1018
+Kohl's Corporation,KSS.NYSE,US5002551043
+MDC Holdings Inc,MDC.NYSE,US5526761086
+Cimarex Energy Co,XEC.NYSE,US1717981013
+New Relic Inc,NEWR.NYSE,US64829B1008
+Boyd Gaming Corp,BYD.NYSE,US1033041013
+Berry Plastics Group Inc,BERY.NYSE,US08579W1036
+Globus Medical Inc,GMED.NYSE,US3795772082
+Anheuser Busch Inbev SA,BUD.NYSE,US03524A1088
+Sonoco Products Co,SON.NYSE,US8354951027
+Boot Barn Holdings,BOOT.NYSE,US0994061002
+AECOM Technology Corp,ACM.NYSE,US00766T1007
+Kilroy Realty Corp,KRC.NYSE,US49427F1084
+Big Lots,BIG.NYSE,US0893021032
+Agree Realty Corp,ADC.NYSE,US0084921008
+Brinker International Inc,EAT.NYSE,US1096411004
+Safehold Inc.,SAFE.NYSE,US78645L1008
+Universal Health Realty Income,UHT.NYSE,US91359E1055
+ONTO Innovation Inc,ONTO.NYSE,US6833441057
+NextEra Energy Partners LP,NEP.NYSE,US65341B1061
+Envestnet Inc,ENV.NYSE,US29404K1060
+Cubic Corp,CUB.NYSE,US2296691064
+YETI Holdings Inc,YETI.NYSE,US98585X1046
+Ormat Technologies Inc,ORA.NYSE,US6866881021
+Ryder System Inc,R.NYSE,US7835491082
+Sensient Technologies Corp,SXT.NYSE,US81725T1007
+Glaukos Corp,GKOS.NYSE,US3773221029
+Brink's Co/The,BCO.NYSE,US1096961040
+Penske Automotive Group Inc,PAG.NYSE,US70959W1036
+Encompass Health Corp,EHC.NYSE,US29261A1007
+Dick's Sporting Goods Inc,DKS.NYSE,US2533931026
+Emergent Biosolutions Inc,EBS.NYSE,US29089Q1058
+"Chewy, Inc.",CHWY.NYSE,US16679L1098
+Winnebago Industries Inc,WGO.NYSE,US9746371007
+Copa Holdings SA,CPA.NYSE,
+Planet Fitness Inc,PLNT.NYSE,US72703H1014
+CGI Group Inc (US),GIB.NYSE,
+"Alteryx, Inc",AYX.NYSE,US02156B1035
+Insperity Inc,NSP.NYSE,US45778Q1076
+Hyatt Hotels,H.NYSE,US4485791028
+Albany International Corp,AIN.NYSE,US0123481089
+WESCO International Inc,WCC.NYSE,US95082P1057
+Novartis AG - ADR,NVS.NYSE,US66987V1098
+Chegg Inc,CHGG.NYSE,US1630921096
+Life Storage Inc,LSI.NYSE,US53223X1072
+Spectrum Brands Holdings Inc,SPB.NYSE,US84790A1051
+DineEquity Inc,DIN.NYSE,US2544231069
+Ashland,ASH.NYSE,US0441861046
+Ingredion Inc,INGR.NYSE,US4571871023
+AutoNation,AN.NYSE,US05329W1027
+Lemonade Inc,LMND.NYSE,US52567D1072
+Dell Technologies Inc,DELL.NYSE,US24703L2025
+Carter's Inc,CRI.NYSE,US1462291097
+Meritage Homes Corp,MTH.NYSE,US59001A1025
+EnerSys Inc,ENS.NYSE,US29275Y1029
+Nabors Indust,NBR.NYSE,
+Autohome Inc,ATHM.NYSE,US05278C1071
+MasTec Inc,MTZ.NYSE,US5763231090
+Badger Meter Inc,BMI.NYSE,US0565251081
+Dillard's,DDS.NYSE,US2540671011
+Brunswick Corp/DE,BC.NYSE,US1170431092
+Unity Software Inc,U.NYSE,US91332U1016
+IDACORP Inc,IDA.NYSE,US4511071064
+USANA Health Sciences Inc,USNA.NYSE,US90328M1071
+Howard Hughes Corp/The,HHC.NYSE,US44267D1072
+Q2 Holdings Inc,QTWO.NYSE,US74736L1098
+Alliance Data Systems Corp,ADS.NYSE,US0185811082
+Arrow Electronics Inc,ARW.NYSE,US0427351004
+Haemonetics Corp,HAE.NYSE,US4050241003
+EMCOR Group Inc,EME.NYSE,US29084Q1004
+Shake Shack Inc,SHAK.NYSE,US8190471016
+American Financial Group Inc/O,AFG.NYSE,US0259321042
+Installed Building Products Inc,IBP.NYSE,US45780R1014
+Oshkosh Corp,OSK.NYSE,US6882392011
+SYNNEX Corp,SNX.NYSE,US87162W1009
+Ralph Lauren Corp,RL.NYSE,US7512121010
+DoorDash Inc,DASH.NYSE,US25809K1051
+Reinsurance Group of America I,RGA.NYSE,US7593516047
+CONMED Corp,CNMD.NYSE,US2074101013
+Hanover Insurance Group Inc/Th,THG.NYSE,US4108671052
+Thor Industries Inc,THO.NYSE,US8851601018
+Polaris,PII.NYSE,US7310681025
+Zendesk Inc,ZEN.NYSE,US98936J1016
+John Bean Technologies Corp,JBT.NYSE,US4778391049
+FTI Consulting Inc,FCN.NYSE,US3029411093
+Nevro Corp,NVRO.NYSE,US64157F1030
+Murphy USA Inc,MUSA.NYSE,US6267551025
+AGCO Corp,AGCO.NYSE,US0010841023
+EastGroup Properties Inc,EGP.NYSE,US2772761019
+Affiliated Managers Group Inc,AMG.NYSE,US0082521081
+Reliance Steel & Aluminum Co,RS.NYSE,US7595091023
+Group 1 Automotive Inc,GPI.NYSE,US3989051095
+RenaissanceRe Holdings Ltd,RNR.NYSE,
+Acuity Brands Inc,AYI.NYSE,US00508Y1029
+Marriott Vacations Worldwide C,VAC.NYSE,US57164Y1073
+Williams-Sonoma Inc,WSM.NYSE,US9699041011
+Jones Lang LaSalle Inc,JLL.NYSE,US48020Q1076
+Lear Corp,LEA.NYSE,US5218652049
+Madison Square Garden Sport Corp,MSGS.NYSE,US55825T1034
+Hubbell Inc,HUBB.NYSE,US4435106079
+Innovative Industrial Properties Inc,IIPR.NYSE,US45781V1017
+Inspire Medical Systems Inc,INSP.NYSE,US4577301090
+WEX Inc,WEX.NYSE,US96208T1043
+Medifast Inc,MED.NYSE,US58470H1014
+Fiverr International Ltd.,FVRR.NYSE,
+Veeva Systems Inc,VEEV.NYSE,US9224751084
+Watsco Inc,WSO.NYSE,US9426222009
+Penumbra Inc,PEN.NYSE,US70975L1070
+Alexander's Inc,ALX.NYSE,US0147521092
+RingCentral Inc,RNG.NYSE,US76680R2067
+Burlington Stores Inc,BURL.NYSE,US1220171060
+Deckers Outdoor Corp,DECK.NYSE,US2435371073
+Chemed Corp,CHE.NYSE,US16359R1032
+Graham Holdings Co,GHC.NYSE,US3846371041
+Alleghany Corp,Y.NYSE,US0171751003
+Shopify Inc,SHOP.NYSE,
+ManpowerGroup Inc.,MAN.NYSE,US56418H1005
+Macerich Co,MAC.NYSE,US5543821012
+TAL Education Group,TAL.NYSE,US8740801043
+Onconova Therapeutics Inc,ONTX.NAS,US68232V4059
+Sundial Growers Inc,SNDL.NAS,
+Tonix Pharmaceuticals Holding Corp,TNXP.NAS,US8902607063
+TherapeuticsMD Inc,TXMD.NAS,US88338N1072
+Novan Inc,NOVN.NAS,US66988N1063
+AcelRx Pharmaceuticals Inc,ACRX.NAS,US00444T1007
+T2 Biosystems Inc,TTOO.NAS,US89853L1044
+Geron Corp,GERN.NAS,US3741631036
+XpresSpa Group Inc,XSPA.NAS,US98420U7037
+9F Inc,JFU.NAS,US65442R1095
+Veon Ltd,VEON.NAS,US91822M1062
+Trevena Inc,TRVN.NAS,US89532E1091
+Genius Brands International Inc,GNUS.NAS,US37229T3014
+Athersys Inc,ATHX.NAS,US04744L1061
+Corbus Pharmaceuticals Holdings Inc,CRBP.NAS,US21833P1030
+Agile Therapeutics Inc,AGRX.NAS,US00847L1008
+Remark Holdings Inc,MARK.NAS,US75955K1025
+Tellurian,TELL.NAS,US87968A1043
+New Age Beverages Corporation,NBEV.NAS,US6501941032
+Minerva Neurosciences Inc,NERV.NAS,US6033801068
+Waitr Holdings Inc.,WTRH.NAS,US9307521008
+Verastem Inc,VSTM.NAS,US92337C1045
+Agenus Inc,AGEN.NAS,US00847G7051
+VBI Vaccines Inc,VBIV.NAS,
+Spectrum Pharmaceuticals Inc,SPPI.NAS,US84763A1088
+Arbutus Biopharma,ABUS.NAS,
+Rigel Pharmaceuticals Inc,RIGL.NAS,US7665596034
+Inflarx NV,IFRX.NAS,
+Limelight Networks Inc,LLNW.NAS,US53261M1045
+Ovid Therapeutics Inc,OVID.NAS,US6904691010
+Ceragon Networks Ltd,CRNT.NAS,
+Energous Corp,WATT.NAS,US29272C1036
+"Selecta Biosciences, Inc",SELB.NAS,US8162121045
+Antares Pharma Inc,ATRS.NAS,US0366421065
+Genprex Inc,GNPX.NAS,US3724461047
+MannKind Corp,MNKD.NAS,US56400P7069
+Athenex Inc,ATNX.NAS,US04685N1037
+Trivago NV,TRVG.NAS,US89686D1054
+ViewRay Inc,VRAY.NAS,US92672L1070
+Centennial Resource Development Inc,CDEV.NAS,US15136A1025
+Opko Health Inc,OPK.NAS,US68375N1037
+Catalyst Pharmaceutical Partners Inc,CPRX.NAS,US14888U1016
+CymaBay Therapeutics Inc,CBAY.NAS,US23257D1037
+New York Mortgage Trust Inc,NYMT.NAS,US6496045013
+Zynerba Pharmaceuticals Inc,ZYNE.NAS,US98986X1090
+National CineMedia Inc,NCMI.NAS,US6353091076
+IZEA Worldwide Inc,IZEA.NAS,US46604H1059
+"Voyager Therapeutics, Inc.",VYGR.NAS,US92915B1061
+Electrameccanica Vehicles Corp,SOLO.NAS,
+Accuray Inc,ARAY.NAS,US0043971052
+Adaptimmune Therapeutics PLC,ADAP.NAS,US00653A1079
+BGC Partners Inc,BGCP.NAS,US05541T1016
+Lexicon Pharmaceuticals Inc,LXRX.NAS,US5288723027
+Vaxart Inc,VXRT.NAS,US92243A2006
+Foresight Autonomous Holdings Ltd,FRSX.NAS,US3455231049
+PennantPark Investment Corp,PNNT.NAS,US7080621045
+Cerus Corp,CERS.NAS,US1570851014
+"Viking Therapeutics, Inc.",VKTX.NAS,US92686J1060
+AYRO Inc,AYRO.NAS,US0547481087
+WiMi Hologram Cloud Inc,WIMI.NAS,US97264L1008
+Liberty TripAdvisor Holdings Inc,LTRPA.NAS,US5314651028
+Xunlei Ltd,XNET.NAS,US98419E1082
+Kandi Technologies Group Inc,KNDI.NAS,US4837091010
+WisdomTree Investments Inc,WETF.NAS,US97717P1049
+ProQR Therapeutics NV,PRQR.NAS,
+Vyne Therapeutics Inc,VYNE.NAS,US92941V2097
+Clovis Oncology Inc,CLVS.NAS,US1894641000
+Conduent Inc,CNDT.NAS,US2067871036
+MoneyGram International Inc,MGI.NAS,US60935Y2081
+Orchard Therapeutics PLC,ORTX.NAS,US68570P1012
+Patterson Uti Energy,PTEN.NAS,US7034811015
+Aytu BioScience Inc,AYTU.NAS,US0547548745
+Pregicen Inc,PGEN.NAS,US74017N1054
+Paratek Pharmaceuticals Inc,PRTK.NAS,US6993743029
+Playa Hotels & Resorts NV,PLYA.NAS,
+Heat Biologics Inc,HTBX.NAS,US42237K4094
+Sorrento Therapeutics Inc,SRNE.NAS,US83587F2020
+Bionano Genomics Inc,BNGO.NAS,US09075F1075
+Ocugen Inc,OCGN.NAS,US67577C1053
+ImmunoGen Inc,IMGN.NAS,US45253H1014
+Nano Dimension Ltd - ADR,NNDM.NAS,US63008G2030
+Prospect Capital Corp,PSEC.NAS,US74348T1025
+Harmonic Inc,HLIT.NAS,US4131601027
+Surface Oncology Inc,SURF.NAS,US86877M2098
+Shift Technologies Inc,SFT.NAS,US82452T1079
+Gevo Inc,GEVO.NAS,US3743964062
+Inovio Pharmaceuticals Inc,INO.NAS,US45773H2013
+Precision Biosciences Inc,DTIL.NAS,US74019P1084
+Inseego Corp.,INSG.NAS,US45782B1044
+Gossamer Bio Inc,GOSS.NAS,US38341P1021
+Plains All American Pipeline L,PAA.NAS,US7265031051
+"Casa Systems, Inc.",CASA.NAS,US14713L1026
+Co-Diagnostics Inc,CODX.NAS,US1897631057
+eGain Corp,EGAN.NAS,US28225C8064
+Amicus Therapeutics Inc,FOLD.NAS,US03152W1099
+Puma Biotechnology Inc,PBYI.NAS,US74587V1070
+Plains GP Holdings LP,PAGP.NAS,US72651A2078
+Adverum Biotechnologies Inc,ADVM.NAS,US00773U1088
+So-Young International Inc,SY.NAS,US83356Q1085
+Infinera Corp,INFN.NAS,US45667G1031
+CorMedix Inc,CRMD.NAS,US21900C3088
+Dynavax Technologies Corp,DVAX.NAS,US2681582019
+Provention Bio Inc,PRVB.NAS,US74374N1028
+Gogo Inc,GOGO.NAS,US38046C1099
+SmileDirectClub Inc.,SDC.NAS,US83192H1068
+DouYu International Holdings Ltd - ADR,DOYU.NAS,US25985W1053
+Gladstone Capital Corp,GLAD.NAS,US3765351008
+Newmark Group Inc - Class A,NMRK.NAS,US65158N1028
+Luna Innovations Inc,LUNA.NAS,US5503511009
+BioCryst Pharmaceuticals Inc,BCRX.NAS,US09058V1035
+QIWI plc,QIWI.NAS,US74735M1080
+Noodles & Co,NDLS.NAS,US65540B1052
+OraSure Technologies Inc,OSUR.NAS,US68554V1089
+Golar LNG Ltd,GLNG.NAS,
+Vera Bradley Inc,VRA.NAS,US92335C1062
+Uniti Group Inc,UNIT.NAS,US91325V1089
+CalAmp Corp,CAMP.NAS,US1281261099
+Curis Inc,CRIS.NAS,US2312692005
+Sangamo Biosciences Inc,SGMO.NAS,US8006771062
+Qurate Retail Group Inc QVC Group,QRTEA.NAS,US74915M1009
+Service Properties Trust,SVC.NAS,US81761L1026
+GoPro Inc (A shares),GPRO.NAS,US38268T1034
+PennantPark Floating Rate Capital Ltd,PFLT.NAS,US70806A1060
+Aldeyra Therapeutics Inc,ALDX.NAS,US01438T1060
+Fossil,FOSL.NAS,US34988V1061
+Consolidated Water Co Ltd,CWCO.NAS,
+National Energy Services Reunited Corp,NESR.NAS,
+FuelCell Energy Inc,FCEL.NAS,US35952H6018
+Nikola Corporation,NKLA.NAS,US6541101050
+Telefonaktiebolaget LM Ericsson,ERIC.NAS,US2948216088
+Workhorse Group Inc,WKHS.NAS,US98138J2069
+Altimmune Inc,ALT.NAS,US02155H2004
+Liberty Latin America Ltd,LILA.NAS,
+Clean Energy Fuels Corp,CLNE.NAS,US1844991018
+Evolus Inc,EOLS.NAS,US30052C1071
+Atara Biotherapeutics Inc,ATRA.NAS,US0465131078
+Apollo Investment Corp,AINV.NAS,US03761U5020
+ANGI Homeservices Inc,ANGI.NAS,US00183L1026
+Navient Corp,NAVI.NAS,US63938C1080
+Coherus Biosciences Inc,CHRS.NAS,US19249H1032
+Sutter Rock Capital Corp,SSSS.NAS,US86887Q1094
+Marinus Pharmaceuticals Inc.,MRNS.NAS,US56854Q2003
+Zynex Inc,ZYXI.NAS,US98986M1036
+Mitek Systems Inc,MITK.NAS,US6067102003
+CommScope Holding Co Inc,COMM.NAS,US20337X1090
+Silver Standard Resources Inc,SSRM.NAS,
+Momo Inc,MOMO.NAS,US60879B1070
+Sabre Corp,SABR.NAS,US78573M1045
+MicroVision Inc,MVIS.NAS,US5949603048
+Anavex Life Sciences Corp,AVXL.NAS,US0327973006
+Viavi Solutions Inc,VIAV.NAS,US9255501051
+Retail Opportunity Investments,ROIC.NAS,US76131N1019
+First Trust Multi-Asset Diversified Income Index Fund,MDIV.NAS,US33738R1005
+Ocular Therapeutix Inc,OCUL.NAS,US67576A1007
+AGNC Investment Corp,AGNC.NAS,US00123Q1040
+XBiotech Inc,XBIT.NAS,
+Sportsmans Warehouse Holdings Inc,SPWH.NAS,US84920Y1064
+iHeartMedia Inc,IHRT.NAS,US45174J5092
+Smith & Wesson Brands Inc,SWBI.NAS,US8317541063
+Denny's Corp,DENN.NAS,US24869P1049
+Amyris Inc,AMRS.NAS,US03236M2008
+Goodyear,GT.NAS,US3825501014
+Canaan Inc,CAN.NAS,US1347481020
+Sabra Health Care REIT Inc,SBRA.NAS,US78573L1061
+Flex Ltd,FLEX.NAS,
+SVMK Inc,SVMK.NAS,US78489X1037
+SLM,SLM.NAS,US78442P1066
+Ares Capital Corp,ARCC.NAS,US04010L1035
+AxoGen Inc,AXGN.NAS,US05463X1063
+Nektar Therapeutics,NKTR.NAS,US6402681083
+SpartanNash Co,SPTN.NAS,US8472151005
+Fireeye Inc.,FEYE.NAS,US31816Q1013
+Tattooed Chef Inc,TTCF.NAS,US87663X1028
+Seres Therapeutics Inc,MCRB.NAS,US81750R1023
+Gladstone Commercial Corp,GOOD.NAS,US3765361080
+Melco Resorts & Entertainment Ltd - ADR,MLCO.NAS,US5854641009
+Mattel Inc.,MAT.NAS,US5770811025
+ACADIA Pharmaceuticals Inc,ACAD.NAS,US0042251084
+JetBlue Airways Corp,JBLU.NAS,US4771431016
+Vaxcyte Inc,PCVX.NAS,US92243G1085
+Celldex Therapeutics Inc,CLDX.NAS,US15117B2025
+Varex Imaging Corp,VREX.NAS,US92214X1063
+CleanSpark Inc,CLSK.NAS,US18452B2097
+Wendys/Arby,WEN.NAS,US95058W1009
+Avid Technology Inc,AVID.NAS,US05367P1003
+Conn's Inc,CONN.NAS,US2082421072
+NMI Holdings Inc,NMIH.NAS,US6292093050
+LI Auto Inc (ADR),LI.NAS,US50202M1027
+Intercept Pharmaceuticals Inc,ICPT.NAS,US45845P1084
+Cytokinetics Inc,CYTK.NAS,US23282W6057
+Syndax Pharmaceuticals Inc,SNDX.NAS,US87164F1057
+Exelixis Inc,EXEL.NAS,US30161Q1040
+Industrial Logistics Properties Trust,ILPT.NAS,US4562371066
+Rubius Therapeutics Inc,RUBY.NAS,US78116T1034
+"Codexis, Inc.",CDXS.NAS,US1920051067
+Allovir Inc,ALVR.NAS,US0198181036
+Ruth's Hospitality Group Inc,RUTH.NAS,US7833321091
+Comtech Telecommunications Cor,CMTL.NAS,US2058262096
+360 DigiTech Inc,QFIN.NAS,US88557W1018
+Liberty Global PLC Class C,LBTYK.NAS,
+Liberty Global PLC Class A,LBTYA.NAS,
+Sprouts Farmers Market Inc,SFM.NAS,US85208M1027
+Hawaiian Holdings Inc,HA.NAS,US4198791018
+Revance Therapeutics Inc,RVNC.NAS,US7613301099
+Cara Therapeutics,CARA.NAS,US1407551092
+Bloomin' Brands Inc,BLMN.NAS,US0942351083
+1-800-Flowers.com Inc,FLWS.NAS,US68243Q1067
+Andersons Inc/The,ANDE.NAS,US0341641035
+Turtle Beach Corp,HEAR.NAS,US9004502061
+Nutanix Inc,NTNX.NAS,US67059N1081
+Kratos Defense & Security Solutions Inc,KTOS.NAS,US50077B2079
+Office Properties Income Trust,OPI.NAS,US67623C1099
+Bed Bath & Beyond,BBBY.NAS,US0758961009
+Green Plains Inc,GPRE.NAS,US3932221043
+Tower Semiconductor Ltd,TSEM.NAS,
+Vuzix Corporation,VUZI.NAS,US92921W3007
+Bluebird Bio Inc,BLUE.NAS,US09609G1004
+Sinclair Broadcast Group Inc,SBGI.NAS,US8292261091
+G-III Apparel Group Ltd,GIII.NAS,US36237H1014
+MakeMyTrip Ltd,MMYT.NAS,
+Intra-Cellular Therapies Inc,ITCI.NAS,US46116X1019
+Chefs' Warehouse Inc/The,CHEF.NAS,US1630861011
+Patterson,PDCO.NAS,US7033951036
+Weight Watchers International,WW.NAS,US98262P1012
+Pacific Biosciences of California Inc,PACB.NAS,US69404D1081
+uniQure B.V.,QURE.NAS,
+Premier Inc,PINC.NAS,US74051N1028
+Global X Internet of Things ETF,SNSR.NAS,US37954Y7803
+Eagle Bulk Shipping Inc,EGLE.NAS,
+Ehang Holdings Ltd,EH.NAS,US26853E1029
+Shotspotter Inc,SSTI.NAS,US82536T1079
+PDC Energy Inc,PDCE.NAS,US69327R1014
+Biolife Solutions Inc,BLFS.NAS,US09062W2044
+Stoke Therapeutics Inc,STOK.NAS,US86150R1077
+Gentex Corp/MI,GNTX.NAS,US3719011096
+Niu Technologies,NIU.NAS,US65481N1000
+Atlantica Yield PLC,AY.NAS,
+EverQuote Inc,EVER.NAS,US30041R1086
+Grocery Outlet Holding Corp.,GO.NAS,US39874R1014
+Baozun Inc,BZUN.NAS,US06684L1035
+Urban Outfitters,URBN.NAS,US9170471026
+TRIP.COM GROUP LTD,TCOM.NAS,US89677Q1076
+Xp Inc,XP.NAS,
+iShares US Preferred Stock ETF,PFF.NAS,US4642886877
+Vroom Inc,VRM.NAS,US92918V1098
+Red Robin Gourmet Burgers Inc,RRGB.NAS,US75689M1018
+Millicom International Cellular SA,TIGO.NAS,
+Arcturus Therapeutics Holdings Inc,ARCT.NAS,US03969T1097
+Liberty Media Formula One Series A,FWONA.NAS,US5312298707
+Sonos,SONO.NAS,US83570H1086
+Iridium Communications Inc,IRDM.NAS,US46269C1027
+1Life Healthcare Inc,ONEM.NAS,US68269G1076
+Core-Mark Holding Co Inc,CORE.NAS,US2186811046
+Editas Medicine Inc.,EDIT.NAS,US28106W1036
+Sanmina Sci,SANM.NAS,US8010561020
+ODP Corp,ODP.NAS,US88337F1057
+Blink Charging Co.,BLNK.NAS,US09354A1007
+Silgan Holdings Inc,SLGN.NAS,US8270481091
+Halozyme Therapeutics Inc,HALO.NAS,US40637H1095
+First Trust Nasdaq Cybersecurity ETF,CIBR.NAS,US33734X8469
+Avnet Inc,AVT.NAS,US0538071038
+Hain Celestial Group Inc/The,HAIN.NAS,US4052171000
+National Instruments Corp,NATI.NAS,US6365181022
+Progyny Inc,PGNY.NAS,US74340E1038
+Dave & Buster's Entertainment Inc,PLAY.NAS,US2383371091
+Ionis Pharmaceuticals Inc,IONS.NAS,US4622221004
+Canadian Solar Inc,CSIQ.NAS,
+Upwork Inc.,UPWK.NAS,US91688F1049
+Revolution Medicines Inc,RVMD.NAS,US76155X1000
+Brighthouse Financial Inc,BHF.NAS,US10922N1037
+Vir Biotechnology Inc,VIR.NAS,US92764N1028
+JFrog Ltd,FROG.NAS,
+Builders FirstSource Inc,BLDR.NAS,US12008R1077
+Marathon Digital Holdings Inc,MARA.NAS,US5657881067
+National Beverage Corp,FIZZ.NAS,US6350171061
+Lattice Semiconductor Corp,LSCC.NAS,US5184151042
+Weibo Corp,WB.NAS,US9485961018
+Marvell,MRVL.NAS,
+iShares Core Short-Term USD Bond,ISTB.NAS,US46432F8591
+Steel Dynamics,STLD.NAS,US8581191009
+Vanguard Short-Term Inflation-Protected Securities ETF,VTIP.NAS,US9220208055
+Stitch Fix INC,SFIX.NAS,US8608971078
+Ameris Bancorp,ABCB.NAS,US03076K1088
+Veracyte Inc,VCYT.NAS,US92337F1075
+iShares Core Total USD Bond Market ETF,IUSB.NAS,US46434V6130
+Inogen Inc,INGN.NAS,US45780L1044
+TripAdvisor,TRIP.NAS,US8969452015
+SkyWest Inc,SKYW.NAS,US8308791024
+TPI Composites Inc,TPIC.NAS,US87266J1043
+Axsome Therapeutics Inc,AXSM.NAS,US05464T1043
+Universal Electronics Inc,UEIC.NAS,US9134831034
+Huazhu Group Ltd,HTHT.NAS,US44332N1063
+Potlatch Corp,PCH.NAS,US7376301039
+LivePerson Inc,LPSN.NAS,US5381461012
+Domo Inc,DOMO.NAS,US2575541055
+BridgeBio Pharma,BBIO.NAS,US10806X1028
+CEVA Inc,CEVA.NAS,US1572101053
+Cheesecake Factory Inc/The,CAKE.NAS,US1630721017
+SEI Investments Co,SEIC.NAS,US7841171033
+Renewable Energy Group Inc,REGI.NAS,US75972A3014
+Yandex NV,YNDX.NAS,
+Perficient Inc,PRFT.NAS,US71375U1016
+Overstock.com Inc,OSTK.NAS,US6903701018
+Arrowhead Research Corp,ARWR.NAS,US04280A1007
+StoneCo Ltd.,STNE.NAS,
+StoneX Group Inc,SNEX.NAS,US8618961085
+NuVasive Inc,NUVA.NAS,US6707041058
+Redfin Corporation,RDFN.NAS,US75737F1084
+Bruker Corp,BRKR.NAS,US1167941087
+HealthEquity Inc,HQY.NAS,US42226A1079
+Stericycle,SRCL.NAS,US8589121081
+iShares Core US Value ETF,IUSV.NAS,US4642876639
+InterDigital Inc/PA,IDCC.NAS,US45867G1013
+Semtech Corp,SMTC.NAS,US8168501018
+Children's Place Retail Stores,PLCE.NAS,US1689051076
+eHealth Inc,EHTH.NAS,US28238P1093
+iShares Core MSCI Total International Stock ETF,IXUS.NAS,US46432F8344
+Sarepta Therapeutics Inc,SRPT.NAS,US8036071004
+Mercury Systems Inc,MRCY.NAS,US5893781089
+Avis Budget Group Inc,CAR.NAS,US0537741052
+II-VI Inc,IIVI.NAS,US9021041085
+Schrodinger Inc,SDGR.NAS,US80810D1037
+Intellia Therapeutics Inc,NTLA.NAS,US45826J1051
+Syneos Health Inc,SYNH.NAS,US87166B1026
+Rapid7 Inc,RPD.NAS,US7534221046
+Fate Therapeutics Inc,FATE.NAS,US31189P1021
+Sage Therapeutics Inc,SAGE.NAS,US78667J1088
+iShares MSCI China ETF,MCHI.NAS,US46429B6719
+Power Integrations Inc,POWI.NAS,US7392761034
+Crocs,CROX.NAS,US2270461096
+iShares 1-3 Year Treasury Bond ETF,SHY.NAS,US4642874576
+Alarm.com Holdings Inc,ALRM.NAS,US0116421050
+Cirrus Logic Inc,CRUS.NAS,US1727551004
+Ollie's Bargain Outlet Holdings Inc,OLLI.NAS,US6811161099
+ACM Research Inc,ACMR.NAS,US00108J1097
+Tandem Diabetes Care Inc,TNDM.NAS,US8753722037
+Lumentum Holdings Inc.,LITE.NAS,US55024U1097
+CureVac N.V.,CVAC.NAS,
+Papa John's International Inc,PZZA.NAS,US6988131024
+iShares MSCI All Country Asia ex Japan ETF,AAXJ.NAS,US4642881829
+Itron Inc,ITRI.NAS,US4657411066
+iShares Core US Growth ETF,IUSG.NAS,US4642876712
+Blueprint Medicines Corp,BPMC.NAS,US09627Y1091
+Reata Pharmaceuticals Inc,RETA.NAS,US75615P1030
+Lamar Advertising Co.,LAMR.NAS,US5128161099
+iShares MSCI ACWI ETF,ACWI.NAS,US4642882579
+Texas Roadhouse Inc,TXRH.NAS,US8826811098
+First Trust ISE Cloud Computing Index Fund,SKYY.NAS,US33734X1928
+NetEase Inc,NTES.NAS,US64110W1027
+Ambarella Inc,AMBA.NAS,
+Bilibili Inc.,BILI.NAS,US0900401060
+Cardlytics Inc,CDLX.NAS,US14161W1053
+iShares JP Morgan USD Emerging Markets Bond ETF,EMB.NAS,US4642882819
+iShares Short Treasury Bond ETF,SHV.NAS,US4642886794
+Inari Medical Inc,NARI.NAS,US45332Y1091
+Jack in the Box Inc,JACK.NAS,US4663671091
+Ryanair Holdings plc,RYAAY.NAS,US7835132033
+iShares 7-10 Year Treasury Bond ETF,IEF.NAS,US4642874402
+BioNTech SE,BNTX.NAS,US09075V1026
+Aerovironment Inc,AVAV.NAS,US0080731088
+Check Point Software Technologies,CHKP.NAS,
+iShares Select Dividend ETF,DVY.NAS,US4642871689
+iRobot Corp,IRBT.NAS,US4627261005
+CRISPR Therapeutics AG,CRSP.NAS,
+Lincoln Electric Holdings Inc,LECO.NAS,US5339001068
+Visteon Corp,VC.NAS,US92839U2069
+"Everbridge, Inc.",EVBG.NAS,US29978A1043
+Quidel Corp,QDEL.NAS,US74838J1016
+Shockwave Medical Inc.,SWAV.NAS,US82489T1043
+Novocure Ltd,NVCR.NAS,
+iRhythm Technologies Inc,IRTC.NAS,US4500561067
+Cyberark Software Ltd,CYBR.NAS,
+Synaptics Inc,SYNA.NAS,US87157D1090
+Pinduoduo Inc.,PDD.NAS,US7223041028
+AppFolio Inc,APPF.NAS,US03783C1009
+Euronet Worldwide Inc,EEFT.NAS,US2987361092
+Nexstar Broadcasting Group Inc,NXST.NAS,US65336K1034
+Silicon Laboratories Inc,SLAB.NAS,US8269191024
+Johnson Outdoors Inc,JOUT.NAS,US4791671088
+iShares Nasdaq Biotechnology ETF,IBB.NAS,US4642875565
+Freshpet Inc,FRPT.NAS,US3580391056
+Jazz Pharmaceuticals Plc,JAZZ.NAS,
+Cracker Barrel Old Country Sto,CBRL.NAS,US22410J1060
+United Therapeutics Corp,UTHR.NAS,US91307C1027
+MKS Instruments Inc,MKSI.NAS,US55306N1046
+NXP Semiconductor NV,NXPI.NAS,
+Ideanomics Inc,IDEX.NAS,US45166V1061
+Casey's General Stores Inc,CASY.NAS,US1475281036
+Atlassian,TEAM.NAS,
+Baidu Inc ADR Class A,BIDU.NAS,US0567521085
+LendingTree Inc,TREE.NAS,US52603B1070
+Churchill Downs Inc,CHDN.NAS,US1714841087
+NICE Systems Ltd,NICE.NAS,US6536561086
+Market Vectors Semiconductor ETF,SMH.NAS,US92189F6768
+Vanguard Russell 1000 Growth ETF,VONG.NAS,US92206C6802
+SolarEdge Technologies Inc,SEDG.NAS,US83417M1045
+Wix.com Ltd,WIX.NAS,
+Lululemon Athletica Inc,LULU.NAS,US5500211090
+Credit Acceptance Corp,CACC.NAS,US2253101016
+iShares PHLX Semiconductor ETF,SOXX.NAS,US4642875235
+MicroStrategy Inc,MSTR.NAS,US5949724083
+MercadoLibre Inc,MELI.NAS,US58733R1023
+Cardano (USD),ADAUSD,
+Robinhood Markets Inc.,HOOD.NAS,
+Wheat - December 22 CFD,Wheat_Z2,
+Corn - September 22 CFD,Corn_U2,
+Sugar - October 22 CFD,Sugar_V2,
+ US Dollar Index - September 22 CFD,DXY_U2,
+ Euro Bobl - September 22 CFD,EURBBL_U2,
+ Euro Bund - September 22 CFD,EURBND_U2,
+ US T-Note 5 YR - September 22 CFD,UST05Y_U2,
+ US T-Note 10 YR - September 22 CFD,UST10Y_U2,
+ US T-Bond 30 YR - September 22 CFD,UST30Y_U2,
+ UK Long Gilt - September 22 CFD,UKGB_U2,
+ UK Long Gilt - December 22 CFD,UKGB_Z2,
+ Japan JGB 10 YR - June 22 CFD,JGB10Y_M2,
+ Japan JGB 10 YR - September 22 CFD,JGB10Y_U2,
+ Volatility Index - September 22 CFD,VIX_U2,
+ US Crude Oil - September 22 CFD,WTI_U2,US92922P1066
+ US Crude Oil - October 22 CFD,WTI_V2,US92922P1066
+ Soybean - September 22 CFD,Sbean_U2,
+ Orange Juice - September 22 CFD,OJ_U2,
+ Crude Oil Brent - October 22 CFD,BRENT_V2,
+ Crude Oil Brent - November 22 CFD,BRENT_X2,
+ Cocoa - December 22 CFD,Cocoa_Z2,
+ Coffee C - December 22 CFD,Coffee_Z2,
+ Cotton No 2 - December 22 CFD,Cotton_Z2,
+Tezos (USD),XTZUSD,
+Dogecoin USD,DOGUSD,
+Uniswap (USD),UNIUSD,
+Binance Coin (USD),BNBUSD,
+ Euro Schatz - September 22 CFD,EURSCA_U2,
+ Euro BTP Italian 10 YR - September 22 CFD,ITB10Y_U2,
+Germany 40 Index,DE40,
+Germany Mid 50 Index,MidDE50,
+DOT vs US Dollar,DOTUSD,
+LNK vs US Dollar,LNKUSD,
+Palo Alto Networks Inc. Common Stock,PANW.NAS,US6974351057
+Meta Platforms Inc,MVRS.NAS,US30303M1027
+"Veris Residental, Inc",VRE.NYSE,US5544891048
+MaxLinear Inc,MXL.NAS,US57776J1007
+DigitalBridge Group Inc,DBRG.NYSE,US25401T1088
+DigitalBridge Group Inc,DBRG.NYSE.a,US25401T1088
+Plantronics Inc,POLY.NYSE,US7274931085
+Plantronics Inc,POLY.NYSE.a,US7274931085
+MOMENTIVE GLOBAL Inc,MNTV.NAS,US60878Y1082
+MOMENTIVE GLOBAL Inc,MNTV.NAS.a,US60878Y1082
+Gold vs Japanese Yen,XAUJPY,
+Gold vs Swiss Franc,XAUCHF,
+Gold vs Great Britain Pound,XAUGBP,
+Silver vs Australian Dollar,XAGAUD,
+Paramount Global,PARA.NAS,US92556H2067
+AdTheorent Holding Company Inc,ADTH.NAS,US00739D1090
+Adagene Inc ADR,ADAG.NAS,US0053291078
+Adagio Therapeutics Inc.,ADGI.NAS,US00534A1025
+Adamis Pharmaceuticals Corp,ADMP.NAS,US00547W2089
+Adams Express Co,ADX.NYSE,US0062121043
+Adapthealth Corp,AHCO.NAS,US00653Q1022
+Adaptive Biotechnologies,ADPT.NAS,US00650F1093
+Addus Homecare Corp,ADUS.NAS,US0067391062
+Adient PLC,ADNT.NYSE,IE00BD845X29
+AdvanSix Inc.,ASIX.NYSE,US00773T1016
+Advanced Drainage Systems Inc,WMS.NYSE,US00790R1041
+Advanced Emissions Solutions Inc,ADES.NAS,US00770C1018
+Advantage Solutions Inc,ADV.NAS,US00791N1028
+Advent Claymore Convertible Securities and Income Fund,AVK.NYSE,US00764C1099
+Advent Technologies Holdings Inc,ADN.NAS,US00788A1051
+"Aeglea BioTherapeutics, Inc.",AGLE.NAS,US00773J1034
+Aegon NV,AEG.NYSE,US0079241032
+Aehr Test Systems,AEHR.NAS,US00760J1088
+Aemetis Inc,AMTX.NAS,US00770K2024
+Aenza SAA,AENZ.NYSE,US00776D1037
+Affimed N.V.,AFMD.NAS,NL0010872420
+Afya Ltd,AFYA.NAS,KYG011251066
+Agnico Eagle Mines Ltd (US),AEM.NYSE,CA0084741085
+Allbirds Inc.,BIRD.NAS,US01675A1097
+Alpha Metallurgi,AMR.NYSE,US0207641061
+Alphatec Holdings Inc,ATEC.NAS,US02081G2012
+Alpine Immune Sciences Inc,ALPN.NAS,US02083G1004
+Alpine Income Property Trust Inc,PINE.NYSE,US02083X1037
+Alta Equipment Group Inc,ALTG.NYSE,US02128L1061
+Astec Industries Inc,ASTE.NAS,US0462241011
+AstraZeneca (US),AZN.NAS,US0463531089
+Axcelis Technologies Inc,ACLS.NAS,US0545402085
+Axis Capital Holdings Ltd,AXS.NYSE,BMG0692U1099
+Axon Enterprise Inc,AXON.NAS,US05464C1018
+"Blue Apron Holdings, Inc.",APRN.NYSE,US09523Q2003
+Build-A-Bear Workshop Inc,BBW.NYSE,US1200761047
+CNH Industrial (US),CNHI.NYSE,NL0010545661
+Calamos Convertible Opportunities and Income Fund,CHI.NAS,US1281171082
+California Water Service Group,CWT.NYSE,US1307881029
+Colony Bankcorp Inc,CBAN.NAS,US19623P1012
+Columbia Seligman Premium Technology Growth Fund Inc,STK.NYSE,US19842X1090
+Community Bank System Inc,CBU.NYSE,US2036071064
+Concert Pharmaceuticals Inc,CNCE.NAS,US2060221056
+ContraFect Corp,CFRX.NAS,US2123263004
+CrossAmerica Partners LP,CAPL.NYSE,US22758A1051
+Curtiss-Wright Corp,CW.NYSE,US2315611010
+Cytek Biosciences Inc,CTKB.NAS,US23285D1090
+First Horizon,FHN.NYSE,US3205171057
+GameStop,GME.NYSE,US36467W1099
+Gemini Therapeutics Inc,GMTX.NAS,US36870G1058
+Genco Shipping & Trading Ltd,GNK.NYSE,MHY2685T1313
+German American Bancorp Inc,GABC.NAS,US3738651047
+GlaxoSmithKline (US),GSK.NYSE,US37733W1053
+Grab Holdings Limited,GRAB.NAS,KYG4124C1096
+Grindrod Shipping Holdings Ltd,GRIN.NAS,SG9999019087
+Groupon,GRPN.NAS,US3994732069
+GrowGeneration Corp,GRWG.NAS,US39986L1098
+Kenon Holdings Ltd,KEN.NYSE,SG9999012629
+LSB Industries Inc,LXU.NYSE,US5021601043
+Lufax Holding Ltd,LU.NYSE,US54975P1021
+Monday.com Ltd,MNDY.NAS,IL0011762130
+Permian Basin Royalty Trust,PBT.NYSE,US7142361069
+Renren Inc,RENN.NYSE,US7598923008
+Rivian Automotive Inc.,RIVN.NAS,US76954A1034
+Roblox Corporation,RBLX.NYSE,US7710491033
+Rocket Lab USA Inc,RKLB.NAS,US7731221062
+"Rocket Pharmaceuticals, Inc.",RCKT.NAS,US77313F1066
+Rover Group Inc,ROVR.NAS,US77936F1030
+Royal Bank of Canada (US),RY.NYSE,CA7800871021
+Safe Bulkers Inc,SB.NYSE,MHY7388L1039
+Saga Communications Inc,SGA.NAS,US7865983008
+Sapiens International Corp,SPNS.NAS,KYG7T16G1039
+Saratoga Investment Corp,SAR.NYSE,US80349A2087
+Silk Road Medical Inc,SILK.NAS,US82710M1009
+SilverBow Resources Inc,SBOW.NYSE,US82836G1022
+Silverback Therapeutics Inc,SBTX.NAS,US82835W1080
+SoFi Technologies,SOFI.NAS,US83406F1021
+SunOpta Inc (US),STKL.NAS,CA8676EP1086
+TD Holdings Inc,GLG.NAS,US87250W1036
+TFS Financial Corp,TFSL.NAS,US87240R1077
+Timberland Bancorp Inc,TSBK.NAS,US8870981011
+Timken Co,TKR.NYSE,US8873891043
+TimkenSteel Corp,TMST.NYSE,US8873991033
+Upstart Holdings Inc,UPST.NAS,US91680M1071
+UroGen Pharma Ltd.,URGN.NAS,IL0011407140
+Usio Inc,USIO.NAS,US9173131080
+Veeco Instruments Inc,VECO.NAS,US9224171002
+Vermilion Energy Inc (US),VET.NYSE,CA9237251058
+Victoria's Secret & Co,VSCO.NYSE,US9264001028
+Viper Energy Partners LP,VNOM.NAS,US92763M1053
+Werner Enterprises Inc,WERN.NAS,US9507551086
+Solana vs US Dollar,SOLUSD,
+Avalanche vs US Dollar,AVXUSD,
+Kusama vs US Dollar,KSMUSD,
+Luna vs US Dollar,LUNUSD,
+Moonbeam vs US Dollar,GLMUSD,
+Polygon Matic vs US Dollar,MTCUSD,
+Abeona Therapeutics Inc.,ABEO.NAS,US00289Y1073
+Aberdeen Asia-Pacific Income Fund Inc,FAX.NYSE,US0030091070
+Aberdeen Global Premier Properties Fund,AWP.NYSE,US00302L1089
+Aberdeen Income Credit Strategies Fund,ACP.NYSE,US0030571063
+Aberdeen Total Dynamic Dividend Fund,AOD.NYSE,US00326L1008
+Aihuishou International,RERE.NYSE,US00138L1089
+Aikido Pharma Inc,AIKI.NAS,US0088751062
+Aileron Therapeutics Inc,ALRN.NAS,US00887A1051
+Air Lease Corp,AL.NYSE,US00912X3026
+Air Transport Services Group Inc,ATSG.NAS,US00922R1059
+AirSculpt Technologies Inc.,AIRS.NAS,US0094961002
+Airgain Inc,AIRG.NAS,US00938A1043
+Airnet Technology Inc,ANTE.NAS,US00941Q1040
+Airspan Networks Holdings Inc,MIMO.NYSE,US00951K1043
+Akari Therapeutics PLC,AKTX.NAS,US00972G1085
+Akerna Corp,KERN.NAS,US00973W1027
+Akero Therapeutics Inc,AKRO.NAS,US00973Y1082
+Akouos Inc,AKUS.NAS,US00973J1016
+Akoustis Technologies Inc,AKTS.NAS,US00973N1028
+"Akoya Biosciences, Inc.",AKYA.NAS,US00974H1041
+Akso Health Group,AHG.NAS,US98422P1084
+Alamo Group Inc,ALG.NYSE,US0113111076
+Alamos Gold Inc (US),AGI.NYSE,CA0115321089
+Albertsons Companies Inc - Class A,ACI.NYSE,US0130911037
+"Albireo Pharma, Inc",ALBO.NAS,US01345P1066
+Alcon Inc (US),ALC.NYSE,CH0432492467
+Alector Inc,ALEC.NAS,US0144421072
+Alerus Financial Corp,ALRS.NAS,US01446U1034
+Alexander & Baldwin Inc,ALEX.NYSE,US0144911049
+Amdocs Ltd,DOX.NAS,GB0022569080
+American Vanguard Corp,AVD.NYSE,US0303711081
+Axos Financial Inc,AX.NYSE,US05465C1009
+Berkshire Grey Inc,BGRY.NAS,US0846561076
+Berkshire Hills Bancorp Inc,BHLB.NYSE,US0846801076
+BuzzFeed Inc,BZFD.NAS,US12430A1025
+CS Disco Inc.,LAW.NYSE,US1263271058
+Calix Inc,CALX.NYSE,US13100M5094
+Casella Waste Systems Inc,CWST.NAS,US1474481041
+Cass Information Systems Inc,CASS.NAS,US14808P1093
+Cassava Sciences Inc,SAVA.NAS,US14817C1071
+Castle Biosciences Inc,CSTL.NAS,US14843C1053
+Castor Maritime Inc,CTRM.NAS,MHY1146L1258
+Cathay General Bancorp,CATY.NAS,US1491501045
+Cato Corp/The,CATO.NYSE,US1492051065
+Cavco Industries Inc,CVCO.NAS,US1495681074
+Cazoo Group Ltd,CZOO.NYSE,KYG2007L1059
+Ceco Environmental Corp,CECE.NAS,US1251411013
+Cedar Fair LP,FUN.NYSE,US1501851067
+Cedar Realty Trust Inc,CDR.NYSE,US1506026053
+Celcuity Inc,CELC.NAS,US15102K1007
+Celestica Inc (US),CLS.NYSE,CA15101Q1081
+Cellebrite DI Ltd,CLBT.NAS,IL0011794802
+Cellectar Biosciences Inc,CLRB.NAS,US15117F5008
+Celsion Corp,CLSN.NAS,US15117N5032
+Celsius Holdings Inc,CELH.NAS,US15118V2079
+Celularity Inc,CELU.NAS,US1511901050
+Cementos Pacasmayo SAA,CPAC.NYSE,US15126Q2084
+Cenntro Electric Group Ltd,CENN.NAS,AU0000198582
+Cenovus Energy Inc (US),CVE.NYSE,CA15135U1093
+Centerspace,CSR.NYSE,US15202L1070
+Coinbase Global Inc,COIN.NAS,US19260Q1076
+"Coursera, Inc.",COUR.NYSE,US22266M1045
+Corsair Gaming Inc,CRSR.NAS,US22041X1028
+Credit Suisse Group AG,CS.NYSE,US2254011081
+Dave Inc,DAVE.NAS,US23834J1025
+Day One Biopharmaceuticals Inc,DAWN.NAS,US23954D1090
+Ekso Bionics Holdings Inc,EKSO.NAS,US2826443010
+Emerald Holding Inc,EEX.NYSE,US29103W1045
+Engine Gaming and Media Inc,GAME.NAS,CA29287W1023
+Esports Entertainment Group Inc,GMBL.NAS,US29667K3068
+Evotec SE,EVO.NAS,US30050E1055
+Ex Scientia Limited,EXAI.NAS,US30223G1022
+Exagen Inc,XGN.NAS,US30068X1037
+Executive Network Partnering Corp,ENPC.NYSE,US30158L1008
+Exicure Inc,XCUR.NAS,US30205M1018
+ExlService Holdings Inc,EXLS.NAS,US3020811044
+Expensify Inc,EXFY.NAS,US30219Q1067
+Exponent Inc,EXPO.NAS,US30214U1025
+Express Inc,EXPR.NYSE,US30219E1038
+Expro Group Holdings NV,XPRO.NYSE,NL0010556684
+Ferrari NV (US),RACE.NYSE,NL0011585146
+GMS Inc,GMS.NYSE,US36251C1036
+GSI Technology Inc,GSIT.NAS,US36241U1060
+Gladstone Land Corp,LAND.NAS,US3765491010
+Guess? Inc,GES.NYSE,US4016171054
+ICF International Inc,ICFI.NAS,US44925C1036
+IHS Holding Limited,IHS.NYSE,KYG4701H1092
+IG Acquisition Corp,IGAC.NAS,US4495341061
+IGM Biosciences Inc,IGMS.NAS,US4495851085
+Lions Gate Entertainment Corp,LGFa.NYSE,CA5359194019
+Lottery.com,LTRY.NAS,US54570M1080
+McAfee Corp,MCFE.NAS,US5790631080
+Shell PLC (US),SHEL.NYSE,US7802593050
+Shenandoah Telecommunications Co,SHEN.NAS,US82312B1061
+Shift4 Payments Inc,FOUR.NYSE,US82452J1097
+Shinhan Financial Group Co Ltd,SHG.NYSE,US8245961003
+Shoals Technologies Group Inc,SHLS.NAS,US82489W1071
+Shoe Carnival Inc,SCVL.NAS,US8248891090
+Shore Bancshares Inc,SHBI.NAS,US8251071051
+Shutterstock Inc,SSTK.NYSE,US8256901005
+Shyft Group Inc,SHYF.NAS,US8256981031
+SiTime Corp,SITM.NAS,US82982T1060
+Sierra Bancorp,BSRR.NAS,US82620P1021
+Sierra Lake Acquisition Corp,SIER.NAS,US8263321080
+Sierra Wireless Inc (US),SWIR.NAS,CA8265161064
+Sify Technologies Ltd,SIFY.NAS,US82655M1071
+Sight Sciences Inc.,SGHT.NAS,US82657M1053
+"Sigilon Therapeutics, Inc.",SGTX.NAS,US82657L1070
+Signa Sports United NV,SSU.NYSE,NL0015000LX8
+Signet Jewelers Ltd,SIG.NYSE,BMG812761002
+Signify Health Inc,SGFY.NYSE,US82671G1004
+Silicom Ltd,SILC.NAS,IL0010826928
+Silicon Motion Technology Corp,SIMO.NAS,US82706C1080
+Silvercrest Asset Management Group Inc,SAMG.NAS,US8283591092
+Silvergate Capital Corporation,SI.NYSE,US82837P4081
+SimilarWeb LTD,SMWB.NYSE,IL0011751653
+Simmons First National Corp,SFNC.NAS,US8287302009
+Stagwell Inc,STGW.NAS,US85256A1097
+Standard Lithium Ltd,SLI.NYSE,CA8536061010
+Standard Motor Products Inc,SMP.NYSE,US8536661056
+Standex International Corp,SXI.NYSE,US8542311076
+Stantec Inc (US),STN.NYSE,CA85472N1096
+Star Bulk Carriers Corp,SBLK.NAS,MHY8162K2046
+Star Gas Partners LP,SGU.NYSE,US85512C1053
+State Auto Financial Corp,STFC.NAS,US8557071052
+Stealth BioTherapeutics Corp,MITO.NAS,US85789A1051
+StealthGas Inc,GASS.NAS,MHY816691064
+Steel Connect Inc,STCN.NAS,US8580981061
+Stellantis NV (US),STLA.NYSE,NL00150001Q9
+Stem Inc,STEM.NYSE,US85859N1028
+StepStone Group Inc,STEP.NAS,US85914M1071
+Stepan Co,SCL.NYSE,US8585861003
+Stereotaxis Inc,STXS.NYSE,US85916J4094
+Sterling Bancorp Inc,SBT.NAS,US85917W1027
+Sterling Check Corp.,STER.NAS,US85917T1097
+Sterling Construction Company Inc,STRL.NAS,US8592411016
+Stevanato Group SPA,STVN.NYSE,IT0005452658
+Thermon Group Holdings Inc,THR.NYSE,US88362T1034
+Thomson Reuters Corp (US),TRI.NYSE,CA8849037095
+Thoughtworks Holding Inc.,TWKS.NAS,US88546E1055
+ThredUp Inc.,TDUP.NAS,US88556E1029
+Thryv Holdings Inc,THRY.NAS,US8860292064
+Tidewater Inc,TDW.NYSE,US88642R1095
+Tiga Acquisition Corp,TINV.NYSE,KYG886721037
+Tilly's Inc,TLYS.NYSE,US8868851028
+Unilever (US),UL.NYSE,US9047677045
+Vincerx Pharma Inc,VINC.NAS,US92731L1061
+Vinci Partners Investments Ltd,VINP.NAS,KYG9451V1095
+Vinco Ventures Inc,BBIG.NAS,US9273301005
+Viomi Technology Co Ltd,VIOT.NAS,US92762J1034
+"eSports Technologies, Inc.",EBET.NAS,US29667L1061
+ARK Innovation ETF,ARKK.NYSE,US00214Q1040
+ARK Fintech Innovation ETF,ARKF.NYSE,US00214Q7088
+iShares Gold Trust (US),IAU.NYSE,US4642852044
+Health Care Select Sector SPDR Fund,XLV.NYSE,US81369Y2090
+Technology Select Sector SPDR Fund,XLK.NYSE,US81369Y8030
+Consumer Discretionary Select Sector SPDR Fund,XLY.NYSE,US81369Y4070
+Bread Financial Holdings Inc.,BFH.NYSE,US0185811082
+Eros Media World PLC,EMWP.NYSE,IM00BMT7S123
+Garmin Ltd.,GRMN.NYSE,

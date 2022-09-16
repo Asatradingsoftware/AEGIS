@@ -1,0 +1,101 @@
+Ticker,Mean,purchasePrice,category,name
+TRNO.NYSE,4.123080311885241e-05,60.945,Residential & Commercial REIT,Terreno Realty Corp
+NTAP.NAS,2.622318758102593e-05,71.91,"Computers, Phones & Household Electronics",NetApp
+ADT.NYSE,2.2354652046974177e-05,7.228,Communications & Networking,ADT Inc.
+MPLX.NYSE,1.9848337258543403e-05,32.346,Oil & Gas Midstream,MPLX LP Common Units Representing Limited Partner Interests
+NERV.NAS,0.7257161572816346,10.135,Biotechnology & Medical Research,Minerva Neurosciences Inc
+DAWN.NAS,0.5545285350555056,23.795,Biotechnology & Medical Research,Day One Biopharmaceuticals Inc
+ALT.NAS,0.5499945244250928,21.705,Biotechnology,Altimmune Inc
+AXSM.NAS,0.29155886346442395,62.575,Biotechnology & Medical Research,Axsome Therapeutics Inc
+CLVS.NAS,0.28332127336665813,1.158,Biotechnology & Medical Research,Clovis Oncology Inc
+ONEM.NAS,0.27935356058856736,17.325,Healthcare Providers & Services,1Life Healthcare Inc
+SRG.NYSE,0.2535801686933077,12.68,Residential & Commercial REIT,Seritage Growth Properties
+ALDX.NAS,0.23639458442840125,7.115,Biotechnology & Medical Research,Aldeyra Therapeutics Inc
+MRTX.NAS,0.23215680279610912,81.782,Biotechnology & Medical Research,Mirati Therapeutics Inc. Common Stock
+SGFY.NYSE,0.23084764012623926,28.281,Healthcare Providers & Services,Signify Health Inc
+EDU.NYSE,0.22242964809584487,27.587,Miscellaneous Educational Service Providers,New Oriental Education & Techn
+BLUE.NAS,0.2203419456038626,6.535,Biotechnology & Medical Research,Bluebird Bio Inc
+APRN.NYSE,0.21134367305606447,5.038,Food & Tobacco,"Blue Apron Holdings, Inc."
+SELB.NAS,0.21120720587898778,1.838,Biotechnology & Medical Research,"Selecta Biosciences, Inc"
+RGS.NYSE,0.21110908526553984,1.369,Personal & Household Products & Services,Regis Corp
+MARA.NAS,0.20968249000955128,11.469,Financial Technology (Fintech) & Infrastructure,Marathon Digital Holdings Inc
+ALVR.NAS,0.20931242541793063,7.497,Biotechnology & Medical Research,Allovir Inc
+GOSS.NAS,0.19643037857539214,14.545,Biotechnology & Medical Research,Gossamer Bio Inc
+CPRX.NAS,0.1911549483511588,13.887,Pharmaceuticals,Catalyst Pharmaceutical Partners Inc
+GERN.NAS,0.18644315861773908,2.658,Biotechnology & Medical Research,Geron Corp
+STEM.NYSE,0.17600283851948692,14.339,"Machinery, Equipment & Components",Stem Inc
+FSLR.NAS,0.1753874136393179,127.25,Renewable Energy,First Solar Inc. Common Stock
+CBAY.NAS,0.1741029417864602,3.55,Biotechnology & Medical Research,CymaBay Therapeutics Inc
+PGEN.NAS,0.1727165552227775,2.286,Pharmaceuticals,Pregicen Inc
+WTRH.NAS,0.17140233061285695,0.232,Software & IT Services,Waitr Holdings Inc.
+IFRX.NAS,0.16776379042794143,2.26,Biotechnology & Medical Research,Inflarx NV
+COMM.NAS,0.1665052081114457,11.985,Oil & Gas Midstream,CommScope Holding Co Inc
+SWAV.NAS,0.1631671435444303,295.92,Healthcare Equipment & Supplies,Shockwave Medical Inc.
+BLFS.NAS,0.15420704807677957,23.58,Healthcare Equipment & Supplies,Biolife Solutions Inc
+TUP.NYSE,0.15282482342420145,11.404,Household Goods,Tupperware Brands Corp
+MCRB.NAS,0.14988829699066103,5.195,Biotechnology & Medical Research,Seres Therapeutics Inc
+CALX.NYSE,0.14915169290220215,57.55,Communications & Networking,Calix Inc
+OCUL.NAS,0.14539815420446367,5.265,Pharmaceuticals,Ocular Therapeutix Inc
+ALNY.NAS,0.14449113174558748,210.48,Biotechnology & Medical Research,Alnylam Pharmaceuticals Inc. Common Stock
+PRTY.NYSE,0.13959181575988724,2.134,Specialty Retailers,Party City Holdco Inc
+VHC.NYSE,0.1360136313428031,1.9180000000000001,Software & IT Services,VirnetX Holding Corp
+SPPI.NAS,0.13244643583826404,1.17,Biotechnology & Medical Research,Spectrum Pharmaceuticals Inc
+ADGI.NAS,0.13140391903081527,4.594,Biotechnology & Medical Research,Adagio Therapeutics Inc.
+OSH.NYSE,0.13012976264512965,25.855,Healthcare Providers & Services,Oak Street Health Inc. Common Stock
+VXX.NYSE,0.12723573539572974,0.0,Banking Services,iPath S&P 500 VIX ST Futures ETN CFD
+RVNC.NAS,0.12614414855760098,21.015,Biotechnology & Medical Research,Revance Therapeutics Inc
+AGEN.NAS,0.12589430748788313,2.725,Biotechnology & Medical Research,Agenus Inc
+PDD.NAS,0.12314385594703414,71.196,Software & IT Services,Pinduoduo Inc.
+QURE.NAS,0.1218713539683198,20.59,Biotechnology & Medical Research,uniQure B.V.
+ENPH.NAS,0.12152282287165236,279.975,Renewable Energy,Enphase Energy
+LXRX.NAS,0.12041176036358406,2.7476000000000003,Biotechnology & Medical Research,Lexicon Pharmaceuticals Inc
+FOLD.NAS,0.11890582105817726,11.463,Biotechnology & Medical Research,Amicus Therapeutics Inc
+RFP.NYSE,0.11658630356324318,20.221,Paper & Forest Products,Resolute Forest Products
+URGN.NAS,0.11658435475765092,7.605,Biotechnology & Medical Research,UroGen Pharma Ltd.
+SGMO.NAS,0.11415323668685606,5.55,Biotechnology & Medical Research,Sangamo Biosciences Inc
+BCRX.NAS,0.11373277907112989,14.011,Biotechnology & Medical Research,BioCryst Pharmaceuticals Inc
+IMGN.NAS,0.11342995534902187,5.47,Biotechnology & Medical Research,ImmunoGen Inc
+SRPT.NAS,0.11096967745900638,109.965,Biotechnology & Medical Research,Sarepta Therapeutics Inc
+BBIO.NAS,0.10836720138527955,10.151,Pharmaceuticals,BridgeBio Pharma
+PLUG.NAS,0.10617514199410913,26.809,Renewable Energy,Plug Power Inc. Common Stock
+CELH.NAS,0.1051380966548204,99.115,Beverages,Celsius Holdings Inc
+VKTX.NAS,0.10420929820710204,3.212,Biotechnology & Medical Research,"Viking Therapeutics, Inc."
+BNGO.NAS,0.10408046328158738,2.44,Healthcare Equipment & Supplies,Bionano Genomics Inc
+SNDX.NAS,0.10238823175497003,24.659,Biotechnology & Medical Research,Syndax Pharmaceuticals Inc
+BBBY.NAS,0.10154607505952976,8.679,Specialty Retailers,Bed Bath & Beyond
+AKRO.NAS,0.1014139744088347,12.68,Biotechnology & Medical Research,Akero Therapeutics Inc
+SBTX.NAS,0.10096930533948623,5.144,Biotechnology & Medical Research,Silverback Therapeutics Inc
+MXL.NYSE,0.0994973271068551,0.0,Semiconductors & Semiconductor Equipment,MaxLinear Inc
+CELC.NAS,0.09727911377731746,9.856,Biotechnology & Medical Research,Celcuity Inc
+ELF.NYSE,0.0972507707707222,38.305,Specialty Retailers,e.l.f. Beauty Inc
+CHRS.NAS,0.0968579385955913,10.974,Biotechnology & Medical Research,Coherus Biosciences Inc
+AIV.NYSE,0.09390276409942222,8.734,Residential & Commercial REIT,Apartment Investment & Management
+XSPA.NAS,0.09129412555320726,1.07,Personal & Household Products & Services,XpresSpa Group Inc
+CSIQ.NAS,0.09082528416316302,44.725,Renewable Energy,Canadian Solar Inc
+BPMC.NAS,0.09061260478907651,73.495,Biotechnology & Medical Research,Blueprint Medicines Corp
+BE.NYSE,0.08923515202205484,24.59,Electrical Equipment & Parts,Bloom Energy Corp
+SWIR.NAS,0.08855983390301031,30.684,Communications & Networking,Sierra Wireless Inc (US)
+CHWY.NYSE,0.0871399729021276,34.009,Specialty Retailers,"Chewy, Inc."
+PBYI.NAS,0.08659929130003863,2.61,Biotechnology & Medical Research,Puma Biotechnology Inc
+ETSY.NAS,0.0854922385232039,105.83,Diversified Retail,Etsy
+NTNX.NAS,0.08546811150572883,22.26,Software & IT Services,Nutanix Inc
+CROX.NAS,0.08475500757740528,72.905,Textiles & Apparel,Crocs
+MRNS.NAS,0.08401827428919098,6.449,Pharmaceuticals,Marinus Pharmaceuticals Inc.
+ADAP.NAS,0.0836477734533429,1.915,Biotechnology & Medical Research,Adaptimmune Therapeutics PLC
+ACRX.NAS,0.08359125121723929,0.277,Biotechnology & Medical Research,AcelRx Pharmaceuticals Inc
+CYTK.NAS,0.08279487709278105,53.91,Biotechnology & Medical Research,Cytokinetics Inc
+SNOW.NYSE,0.08183555852980878,172.105,Software & IT Services,Snowflake Inc. Class A Common Stock
+PCTY.NAS,0.0818222989988697,235.93,Software & IT Services,Paylocity Holding Corporation Common Stock
+DKS.NYSE,0.08126280660971283,108.635,Specialty Retailers,Dick's Sporting Goods Inc
+MVIS.NAS,0.08055684085839082,4.728,Electronic Equipment & Parts,MicroVision Inc
+LTRPA.NAS,0.0803414615628964,1.145,Software & IT Services,Liberty TripAdvisor Holdings Inc
+TAL.NYSE,0.08027508940212866,5.743,Miscellaneous Educational Service Providers,TAL Education Group
+SPWR.NAS,0.07929783194810958,23.087,Renewable Energy,SunPower Corporation Common Stock
+PRTK.NAS,0.078185172021152,2.521,Pharmaceuticals,Paratek Pharmaceuticals Inc
+ESTC.NYSE,0.07759564294920007,81.395,Software & IT Services,Elastic N.V. Ordinary Shares
+NTRA.NAS,0.07699825433978164,48.823,Healthcare Equipment & Supplies,Natera Inc. Common Stock
+IRBT.NAS,0.0766668751829443,58.91,Electronic Equipment & Parts,iRobot Corp
+EDIT.NAS,0.0760912447607679,15.33,Biotechnology & Medical Research,Editas Medicine Inc.
+TPIC.NAS,0.07496043887375176,17.855,Renewable Energy,TPI Composites Inc
+AKUS.NAS,0.07460394765434808,3.265,Biotechnology & Medical Research,Akouos Inc
+TEAM.NAS,0.07422424757869353,234.705,Software & IT Services,Atlassian
