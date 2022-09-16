@@ -71,17 +71,21 @@ with tab2:
 with tab3:
     st.subheader("Portfolio")  
     
-    New_porfolio = pd.DataFrame(pd.read_csv('All30Stocks.csv'))
-
-    New_porfolio["NumberStocks"] = 1/30
-
-    fig = px.pie(New_porfolio, values='NumberStocks', names='0', title='AEGIS TL Quant Macro Alpha')
-    st.write(fig)  
+    col1, col2 = st.columns(2)
     
-    df = pd.DataFrame(pd.read_csv('CatAll30Stocks.csv'))
+    with col1:
+        New_porfolio = pd.DataFrame(pd.read_csv('All30Stocks.csv'))
 
-    fig = px.pie(df, values='Frequency', names='cat', title='AEGIS TL Quant Macro Alpha')
-    st.write(fig)    
+        New_porfolio["NumberStocks"] = 1/30
+
+        fig = px.pie(New_porfolio, values='NumberStocks', names='0', title='AEGIS TL Quant Macro Alpha')
+        st.write(fig)  
+    
+    with col2:
+        df = pd.DataFrame(pd.read_csv('CatAll30Stocks.csv'))
+
+        fig = px.pie(df, values='Frequency', names='cat', title='AEGIS TL Quant Macro Alpha')
+        st.write(fig)    
     
 with tab4:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")      
