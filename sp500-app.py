@@ -74,7 +74,7 @@ with tab2:
     col1.metric("Sharpe Ratio", round(btstats['Sharpe ratio'][0],2), str(round(btstats['Sharpe ratio'][1],2)) + " (S&P 500) ")
     col2.metric("Sortino Ratio", round(btstats['Sortino ratio'][0],2), str(round(btstats['Sortino ratio'][1],2)) + " (S&P 500) ")
     col3.metric("Calmar Ratio", round(btstats['Calmar ratio'][0],2), str(round(btstats['Calmar ratio'][1],2)) + " (S&P 500) ")         
-    col4.metric("Max Drawdown", round(btstats['Max Drawdown'][0]*100,1) + "%", str(round(btstats['Max Drawdown'][1]*100,1)) + "% (S&P 500) ") 
+    col4.metric("Max Drawdown", round(btstats['Max Drawdown'][0]*100,1), str(round(btstats['Max Drawdown'][1]*100,1)) + "% (S&P 500) ") 
     
     df = pd.DataFrame(pd.read_csv('datachart.csv'))
 
