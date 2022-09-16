@@ -68,6 +68,13 @@ with tab1:
 with tab2:
     st.subheader("Performance AEGIS vs benchmark S&P 500")  
     
+    btstats = pd.DataFrame(pd.read_csv('KeyFigures.csv'))
+
+    col1, col2, col3 =  st.columns(3)
+    col1.metric("Sharpe Ratio", round(btstats['Sharpe ratio'][0],2), str(round(btstats['Sharpe ratio'][1],2)) + " (S&P 500) ")
+    col2.metric("Sortino Ratio", round(btstats['Sortino ratio'][0],2), str(round(btstats['Sortino ratio'][1],2)) + " (S&P 500) ")
+    col3.metric("Calmar Ratio", round(btstats['Calmar ratio'][0],2), str(round(btstats['Calmar ratio'][1],2)) + " (S&P 500) ")         
+    
     df = pd.DataFrame(pd.read_csv('datachart.csv'))
 
     df1 = pd.DataFrame(df)
