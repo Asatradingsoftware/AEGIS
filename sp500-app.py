@@ -78,6 +78,11 @@ with tab3:
     fig = px.pie(New_porfolio, values='NumberStocks', names='0', title='AEGIS TL Quant Macro Alpha')
     st.write(fig)  
     
+    df = pd.DataFrame(pd.read_csv('CatAll30Stocks.csv'))
+
+    fig = px.pie(df, values='Frequency', names='cat', title='AEGIS TL Quant Macro Alpha')
+    st.write(fig)    
+    
 with tab4:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")      
     
