@@ -66,7 +66,19 @@ with tab1:
     
     
 with tab2:
-    st.subheader("Results for AEGIS TL Quant Macro Alpha")  
+    st.subheader("Performance AEGIS vs benchmark S&P 500")  
+    
+    df = pd.DataFrame(pd.read_csv('datachart.csv'))
+
+    df1 = pd.DataFrame(df)
+    fig = px.line(df1, title='AEGIS TL Quant Macro Alpha vs S&P 500')
+
+    fig['data'][0]['line']['color']='#48bc95'
+    fig['data'][0]['line']['width']=2
+    fig['data'][1]['line']['color']='#02314b'
+    fig['data'][1]['line']['width']=2    
+    
+    st.write(fig)
     
 with tab3:
     st.subheader("30 stocks equally weighted")  
