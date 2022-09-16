@@ -6,3 +6,4 @@ numpy
 yfinance
 lxml
 st-annotated-text
+plotly-express
