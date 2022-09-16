@@ -120,7 +120,7 @@ with tab4:
 
         st.write(fig)   
         
-   with col2:
+    with col2:
         df = pd.DataFrame(pd.read_csv('DrawDownSPX.csv'))
 
         df1 = pd.DataFrame(df)
