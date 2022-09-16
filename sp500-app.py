@@ -144,6 +144,10 @@ with tab4:
 with tab5:
     st.subheader("Probability & Correlation")     
     
+    df = pd.DataFrame(pd.read_csv('Sumorize.csv'))
+    
+    st.write(df)
+    
     col1, col2 = st.columns(2)
     
     with col1:
