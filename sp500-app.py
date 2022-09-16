@@ -55,7 +55,7 @@ with tab1:
     )    
     st.write("")     
     annotated_text(
-        ("How many stocks", ":", "#02314b"),
+        ("How many stocks", ":", "#0076b6"),
         " 30 stocks ",
     )   
     st.write("")    
