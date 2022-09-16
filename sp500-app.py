@@ -74,8 +74,8 @@ with tab3:
 
     New_porfolio["NumberStocks"] = 1/30
 
-    fig = px.pie(New_porfolio, values='NumberStocks', names='0', title='AEGIS TL Quant Macro Alpha')
-    st.write(fig)    
+    
+    st.write(New_porfolio)    
     
 with tab4:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")      
