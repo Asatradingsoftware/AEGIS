@@ -105,17 +105,33 @@ with tab3:
 with tab4:
     st.subheader("Drawdown analysis")      
     
-    df = pd.DataFrame(pd.read_csv('DrawDownAEGIS.csv'))
-
-    df1 = pd.DataFrame(df)
-    fig = px.line(df1, title='AEGIS TL Quant Macro Alpha')
-
-    fig['data'][0]['line']['color']='#48bc95'
-    fig['data'][0]['line']['width']=2
-    fig['data'][1]['line']['color']='#e6535d'
-    fig['data'][1]['line']['width']=2    
+    col1, col2 = st.columns(2)
     
-    st.write(fig)    
+    with col1:
+        df = pd.DataFrame(pd.read_csv('DrawDownAEGIS.csv'))
+
+        df1 = pd.DataFrame(df)
+        fig = px.line(df1, title='AEGIS TL Quant Macro Alpha')
+
+        fig['data'][0]['line']['color']='#48bc95'
+        fig['data'][0]['line']['width']=2
+        fig['data'][1]['line']['color']='#e6535d'
+        fig['data'][1]['line']['width']=2    
+
+        st.write(fig)   
+        
+   with col2:
+        df = pd.DataFrame(pd.read_csv('DrawDownSPX.csv'))
+
+        df1 = pd.DataFrame(df)
+        fig = px.line(df1, title='S&P 500')
+
+        fig['data'][0]['line']['color']='#8097a5'
+        fig['data'][0]['line']['width']=2
+        fig['data'][1]['line']['color']='#e6535d'
+        fig['data'][1]['line']['width']=2    
+
+        st.write(fig)     
     
 with tab5:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")        
