@@ -143,6 +143,10 @@ with tab4:
     
 with tab5:
     st.subheader("Probability & Correlation")     
+    st.write("The only mathematically correct way to validate a given result is using the binomial probability distribution")
+    st.write("")
+    st.write("")
+    st.write("The period needed to validate the validity of a result has nothing to do with the length of the track period, but how consistently we outperforms in the chosen time interval.")
     
     df = pd.DataFrame(pd.read_csv('Sumorize.csv'))
     
@@ -163,6 +167,10 @@ with tab5:
     with col2:
         df = pd.DataFrame(pd.read_csv('ProbabilityAEGISmonth.csv'))
 
+        fig = px.line(df, title="Probability: 98.07% - Won 10 out of 12 month")
 
-        st.write(df)       
+        fig['data'][0]['line']['color']='#48bc95'
+        fig['data'][0]['line']['width']=5            
+
+        st.write(fig)       
     
