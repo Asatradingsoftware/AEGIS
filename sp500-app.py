@@ -21,6 +21,8 @@ st.set_page_config(
 
 st.title('AEGIS TL Quant Macro Alpha - Volatility Research project. ')
 
+st.sidebar.write("AEGIS TL is a mathematically based algorithm that can rank future volatility. TL stands for Top List. There is a 100% correlation between volatility and returns, which can be proven mathematically. Since AEGIS can rank volatility, you can control 100% the desired volatility in your portfolio compared to the market. In this way, you can put together everything from a more cautious pension portfolio over to a strong alpha portfolio.")
+
 st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wide.png", width=250)
 
 st.sidebar.title("AEGIS TL RESEARCH")
@@ -34,7 +36,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Key Figures", "Portfolio", 
 
 with tab1:
     st.subheader("Overview")
-    st.write("AEGIS is a 8 years research project. The main goal it to find new a better ways to protect a portfolio, than the traditional low gain volatility portfolio. A part of the research is also to come up with better models for measure results. So we can separate what is randomly and skills, and this can leads to better optimization and results.
+    st.write("AEGIS is a 8 years research project. The main goal it to find new a better ways to protect a portfolio, than the traditional low gain volatility portfolio. A part of the research is also to come up with better models for measure results. So we can separate what is randomly and skills, and this can leads to better optimization and results.")
     
     annotated_text(
         ("AEGIS objective", ":", "#48bc95"),
