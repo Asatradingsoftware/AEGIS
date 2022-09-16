@@ -40,6 +40,8 @@ with tab1:
     st.write("")
     st.write("A traditionel portfolio is traditional not protected for market crash and tale risk like black swan. We find it more and more important to take this into account, according to a general global macro economy outlook.")
     st.write("")
+    st.write("All results at this website is daily updated, based on results running on real accounts. For futher information and deep insight in the research results please write to: anders.hasle@icloud.com")
+    st.write("")
     st.write("")
     
     annotated_text(
