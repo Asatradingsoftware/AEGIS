@@ -31,7 +31,7 @@ with st.sidebar:
     components.html("""<hr style="height:5px;border:none;color:#48bc95;background-color:#48bc95;" /> """)
 
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Results", "Portfolio", "Drawdown", "Probability & Correlation"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Key Figures", "Portfolio", "Drawdown", "Probability & Correlation"])
 
 with tab1:
     st.subheader("Overview")
@@ -112,6 +112,7 @@ with tab3:
     
 with tab4:
     st.subheader("Drawdown analysis")      
+    st.write("Based on a 60 days rolling average.")
     
     col1, col2 = st.columns(2)
     
