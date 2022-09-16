@@ -152,8 +152,13 @@ with tab5:
     
     with col1:
         df = pd.DataFrame(pd.read_csv('ProbabilityAEGISdays.csv'))
+        
+        fig = px.line(df, title="Probability: 94.9% - Won 111 out of 198 days")
 
-        st.write(df)   
+        fig['data'][0]['line']['color']='#48bc95'
+        fig['data'][0]['line']['width']=5        
+
+        st.write(fig)   
         
     with col2:
         df = pd.DataFrame(pd.read_csv('ProbabilityAEGISmonth.csv'))
