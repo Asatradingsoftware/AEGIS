@@ -26,7 +26,7 @@ st.sidebar.image("https://aegisportfolio.com/wp-content/uploads/2022/09/logo-wid
 
 st.sidebar.title("AEGIS TL RESEARCH")
 
-st.sidebar.write("AEGIS TL is a mathematically based algorithm that can rank future volatility. TL stands for Top List. There is a 100% correlation between volatility and returns, which can be proven mathematically. Since AEGIS can rank volatility, you can control 100% the desired volatility in your portfolio compared to the market. In this way, you can put together everything from a more cautious pension portfolio over to a strong alpha portfolio.")
+st.sidebar.write("AEGIS TL is a mathematically based algorithm that can rank future volatility. TL stands for Top List. There is a 100% correlation between volatility and returns, which is proven mathematically. Since AEGIS is able to rank volatility, you as investor can control 100% the desired volatility in your portfolio compared to the market. This way, you are able to build different portfolio profiles that range from a more cautious pension portfolio to a potent alpha portfolio.")
 
 with st.sidebar:
     components.html("""<hr style="height:5px;border:none;color:#48bc95;background-color:#48bc95;" /> """)
@@ -36,22 +36,22 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Key Figures", "Portfolio", 
 
 with tab1:
     st.subheader("Overview")
-    st.write("AEGIS is a 8 years research project. The main goal it to find new a better ways to protect a portfolio, than the traditional low gain volatility portfolio. A part of the research is also to come up with better models for measure results. So we can separate what is randomly and skills, and this can leads to better optimization and results.")
+    st.write("AEGIS is a 8-year research project. The main goal is to find new and better ways to protect a portfolio, than the traditional low gain volatility portfolio is able to provide. A part of the research is also to come up with better models for measure results. So we can separate results made randomly and results made from skills. This leads to better optimization and better results.")
     st.write("")
-    st.write("A traditionel portfolio is traditional not protected for market crash and tale risk like black swan. We find it more and more important to take this into account, according to a general global macro economy outlook.")
+    st.write("A traditionel portfolio is traditionally not protected against a market crash and tall risks like a black swan. We find it more and more important to take the risks into account, when looking to a general global macro economic outlook.")
     st.write("")
-    st.write("All results at this website is daily updated, based on results running on real accounts. For futher information and deep insight in the research results please write to: anders.hasle@icloud.com")
+    st.write("All results at this website is daily updated. The results are based on running real accounts. For futher information and deep insight in the research results, please write to: anders.hasle@icloud.com.")
     st.write("")
     st.write("")
     
     annotated_text(
         ("AEGIS objective", ":", "#48bc95"),
-        " To outperform the Benchmark over rolling 1-3 years periods ",
+        " To outperform the benchmark over rolling 1-3 years periods",
     )
     st.write("")
     annotated_text(
         ("AEGIS strategy", ":", "#8097a5"),
-        " AEGIS TL Quant Macro Alpha use the ability to rank volatility to achieve controlled alpha. The quant of macro data give a high probability to gain even in a bear market, as long the volatility in the market is under control.",
+        " AEGIS TL Quant Macro Alpha uses the ability to rank volatility to achieve controlled alpha portfolios. The quant of macro data gives a high probability to gain even in a bear market, as long as the volatility in the market is under control.",
     )    
     st.write("")     
     annotated_text(
@@ -61,7 +61,7 @@ with tab1:
     st.write("")    
     annotated_text(
         ("Top holdings", ":", "#e6535d"),
-        " Alle 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted ",
+        " All 30 stocks in AEGIS TL Quant Macro Alpha are equal weighted ",
     )     
     
     st.write("") 
@@ -75,7 +75,7 @@ with tab1:
     
     st.write("")
     
-    st.write("Quck disclaimer. We or AEGIS is not a qualified financial advisor. All information found in this site are based purely on my personal opimion and experieence from my research, and should not be construed as professional financial advice. You should talk to a licensed financial advisor and/or do your own research before makting any investments decisions.")
+    st.write("Quck disclaimer. I am not - nor is AEGIS - a licensed financial advisor. All information found in this site is purely based on my personal opinion and experience from own research and should not be construed as professional financial advice. Investors should talk to a licensed financial advisor and/or do their own research before makting any investment decisions.")
     
     
     
@@ -158,9 +158,9 @@ with tab4:
     
 with tab5:
     st.subheader("Probability & Correlation")     
-    st.write("The only mathematically correct way to validate a given result is using the binomial probability distribution")
+    st.write("The only mathematically correct way to validate a given result is to use the binomial probability distribution")
     st.write("")
-    st.write("The period needed to validate the validity of a result has nothing to do with the length of the track period, but how consistently we outperforms in the chosen time interval.")
+    st.write("The period needed to ensure the validity of a result has nothing to do with the length of the track period, but has to do with how consistently we outperform in the chosen time interval.")
     
  
     Sumorize = pd.DataFrame(pd.read_csv('Sumorize.csv'))
