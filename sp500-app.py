@@ -37,6 +37,10 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Key Figures", "Portfolio", 
 with tab1:
     st.subheader("Overview")
     st.write("AEGIS is a 8 years research project. The main goal it to find new a better ways to protect a portfolio, than the traditional low gain volatility portfolio. A part of the research is also to come up with better models for measure results. So we can separate what is randomly and skills, and this can leads to better optimization and results.")
+    st.write("")
+    st.write("A traditionel portfolio is traditional not protected for market crash and tale risk like black swan. We find it more and more important to take this into account, according to a general global macro economy outlook.")
+    st.write("")
+    st.write("")
     
     annotated_text(
         ("AEGIS objective", ":", "#48bc95"),
