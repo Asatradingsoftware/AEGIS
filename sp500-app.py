@@ -2,7 +2,7 @@ import streamlit as st
 from annotated_text import annotated_text
 import pandas as pd
 import base64
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as px
 import numpy as np
 import streamlit.components.v1 as components
 
@@ -68,7 +68,14 @@ with tab2:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")  
     
 with tab3:
-    st.subheader("Results for AEGIS TL Quant Macro Alpha")  
+    st.subheader("Portfolio")  
+    
+    New_porfolio = pd.DataFrame(pd.read_csv('All30Stocks.csv'))
+
+    New_porfolio["NumberStocks"] = 1/30
+
+    fig = px.pie(New_porfolio, values='NumberStocks', names='0', title='AEGIS TL Quant Macro Alpha')
+    st.write(fig)    
     
 with tab4:
     st.subheader("Results for AEGIS TL Quant Macro Alpha")      
